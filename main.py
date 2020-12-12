@@ -20,9 +20,9 @@ def convertJsonDataToCSV(songs: list, fileName: str = 'songs.csv'):
 
         for song in songs:
             s = "{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10},{11},{12},{13},{14},{15},{16},{17}".format(
-                song['name'],
+                song['name'].replace(',', ''),
                 '/'.join(i['name'] for i in song['artists']),
-                song['album']['name'],
+                song['album']['name'].replace(',', ''),
                 song['duration_ms'],
                 song['popularity'],
                 song['id'],
