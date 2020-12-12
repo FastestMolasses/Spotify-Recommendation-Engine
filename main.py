@@ -2,6 +2,7 @@ import os
 import json
 
 from time import sleep
+from config import Config
 from spotify import Spotify
 
 
@@ -44,7 +45,7 @@ def convertJsonDataToCSV(songs: list, fileName: str = 'songs.csv'):
 if __name__ == '__main__':
     # All songs I want to analyze are saved on a playlist
     spotify = Spotify()
-    songs = spotify.getPlaylistTracks('2eLQCgb9wUMllOCfg5RGTG')
+    songs = spotify.getPlaylistTracks(Config.TRAINING_PLAYLIST_ID)
 
     # Go through each song and add their analysis data
     for song in songs:
