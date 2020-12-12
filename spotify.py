@@ -1,6 +1,7 @@
 import base64
 import requests
 
+from time import sleep
 from config import Config
 
 
@@ -28,6 +29,30 @@ class Spotify:
 
         self.accessToken = resp.json()['access_token']
 
+    def getPlaylistTracks(self, playlistID: str) -> list:
+        """
+            Gets the information for all the tracks in a playlist.
+        """
+        songs = []
+        requestURL = f'https://api.spotify.com/v1/playlists/{playlistID}/tracks?fields=total,next,previous,items(track(name,href,duration_ms,album(name,id,images),artists(id,name),id,popularity,duration))'
+        while True:
+            resp = requests.get(requestURL,
+                                headers={
+                                    'Authorization': f'Bearer {self.accessToken}',
+                                }).json()
+
+            # Add all the songs to the list
+            songs.extend([i['track'] for i in resp['items']])
+
+            # Get the next batch of songs if they exist
+            if resp['next']:
+                requestURL = resp['next']
+                sleep(1)  # To avoid rate limit
+            else:
+                break
+
+        return songs
+
     def getTrack(self, trackID: str) -> dict:
         """
             Requests song information such as name, album and artist names.
@@ -41,9 +66,13 @@ class Spotify:
             'name': resp['name'],
             'popularity': resp['popularity'],
             'href': resp['href'],
-            'duration': resp['duration_ms'],
-            'albumName': resp['album']['name'],
-            'artists': [i['name'] for i in resp['artists']],
+            'duration_ms': resp['duration_ms'],
+            'album': {
+                'id': resp['album']['id'],
+                'images': resp['album']['images'],
+                'name': resp['album']['name'],
+            },
+            'artists': [{'name': i['name'], 'id': i['id']} for i in resp['artists']],
         }
 
     def getTrackAnalysis(self, trackID: str) -> dict:
