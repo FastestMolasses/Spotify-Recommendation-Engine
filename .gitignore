@@ -5,3 +5,7 @@ __pycache__/
 !requirements.txt
 .env
 *.json
+*.csv
+*.xlsx
+!data/*.json
+!data/*.csv
