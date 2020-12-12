@@ -36,6 +36,9 @@ Fill the .env file with your application client ID and secret like so:
 ```
 SPOTIFY_CLIENT_ID=<client id>
 SPOTIFY_SECRET=<application secret>
+TRAINING_PLAYLIST_ID=<your playlist ID>
 ```
 
-The Spotify script is now ready to be used to scrape song data.
+The playlist ID is the ID of the playlist you want to analyze. I recommend putting all the songs you want to anaylze into a new playlist and use that for your training.
+
+The Spotify script is now ready to be used to scrape song data. Run the `main.py` script in order to scrape and analyze your songs. Data will be saved in the `data/` folder.
