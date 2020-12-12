@@ -7851,5 +7851,2508 @@
             "tempo": 120.021,
             "track_href": "https://api.spotify.com/v1/tracks/2FTOLKjQUswhpdMFq15Raf"
         }
+    },
+    {
+        "album": {
+            "id": "3KrrIlAUxVlMa0PVE5jV1j",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730c4887060da7f88128376220",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020c4887060da7f88128376220",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510c4887060da7f88128376220",
+                    "width": 64
+                }
+            ],
+            "name": "Perplexing Pegasus"
+        },
+        "artists": [
+            {
+                "id": "7iZtZyCzp3LItcw1wtPI3D",
+                "name": "Rae Sremmurd"
+            }
+        ],
+        "duration_ms": 204787,
+        "href": "https://api.spotify.com/v1/tracks/2nYwV62UABTH0NanrwVIdQ",
+        "id": "2nYwV62UABTH0NanrwVIdQ",
+        "name": "Perplexing Pegasus",
+        "popularity": 0,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.000725,
+            "danceability": 0.897,
+            "energy": 0.448,
+            "instrumentalness": 1.17e-05,
+            "liveness": 0.365,
+            "loudness": -8.874,
+            "speechiness": 0.0766,
+            "valence": 0.316,
+            "tempo": 145.971,
+            "track_href": "https://api.spotify.com/v1/tracks/2nYwV62UABTH0NanrwVIdQ"
+        }
+    },
+    {
+        "album": {
+            "id": "4OHfmMUq6xwCo8zfQuc9Rf",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fbd8ead00d2fb0649a534212",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fbd8ead00d2fb0649a534212",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fbd8ead00d2fb0649a534212",
+                    "width": 64
+                }
+            ],
+            "name": "Slime Language"
+        },
+        "artists": [
+            {
+                "id": "50co4Is1HCEo8bhOyUWKpn",
+                "name": "Young Thug"
+            },
+            {
+                "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+                "name": "Young Stoner Life Records"
+            },
+            {
+                "id": "1DcWHZmzu1JT5IYWDDwHDU",
+                "name": "Tracy T"
+            }
+        ],
+        "duration_ms": 207333,
+        "href": "https://api.spotify.com/v1/tracks/0NoQpbfJ6n7KUY2YlZI1j6",
+        "id": "0NoQpbfJ6n7KUY2YlZI1j6",
+        "name": "Audemar (feat. Tracy T)",
+        "popularity": 45,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0296,
+            "danceability": 0.907,
+            "energy": 0.499,
+            "instrumentalness": 0,
+            "liveness": 0.118,
+            "loudness": -9.985,
+            "speechiness": 0.256,
+            "valence": 0.559,
+            "tempo": 131.97,
+            "track_href": "https://api.spotify.com/v1/tracks/0NoQpbfJ6n7KUY2YlZI1j6"
+        }
+    },
+    {
+        "album": {
+            "id": "0jqcY0azNzkluuC8hxNGlw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27387f32427f479a260cd94f8e5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0287f32427f479a260cd94f8e5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485187f32427f479a260cd94f8e5",
+                    "width": 64
+                }
+            ],
+            "name": "Ransom 2"
+        },
+        "artists": [
+            {
+                "id": "0NWbwDZY1VkRqFafuQm6wk",
+                "name": "Mike WiLL Made-It"
+            },
+            {
+                "id": "1RyvyyTE3xzB2ZywiAwp0i",
+                "name": "Future"
+            }
+        ],
+        "duration_ms": 216041,
+        "href": "https://api.spotify.com/v1/tracks/5rk2nRNREUq6TTSS7h11Fr",
+        "id": "5rk2nRNREUq6TTSS7h11Fr",
+        "name": "Razzle Dazzle (feat. Future)",
+        "popularity": 37,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.177,
+            "danceability": 0.769,
+            "energy": 0.603,
+            "instrumentalness": 0,
+            "liveness": 0.172,
+            "loudness": -5.815,
+            "speechiness": 0.088,
+            "valence": 0.255,
+            "tempo": 120.051,
+            "track_href": "https://api.spotify.com/v1/tracks/5rk2nRNREUq6TTSS7h11Fr"
+        }
+    },
+    {
+        "album": {
+            "id": "0fUy6IdLHDpGNwavIlhEsl",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b2592bea12d840fd096ef965",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b2592bea12d840fd096ef965",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b2592bea12d840fd096ef965",
+                    "width": 64
+                }
+            ],
+            "name": "DS2 (Deluxe)"
+        },
+        "artists": [
+            {
+                "id": "1RyvyyTE3xzB2ZywiAwp0i",
+                "name": "Future"
+            }
+        ],
+        "duration_ms": 190893,
+        "href": "https://api.spotify.com/v1/tracks/1Rq4GtIucW9CAcF8B6PAbW",
+        "id": "1Rq4GtIucW9CAcF8B6PAbW",
+        "name": "I Serve the Base",
+        "popularity": 51,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.011,
+            "danceability": 0.636,
+            "energy": 0.57,
+            "instrumentalness": 0.00204,
+            "liveness": 0.0677,
+            "loudness": -5.973,
+            "speechiness": 0.0571,
+            "valence": 0.0883,
+            "tempo": 168.202,
+            "track_href": "https://api.spotify.com/v1/tracks/1Rq4GtIucW9CAcF8B6PAbW"
+        }
+    },
+    {
+        "album": {
+            "id": "6NNqD3Z4ETW7AgEKjV6iII",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739f663240c837ec360d322b66",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029f663240c837ec360d322b66",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519f663240c837ec360d322b66",
+                    "width": 64
+                }
+            ],
+            "name": "SlimeBall 3"
+        },
+        "artists": [
+            {
+                "id": "5yPzzu25VzEk8qrGTLIrE1",
+                "name": "Young Nudy"
+            }
+        ],
+        "duration_ms": 163520,
+        "href": "https://api.spotify.com/v1/tracks/4qYVsAquxc797qD5sDVdcJ",
+        "id": "4qYVsAquxc797qD5sDVdcJ",
+        "name": "One Dolla",
+        "popularity": 48,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0375,
+            "danceability": 0.877,
+            "energy": 0.546,
+            "instrumentalness": 1.05e-05,
+            "liveness": 0.108,
+            "loudness": -4.953,
+            "speechiness": 0.158,
+            "valence": 0.624,
+            "tempo": 141.016,
+            "track_href": "https://api.spotify.com/v1/tracks/4qYVsAquxc797qD5sDVdcJ"
+        }
+    },
+    {
+        "album": {
+            "id": "4eLPsYPBmXABThSJ821sqY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518b52c6b9bc4e43d873869699",
+                    "width": 64
+                }
+            ],
+            "name": "DAMN."
+        },
+        "artists": [
+            {
+                "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                "name": "Kendrick Lamar"
+            }
+        ],
+        "duration_ms": 185946,
+        "href": "https://api.spotify.com/v1/tracks/6HZILIRieu8S0iqY8kIKhj",
+        "id": "6HZILIRieu8S0iqY8kIKhj",
+        "name": "DNA.",
+        "popularity": 78,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00454,
+            "danceability": 0.638,
+            "energy": 0.523,
+            "instrumentalness": 0,
+            "liveness": 0.0842,
+            "loudness": -6.664,
+            "speechiness": 0.357,
+            "valence": 0.422,
+            "tempo": 139.913,
+            "track_href": "https://api.spotify.com/v1/tracks/6HZILIRieu8S0iqY8kIKhj"
+        }
+    },
+    {
+        "album": {
+            "id": "4nwd6ernojhNIIRifDJoRz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e2accda06ebadfe3014c161b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e2accda06ebadfe3014c161b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e2accda06ebadfe3014c161b",
+                    "width": 64
+                }
+            ],
+            "name": "Still Brazy (Deluxe)"
+        },
+        "artists": [
+            {
+                "id": "0A0FS04o6zMoto8OKPsDwY",
+                "name": "YG"
+            }
+        ],
+        "duration_ms": 202520,
+        "href": "https://api.spotify.com/v1/tracks/5Uj2at1EGAaWCrLyEUuXBp",
+        "id": "5Uj2at1EGAaWCrLyEUuXBp",
+        "name": "Still Brazy",
+        "popularity": 50,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0478,
+            "danceability": 0.962,
+            "energy": 0.478,
+            "instrumentalness": 0,
+            "liveness": 0.161,
+            "loudness": -6.942,
+            "speechiness": 0.075,
+            "valence": 0.232,
+            "tempo": 105.939,
+            "track_href": "https://api.spotify.com/v1/tracks/5Uj2at1EGAaWCrLyEUuXBp"
+        }
+    },
+    {
+        "album": {
+            "id": "08XXyTmAv1vNghZS4p0ng2",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731f495241a4476b213b7ef76c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021f495241a4476b213b7ef76c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511f495241a4476b213b7ef76c",
+                    "width": 64
+                }
+            ],
+            "name": "Rather You Than Me"
+        },
+        "artists": [
+            {
+                "id": "1sBkRIssrMs1AbVkOJbc7a",
+                "name": "Rick Ross"
+            },
+            {
+                "id": "50co4Is1HCEo8bhOyUWKpn",
+                "name": "Young Thug"
+            },
+            {
+                "id": "67nwj3Y5sZQLl72VNUHEYE",
+                "name": "Wale"
+            }
+        ],
+        "duration_ms": 275720,
+        "href": "https://api.spotify.com/v1/tracks/1KZ0Xo6Mmeprp1Sw5xCHYz",
+        "id": "1KZ0Xo6Mmeprp1Sw5xCHYz",
+        "name": "Trap Trap Trap (feat. Young Thug & Wale)",
+        "popularity": 48,
+        "data": {
+            "key": 8,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.00612,
+            "danceability": 0.729,
+            "energy": 0.838,
+            "instrumentalness": 0,
+            "liveness": 0.0721,
+            "loudness": -4.476,
+            "speechiness": 0.313,
+            "valence": 0.349,
+            "tempo": 136.869,
+            "track_href": "https://api.spotify.com/v1/tracks/1KZ0Xo6Mmeprp1Sw5xCHYz"
+        }
+    },
+    {
+        "album": {
+            "id": "1gPqbxhs90kppgOVxGOPzd",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f705b14ca8b81af140d1f1d3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f705b14ca8b81af140d1f1d3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f705b14ca8b81af140d1f1d3",
+                    "width": 64
+                }
+            ],
+            "name": "The Never Story"
+        },
+        "artists": [
+            {
+                "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+                "name": "JID"
+            }
+        ],
+        "duration_ms": 241682,
+        "href": "https://api.spotify.com/v1/tracks/7hsulgRNgbyczeAg8tChCB",
+        "id": "7hsulgRNgbyczeAg8tChCB",
+        "name": "NEVER",
+        "popularity": 64,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0287,
+            "danceability": 0.594,
+            "energy": 0.645,
+            "instrumentalness": 1.66e-05,
+            "liveness": 0.0668,
+            "loudness": -7.45,
+            "speechiness": 0.315,
+            "valence": 0.205,
+            "tempo": 103.974,
+            "track_href": "https://api.spotify.com/v1/tracks/7hsulgRNgbyczeAg8tChCB"
+        }
+    },
+    {
+        "album": {
+            "id": "1NXM5lF9YB7a3f1e4R48oH",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739edc391d911405ea9f5c320e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029edc391d911405ea9f5c320e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519edc391d911405ea9f5c320e",
+                    "width": 64
+                }
+            ],
+            "name": "King's Dead (with Kendrick Lamar, Future & James Blake)"
+        },
+        "artists": [
+            {
+                "id": "28ExwzUQsvgJooOI0X1mr3",
+                "name": "Jay Rock"
+            },
+            {
+                "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                "name": "Kendrick Lamar"
+            },
+            {
+                "id": "1RyvyyTE3xzB2ZywiAwp0i",
+                "name": "Future"
+            },
+            {
+                "id": "53KwLdlmrlCelAZMaLVZqU",
+                "name": "James Blake"
+            }
+        ],
+        "duration_ms": 229670,
+        "href": "https://api.spotify.com/v1/tracks/51rXHuKN8Loc4sUlKPODgH",
+        "id": "51rXHuKN8Loc4sUlKPODgH",
+        "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+        "popularity": 72,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.000813,
+            "danceability": 0.645,
+            "energy": 0.705,
+            "instrumentalness": 0,
+            "liveness": 0.128,
+            "loudness": -5.008,
+            "speechiness": 0.299,
+            "valence": 0.376,
+            "tempo": 137.133,
+            "track_href": "https://api.spotify.com/v1/tracks/51rXHuKN8Loc4sUlKPODgH"
+        }
+    },
+    {
+        "album": {
+            "id": "1bnHPO4dKK7IjvgrtVBcQh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736fcd1b6e205d0d19d9efa0cc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026fcd1b6e205d0d19d9efa0cc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516fcd1b6e205d0d19d9efa0cc",
+                    "width": 64
+                }
+            ],
+            "name": "So Much Fun"
+        },
+        "artists": [
+            {
+                "id": "50co4Is1HCEo8bhOyUWKpn",
+                "name": "Young Thug"
+            }
+        ],
+        "duration_ms": 204026,
+        "href": "https://api.spotify.com/v1/tracks/0o7Zga5TFy35CcivyPDO5m",
+        "id": "0o7Zga5TFy35CcivyPDO5m",
+        "name": "Jumped Out the Window",
+        "popularity": 50,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00081,
+            "danceability": 0.928,
+            "energy": 0.515,
+            "instrumentalness": 0,
+            "liveness": 0.235,
+            "loudness": -8.306,
+            "speechiness": 0.0859,
+            "valence": 0.387,
+            "tempo": 138.049,
+            "track_href": "https://api.spotify.com/v1/tracks/0o7Zga5TFy35CcivyPDO5m"
+        }
+    },
+    {
+        "album": {
+            "id": "0qr1Fvi1haEDWVbFtekZLb",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ce9a92efb0c3ad4c2fb33072",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ce9a92efb0c3ad4c2fb33072",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ce9a92efb0c3ad4c2fb33072",
+                    "width": 64
+                }
+            ],
+            "name": "Cozy Tapes Vol. 2: Too Cozy"
+        },
+        "artists": [
+            {
+                "id": "7yO4IdJjCEPz7YgZMe25iS",
+                "name": "A$AP Mob"
+            },
+            {
+                "id": "13ubrt8QOOCPljQ2FL1Kca",
+                "name": "A$AP Rocky"
+            },
+            {
+                "id": "1uLYUm2A6kpFYAECfAFoH1",
+                "name": "A$AP NAST"
+            },
+            {
+                "id": "699OTQXzgjhIYAHMy9RyPD",
+                "name": "Playboi Carti"
+            },
+            {
+                "id": "0xOeVMOz2fVg5BJY3N6akT",
+                "name": "Jaden"
+            }
+        ],
+        "duration_ms": 146426,
+        "href": "https://api.spotify.com/v1/tracks/0PDwNx6GrHc5sRVy6Hc7GP",
+        "id": "0PDwNx6GrHc5sRVy6Hc7GP",
+        "name": "Perry Aye (feat. A$AP Rocky, A$AP Nast, Playboi Carti & Jaden Smith)",
+        "popularity": 53,
+        "data": {
+            "key": 5,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0483,
+            "danceability": 0.919,
+            "energy": 0.535,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -5.944,
+            "speechiness": 0.093,
+            "valence": 0.197,
+            "tempo": 117.957,
+            "track_href": "https://api.spotify.com/v1/tracks/0PDwNx6GrHc5sRVy6Hc7GP"
+        }
+    },
+    {
+        "album": {
+            "id": "6JfjkZevPkcrVop48QOEL1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731fe0d4a3fd56f3d6d81e75eb",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021fe0d4a3fd56f3d6d81e75eb",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511fe0d4a3fd56f3d6d81e75eb",
+                    "width": 64
+                }
+            ],
+            "name": "Paranoia: A True Story"
+        },
+        "artists": [
+            {
+                "id": "7e10JUMF7MJmmwYpnTSMI5",
+                "name": "Dave East"
+            },
+            {
+                "id": "137W8MRPWKqSmrBGDBFSop",
+                "name": "Wiz Khalifa"
+            }
+        ],
+        "duration_ms": 247226,
+        "href": "https://api.spotify.com/v1/tracks/6HicBL9RxtWwNK7sS2AHHU",
+        "id": "6HicBL9RxtWwNK7sS2AHHU",
+        "name": "Phone Jumpin",
+        "popularity": 55,
+        "data": {
+            "key": 9,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0216,
+            "danceability": 0.632,
+            "energy": 0.767,
+            "instrumentalness": 0,
+            "liveness": 0.378,
+            "loudness": -4.002,
+            "speechiness": 0.232,
+            "valence": 0.622,
+            "tempo": 140.14,
+            "track_href": "https://api.spotify.com/v1/tracks/6HicBL9RxtWwNK7sS2AHHU"
+        }
+    },
+    {
+        "album": {
+            "id": "1ATL5GLyefJaxhQzSPVrLX",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f907de96b9a4fbc04accc0d5",
+                    "width": 64
+                }
+            ],
+            "name": "Scorpion"
+        },
+        "artists": [
+            {
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake"
+            }
+        ],
+        "duration_ms": 238614,
+        "href": "https://api.spotify.com/v1/tracks/0TlLq3lA83rQOYtrqBqSct",
+        "id": "0TlLq3lA83rQOYtrqBqSct",
+        "name": "Nonstop",
+        "popularity": 79,
+        "data": {
+            "key": 7,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0165,
+            "danceability": 0.912,
+            "energy": 0.412,
+            "instrumentalness": 0.0126,
+            "liveness": 0.104,
+            "loudness": -8.074,
+            "speechiness": 0.123,
+            "valence": 0.423,
+            "tempo": 154.983,
+            "track_href": "https://api.spotify.com/v1/tracks/0TlLq3lA83rQOYtrqBqSct"
+        }
+    },
+    {
+        "album": {
+            "id": "5QNIFVnhZn80T3EteDzvgW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e2ec215a4d910a6a6325b138",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e2ec215a4d910a6a6325b138",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e2ec215a4d910a6a6325b138",
+                    "width": 64
+                }
+            ],
+            "name": "Dum and Dummer"
+        },
+        "artists": [
+            {
+                "id": "3HiuzBlSW7pGDXlSFMhO2g",
+                "name": "Young Dolph"
+            },
+            {
+                "id": "0RESbWvOMyua0yuyVrztJ5",
+                "name": "Key Glock"
+            }
+        ],
+        "duration_ms": 223520,
+        "href": "https://api.spotify.com/v1/tracks/5YGhm6pI5s0uxJ2DwrDYqO",
+        "id": "5YGhm6pI5s0uxJ2DwrDYqO",
+        "name": "Water on Water on Water",
+        "popularity": 64,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0118,
+            "danceability": 0.919,
+            "energy": 0.56,
+            "instrumentalness": 0,
+            "liveness": 0.0963,
+            "loudness": -5.221,
+            "speechiness": 0.3,
+            "valence": 0.382,
+            "tempo": 141.001,
+            "track_href": "https://api.spotify.com/v1/tracks/5YGhm6pI5s0uxJ2DwrDYqO"
+        }
+    },
+    {
+        "album": {
+            "id": "1VAc77UvK5wj8ZSWCo3V2b",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273046527a9c176f7c2916f3530",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02046527a9c176f7c2916f3530",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851046527a9c176f7c2916f3530",
+                    "width": 64
+                }
+            ],
+            "name": "The Beautiful & Damned"
+        },
+        "artists": [
+            {
+                "id": "02kJSzxNuaWGqwubyUba0Z",
+                "name": "G-Eazy"
+            },
+            {
+                "id": "13ubrt8QOOCPljQ2FL1Kca",
+                "name": "A$AP Rocky"
+            },
+            {
+                "id": "4kYSro6naA4h99UJvo89HB",
+                "name": "Cardi B"
+            }
+        ],
+        "duration_ms": 245386,
+        "href": "https://api.spotify.com/v1/tracks/2DQ1ITjI0YoLFzuADN1ZBW",
+        "id": "2DQ1ITjI0YoLFzuADN1ZBW",
+        "name": "No Limit",
+        "popularity": 75,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0117,
+            "danceability": 0.838,
+            "energy": 0.771,
+            "instrumentalness": 0,
+            "liveness": 0.0853,
+            "loudness": -3.791,
+            "speechiness": 0.244,
+            "valence": 0.405,
+            "tempo": 175.957,
+            "track_href": "https://api.spotify.com/v1/tracks/2DQ1ITjI0YoLFzuADN1ZBW"
+        }
+    },
+    {
+        "album": {
+            "id": "622gmiTAUET3WtAZq8aXtS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b4e320aee99bd87662d85178",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b4e320aee99bd87662d85178",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b4e320aee99bd87662d85178",
+                    "width": 64
+                }
+            ],
+            "name": "Vacation In Hell"
+        },
+        "artists": [
+            {
+                "id": "1dqGS5sT6PE2wEvP1gROZC",
+                "name": "Flatbush Zombies"
+            },
+            {
+                "id": "45a6gCQWq61lIUDmr1tKuO",
+                "name": "Bun B"
+            }
+        ],
+        "duration_ms": 267373,
+        "href": "https://api.spotify.com/v1/tracks/2HEACm14WJGvQZpQ2TKoqK",
+        "id": "2HEACm14WJGvQZpQ2TKoqK",
+        "name": "Reel Girls (feat. Bun B)",
+        "popularity": 43,
+        "data": {
+            "key": 10,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0407,
+            "danceability": 0.807,
+            "energy": 0.523,
+            "instrumentalness": 0,
+            "liveness": 0.606,
+            "loudness": -6.651,
+            "speechiness": 0.298,
+            "valence": 0.203,
+            "tempo": 154.823,
+            "track_href": "https://api.spotify.com/v1/tracks/2HEACm14WJGvQZpQ2TKoqK"
+        }
+    },
+    {
+        "album": {
+            "id": "6OQ9gBfg5EXeNAEwGSs6jK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bba7cfaf7c59ff0898acba1f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+                    "width": 64
+                }
+            ],
+            "name": "Dark Lane Demo Tapes"
+        },
+        "artists": [
+            {
+                "id": "1RyvyyTE3xzB2ZywiAwp0i",
+                "name": "Future"
+            },
+            {
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake"
+            },
+            {
+                "id": "50co4Is1HCEo8bhOyUWKpn",
+                "name": "Young Thug"
+            }
+        ],
+        "duration_ms": 189176,
+        "href": "https://api.spotify.com/v1/tracks/5fHrHoJKfCgBd35zwIBmUK",
+        "id": "5fHrHoJKfCgBd35zwIBmUK",
+        "name": "D4L",
+        "popularity": 68,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0128,
+            "danceability": 0.718,
+            "energy": 0.706,
+            "instrumentalness": 0,
+            "liveness": 0.352,
+            "loudness": -5.709,
+            "speechiness": 0.06,
+            "valence": 0.815,
+            "tempo": 170.004,
+            "track_href": "https://api.spotify.com/v1/tracks/5fHrHoJKfCgBd35zwIBmUK"
+        }
+    },
+    {
+        "album": {
+            "id": "2CYr9450iYkEWq4IWL8plY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735ee839f6415e0d02fc4f2b49",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025ee839f6415e0d02fc4f2b49",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515ee839f6415e0d02fc4f2b49",
+                    "width": 64
+                }
+            ],
+            "name": "Lil Boat 3"
+        },
+        "artists": [
+            {
+                "id": "6icQOAFXDZKsumw3YXyusw",
+                "name": "Lil Yachty"
+            }
+        ],
+        "duration_ms": 151431,
+        "href": "https://api.spotify.com/v1/tracks/2xv48INYWXzGfcHRUxekM9",
+        "id": "2xv48INYWXzGfcHRUxekM9",
+        "name": "Westside",
+        "popularity": 46,
+        "data": {
+            "key": 6,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0302,
+            "danceability": 0.916,
+            "energy": 0.704,
+            "instrumentalness": 0,
+            "liveness": 0.11,
+            "loudness": -4.065,
+            "speechiness": 0.235,
+            "valence": 0.812,
+            "tempo": 145.981,
+            "track_href": "https://api.spotify.com/v1/tracks/2xv48INYWXzGfcHRUxekM9"
+        }
+    },
+    {
+        "album": {
+            "id": "7eJt0QB6bN6JiqoBTVO7KS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f48dbd903d807f4c75b596cf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f48dbd903d807f4c75b596cf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f48dbd903d807f4c75b596cf",
+                    "width": 64
+                }
+            ],
+            "name": "Time Served (Deluxe)"
+        },
+        "artists": [
+            {
+                "id": "3tJoFztHeIJkJWMrx0td2f",
+                "name": "Moneybagg Yo"
+            }
+        ],
+        "duration_ms": 183318,
+        "href": "https://api.spotify.com/v1/tracks/1lUTmmPMAsxZBR2iK9CKDF",
+        "id": "1lUTmmPMAsxZBR2iK9CKDF",
+        "name": "Me Vs Me",
+        "popularity": 71,
+        "data": {
+            "key": 5,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.205,
+            "danceability": 0.853,
+            "energy": 0.821,
+            "instrumentalness": 0,
+            "liveness": 0.209,
+            "loudness": -4.537,
+            "speechiness": 0.209,
+            "valence": 0.625,
+            "tempo": 130.999,
+            "track_href": "https://api.spotify.com/v1/tracks/1lUTmmPMAsxZBR2iK9CKDF"
+        }
+    },
+    {
+        "album": {
+            "id": "4QUNWTw2FsIz722xjUjFJw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ac3c0aecec76cd7b5a54795e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ac3c0aecec76cd7b5a54795e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ac3c0aecec76cd7b5a54795e",
+                    "width": 64
+                }
+            ],
+            "name": "Issa Album"
+        },
+        "artists": [
+            {
+                "id": "1URnnhqYAYcrqrcwql10ft",
+                "name": "21 Savage"
+            }
+        ],
+        "duration_ms": 431586,
+        "href": "https://api.spotify.com/v1/tracks/5aZrmUOr1kL5U6cg0WZNyw",
+        "id": "5aZrmUOr1kL5U6cg0WZNyw",
+        "name": "7 Min Freestyle",
+        "popularity": 55,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0723,
+            "danceability": 0.844,
+            "energy": 0.454,
+            "instrumentalness": 0.787,
+            "liveness": 0.126,
+            "loudness": -9.028,
+            "speechiness": 0.259,
+            "valence": 0.274,
+            "tempo": 155.029,
+            "track_href": "https://api.spotify.com/v1/tracks/5aZrmUOr1kL5U6cg0WZNyw"
+        }
+    },
+    {
+        "album": {
+            "id": "6PkSBdx19zarn4ae1D08gA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735d46e4578c8e1adad9206480",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025d46e4578c8e1adad9206480",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515d46e4578c8e1adad9206480",
+                    "width": 64
+                }
+            ],
+            "name": "ZUU"
+        },
+        "artists": [
+            {
+                "id": "6fxyWrfmjcbj5d12gXeiNV",
+                "name": "Denzel Curry"
+            },
+            {
+                "id": "5xkFVS6IwwgHEAaRzXc9U3",
+                "name": "Tay Keith"
+            }
+        ],
+        "duration_ms": 182520,
+        "href": "https://api.spotify.com/v1/tracks/2TqfASuL5JRds7bJX01PdZ",
+        "id": "2TqfASuL5JRds7bJX01PdZ",
+        "name": "AUTOMATIC",
+        "popularity": 52,
+        "data": {
+            "key": 2,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00488,
+            "danceability": 0.818,
+            "energy": 0.648,
+            "instrumentalness": 0,
+            "liveness": 0.077,
+            "loudness": -5.899,
+            "speechiness": 0.0914,
+            "valence": 0.374,
+            "tempo": 140.058,
+            "track_href": "https://api.spotify.com/v1/tracks/2TqfASuL5JRds7bJX01PdZ"
+        }
+    },
+    {
+        "album": {
+            "id": "3PASWLvNfvfMF68dDznEgK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739325c863d9139cc2d507421b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029325c863d9139cc2d507421b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519325c863d9139cc2d507421b",
+                    "width": 64
+                }
+            ],
+            "name": "Racks 2 Skinny"
+        },
+        "artists": [
+            {
+                "id": "6oMuImdp5ZcFhWP0ESe6mG",
+                "name": "Migos"
+            }
+        ],
+        "duration_ms": 178024,
+        "href": "https://api.spotify.com/v1/tracks/568OIKgeHyGRD3uWR44JbO",
+        "id": "568OIKgeHyGRD3uWR44JbO",
+        "name": "Racks 2 Skinny",
+        "popularity": 67,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00839,
+            "danceability": 0.814,
+            "energy": 0.584,
+            "instrumentalness": 0,
+            "liveness": 0.0646,
+            "loudness": -5.425,
+            "speechiness": 0.0819,
+            "valence": 0.405,
+            "tempo": 141.016,
+            "track_href": "https://api.spotify.com/v1/tracks/568OIKgeHyGRD3uWR44JbO"
+        }
+    },
+    {
+        "album": {
+            "id": "2AvupjUeMnSffKEV05x222",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27399a8ab6da9d593939302828a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0299a8ab6da9d593939302828a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485199a8ab6da9d593939302828a",
+                    "width": 64
+                }
+            ],
+            "name": "Culture"
+        },
+        "artists": [
+            {
+                "id": "6oMuImdp5ZcFhWP0ESe6mG",
+                "name": "Migos"
+            },
+            {
+                "id": "4O15NlyKLIASxsJ0PrXPfz",
+                "name": "Lil Uzi Vert"
+            }
+        ],
+        "duration_ms": 343150,
+        "href": "https://api.spotify.com/v1/tracks/4Km5HrUvYTaSUfiSGPJeQR",
+        "id": "4Km5HrUvYTaSUfiSGPJeQR",
+        "name": "Bad and Boujee (feat. Lil Uzi Vert)",
+        "popularity": 77,
+        "data": {
+            "key": 11,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.061,
+            "danceability": 0.927,
+            "energy": 0.665,
+            "instrumentalness": 0,
+            "liveness": 0.123,
+            "loudness": -5.313,
+            "speechiness": 0.244,
+            "valence": 0.175,
+            "tempo": 127.076,
+            "track_href": "https://api.spotify.com/v1/tracks/4Km5HrUvYTaSUfiSGPJeQR"
+        }
+    },
+    {
+        "album": {
+            "id": "2AvupjUeMnSffKEV05x222",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27399a8ab6da9d593939302828a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0299a8ab6da9d593939302828a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485199a8ab6da9d593939302828a",
+                    "width": 64
+                }
+            ],
+            "name": "Culture"
+        },
+        "artists": [
+            {
+                "id": "6oMuImdp5ZcFhWP0ESe6mG",
+                "name": "Migos"
+            },
+            {
+                "id": "13y7CgLHjMVRMDqxdx0Xdo",
+                "name": "Gucci Mane"
+            }
+        ],
+        "duration_ms": 304041,
+        "href": "https://api.spotify.com/v1/tracks/6p8NuHm8uCGnn2Dtbtf7zE",
+        "id": "6p8NuHm8uCGnn2Dtbtf7zE",
+        "name": "Slippery (feat. Gucci Mane)",
+        "popularity": 73,
+        "data": {
+            "key": 1,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.307,
+            "danceability": 0.92,
+            "energy": 0.674,
+            "instrumentalness": 0,
+            "liveness": 0.104,
+            "loudness": -5.662,
+            "speechiness": 0.264,
+            "valence": 0.741,
+            "tempo": 141.967,
+            "track_href": "https://api.spotify.com/v1/tracks/6p8NuHm8uCGnn2Dtbtf7zE"
+        }
+    },
+    {
+        "album": {
+            "id": "2AvupjUeMnSffKEV05x222",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27399a8ab6da9d593939302828a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0299a8ab6da9d593939302828a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485199a8ab6da9d593939302828a",
+                    "width": 64
+                }
+            ],
+            "name": "Culture"
+        },
+        "artists": [
+            {
+                "id": "6oMuImdp5ZcFhWP0ESe6mG",
+                "name": "Migos"
+            }
+        ],
+        "duration_ms": 232705,
+        "href": "https://api.spotify.com/v1/tracks/0jOfl1nZf6sVBTG08Q4brn",
+        "id": "0jOfl1nZf6sVBTG08Q4brn",
+        "name": "Call Casting",
+        "popularity": 53,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0962,
+            "danceability": 0.852,
+            "energy": 0.727,
+            "instrumentalness": 0,
+            "liveness": 0.154,
+            "loudness": -4.851,
+            "speechiness": 0.267,
+            "valence": 0.496,
+            "tempo": 130.014,
+            "track_href": "https://api.spotify.com/v1/tracks/0jOfl1nZf6sVBTG08Q4brn"
+        }
+    },
+    {
+        "album": {
+            "id": "41GuZcammIkupMPKH2OJ6I",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02072e9faef2ef7b6db63834a3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851072e9faef2ef7b6db63834a3",
+                    "width": 64
+                }
+            ],
+            "name": "ASTROWORLD"
+        },
+        "artists": [
+            {
+                "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+                "name": "Travis Scott"
+            }
+        ],
+        "duration_ms": 270714,
+        "href": "https://api.spotify.com/v1/tracks/7wBJfHzpfI3032CSD7CE2m",
+        "id": "7wBJfHzpfI3032CSD7CE2m",
+        "name": "STARGAZING",
+        "popularity": 80,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00947,
+            "danceability": 0.487,
+            "energy": 0.789,
+            "instrumentalness": 4.05e-06,
+            "liveness": 0.189,
+            "loudness": -3.69,
+            "speechiness": 0.044,
+            "valence": 0.0564,
+            "tempo": 150.007,
+            "track_href": "https://api.spotify.com/v1/tracks/7wBJfHzpfI3032CSD7CE2m"
+        }
+    },
+    {
+        "album": {
+            "id": "41GuZcammIkupMPKH2OJ6I",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02072e9faef2ef7b6db63834a3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851072e9faef2ef7b6db63834a3",
+                    "width": 64
+                }
+            ],
+            "name": "ASTROWORLD"
+        },
+        "artists": [
+            {
+                "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+                "name": "Travis Scott"
+            }
+        ],
+        "duration_ms": 198408,
+        "href": "https://api.spotify.com/v1/tracks/27a1mYSG5tYg7dmEjWBcmL",
+        "id": "27a1mYSG5tYg7dmEjWBcmL",
+        "name": "CAN'T SAY",
+        "popularity": 79,
+        "data": {
+            "key": 10,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.201,
+            "danceability": 0.702,
+            "energy": 0.708,
+            "instrumentalness": 0,
+            "liveness": 0.118,
+            "loudness": -5.366,
+            "speechiness": 0.0547,
+            "valence": 0.713,
+            "tempo": 147.98,
+            "track_href": "https://api.spotify.com/v1/tracks/27a1mYSG5tYg7dmEjWBcmL"
+        }
+    },
+    {
+        "album": {
+            "id": "7ycBtnsMtyVbbwTfJwRjSP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851cdb645498cd3d8a2db4d05e1",
+                    "width": 64
+                }
+            ],
+            "name": "To Pimp A Butterfly"
+        },
+        "artists": [
+            {
+                "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                "name": "Kendrick Lamar"
+            },
+            {
+                "id": "2GVBp7QyHckoOg7rYkLvrA",
+                "name": "George Clinton"
+            },
+            {
+                "id": "4frXpPxQQZwbCu3eTGnZEw",
+                "name": "Thundercat"
+            }
+        ],
+        "duration_ms": 287360,
+        "href": "https://api.spotify.com/v1/tracks/7Ks4VCY1wFebnOdJrM13t6",
+        "id": "7Ks4VCY1wFebnOdJrM13t6",
+        "name": "Wesley's Theory",
+        "popularity": 63,
+        "data": {
+            "key": 7,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.359,
+            "danceability": 0.509,
+            "energy": 0.787,
+            "instrumentalness": 2.76e-05,
+            "liveness": 0.26,
+            "loudness": -6.754,
+            "speechiness": 0.265,
+            "valence": 0.507,
+            "tempo": 114.449,
+            "track_href": "https://api.spotify.com/v1/tracks/7Ks4VCY1wFebnOdJrM13t6"
+        }
+    },
+    {
+        "album": {
+            "id": "4eLPsYPBmXABThSJ821sqY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518b52c6b9bc4e43d873869699",
+                    "width": 64
+                }
+            ],
+            "name": "DAMN."
+        },
+        "artists": [
+            {
+                "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                "name": "Kendrick Lamar"
+            }
+        ],
+        "duration_ms": 177000,
+        "href": "https://api.spotify.com/v1/tracks/7KXjTSCq5nL1LoYtL7XAwS",
+        "id": "7KXjTSCq5nL1LoYtL7XAwS",
+        "name": "HUMBLE.",
+        "popularity": 82,
+        "data": {
+            "key": 1,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.000282,
+            "danceability": 0.908,
+            "energy": 0.621,
+            "instrumentalness": 5.39e-05,
+            "liveness": 0.0958,
+            "loudness": -6.638,
+            "speechiness": 0.102,
+            "valence": 0.421,
+            "tempo": 150.011,
+            "track_href": "https://api.spotify.com/v1/tracks/7KXjTSCq5nL1LoYtL7XAwS"
+        }
+    },
+    {
+        "album": {
+            "id": "7ycBtnsMtyVbbwTfJwRjSP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851cdb645498cd3d8a2db4d05e1",
+                    "width": 64
+                }
+            ],
+            "name": "To Pimp A Butterfly"
+        },
+        "artists": [
+            {
+                "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                "name": "Kendrick Lamar"
+            }
+        ],
+        "duration_ms": 328826,
+        "href": "https://api.spotify.com/v1/tracks/5Mtt6tZSZA9cXTHGSGpyh0",
+        "id": "5Mtt6tZSZA9cXTHGSGpyh0",
+        "name": "The Blacker The Berry",
+        "popularity": 61,
+        "data": {
+            "key": 10,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.00713,
+            "danceability": 0.553,
+            "energy": 0.852,
+            "instrumentalness": 0,
+            "liveness": 0.463,
+            "loudness": -4.08,
+            "speechiness": 0.305,
+            "valence": 0.27,
+            "tempo": 176.058,
+            "track_href": "https://api.spotify.com/v1/tracks/5Mtt6tZSZA9cXTHGSGpyh0"
+        }
+    },
+    {
+        "album": {
+            "id": "3DGQ1iZ9XKUQxAUWjfC34w",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d58e537cea05c2156792c53d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d58e537cea05c2156792c53d",
+                    "width": 64
+                }
+            ],
+            "name": "good kid, m.A.A.d city (Deluxe)"
+        },
+        "artists": [
+            {
+                "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                "name": "Kendrick Lamar"
+            },
+            {
+                "id": "4XqfpACObRB5AsBcUYjL8X",
+                "name": "MC Eiht"
+            }
+        ],
+        "duration_ms": 350120,
+        "href": "https://api.spotify.com/v1/tracks/2cDCojn6uIBM6A5xTAbl3H",
+        "id": "2cDCojn6uIBM6A5xTAbl3H",
+        "name": "m.A.A.d city",
+        "popularity": 65,
+        "data": {
+            "key": 2,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0538,
+            "danceability": 0.487,
+            "energy": 0.729,
+            "instrumentalness": 4.07e-06,
+            "liveness": 0.44,
+            "loudness": -6.815,
+            "speechiness": 0.271,
+            "valence": 0.217,
+            "tempo": 91.048,
+            "track_href": "https://api.spotify.com/v1/tracks/2cDCojn6uIBM6A5xTAbl3H"
+        }
+    },
+    {
+        "album": {
+            "id": "3DGQ1iZ9XKUQxAUWjfC34w",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d58e537cea05c2156792c53d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d58e537cea05c2156792c53d",
+                    "width": 64
+                }
+            ],
+            "name": "good kid, m.A.A.d city (Deluxe)"
+        },
+        "artists": [
+            {
+                "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                "name": "Kendrick Lamar"
+            }
+        ],
+        "duration_ms": 212653,
+        "href": "https://api.spotify.com/v1/tracks/3aGibUHhQyBsyumYHylw0K",
+        "id": "3aGibUHhQyBsyumYHylw0K",
+        "name": "Backseat Freestyle",
+        "popularity": 67,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.000739,
+            "danceability": 0.546,
+            "energy": 0.651,
+            "instrumentalness": 0,
+            "liveness": 0.235,
+            "loudness": -7.601,
+            "speechiness": 0.3,
+            "valence": 0.646,
+            "tempo": 77.878,
+            "track_href": "https://api.spotify.com/v1/tracks/3aGibUHhQyBsyumYHylw0K"
+        }
+    },
+    {
+        "album": {
+            "id": "2ODvWsOgouMbaA5xf0RkJe",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514718e2b124f79258be7bc452",
+                    "width": 64
+                }
+            ],
+            "name": "Starboy"
+        },
+        "artists": [
+            {
+                "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                "name": "The Weeknd"
+            },
+            {
+                "id": "4tZwfgrHOc3mvqYlEYSvVi",
+                "name": "Daft Punk"
+            }
+        ],
+        "duration_ms": 230453,
+        "href": "https://api.spotify.com/v1/tracks/7MXVkk9YMctZqd1Srtv4MB",
+        "id": "7MXVkk9YMctZqd1Srtv4MB",
+        "name": "Starboy",
+        "popularity": 84,
+        "data": {
+            "key": 7,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.141,
+            "danceability": 0.679,
+            "energy": 0.587,
+            "instrumentalness": 6.35e-06,
+            "liveness": 0.137,
+            "loudness": -7.015,
+            "speechiness": 0.276,
+            "valence": 0.486,
+            "tempo": 186.003,
+            "track_href": "https://api.spotify.com/v1/tracks/7MXVkk9YMctZqd1Srtv4MB"
+        }
+    },
+    {
+        "album": {
+            "id": "2ODvWsOgouMbaA5xf0RkJe",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514718e2b124f79258be7bc452",
+                    "width": 64
+                }
+            ],
+            "name": "Starboy"
+        },
+        "artists": [
+            {
+                "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                "name": "The Weeknd"
+            }
+        ],
+        "duration_ms": 249213,
+        "href": "https://api.spotify.com/v1/tracks/4F7A0DXBrmUAkp32uenhZt",
+        "id": "4F7A0DXBrmUAkp32uenhZt",
+        "name": "Party Monster",
+        "popularity": 73,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.189,
+            "danceability": 0.573,
+            "energy": 0.63,
+            "instrumentalness": 2.31e-05,
+            "liveness": 0.259,
+            "loudness": -8.389,
+            "speechiness": 0.105,
+            "valence": 0.218,
+            "tempo": 77.525,
+            "track_href": "https://api.spotify.com/v1/tracks/4F7A0DXBrmUAkp32uenhZt"
+        }
+    },
+    {
+        "album": {
+            "id": "7gsWAHLeT0w7es6FofOXk1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022a7db835b912dc5014bd37f4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512a7db835b912dc5014bd37f4",
+                    "width": 64
+                }
+            ],
+            "name": "The Life Of Pablo"
+        },
+        "artists": [
+            {
+                "id": "5K4W6rqBFWDnAN6FQUkS6x",
+                "name": "Kanye West"
+            }
+        ],
+        "duration_ms": 374413,
+        "href": "https://api.spotify.com/v1/tracks/0zLClc0emc6qUeV1p5nc99",
+        "id": "0zLClc0emc6qUeV1p5nc99",
+        "name": "No More Parties In LA",
+        "popularity": 67,
+        "data": {
+            "key": 5,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.246,
+            "danceability": 0.508,
+            "energy": 0.921,
+            "instrumentalness": 0,
+            "liveness": 0.221,
+            "loudness": -1.644,
+            "speechiness": 0.303,
+            "valence": 0.681,
+            "tempo": 93.058,
+            "track_href": "https://api.spotify.com/v1/tracks/0zLClc0emc6qUeV1p5nc99"
+        }
+    },
+    {
+        "album": {
+            "id": "28UAekns23I51HBjwmAaAN",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735d645f82d8e83bc9ff1b2b9c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025d645f82d8e83bc9ff1b2b9c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515d645f82d8e83bc9ff1b2b9c",
+                    "width": 64
+                }
+            ],
+            "name": "Gotti Outta Here"
+        },
+        "artists": [
+            {
+                "id": "0dvFTsuG02c4cRbcSQ8zE6",
+                "name": "Yak Gotti"
+            },
+            {
+                "id": "4v57dnvUDhdrvsq2f0nqJ9",
+                "name": "Demon Child"
+            },
+            {
+                "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+                "name": "Gunna"
+            }
+        ],
+        "duration_ms": 143111,
+        "href": "https://api.spotify.com/v1/tracks/586NBLeYCKcm1xzl0UkLrS",
+        "id": "586NBLeYCKcm1xzl0UkLrS",
+        "name": "Rock Solid (feat. Gunna & Demon Child)",
+        "popularity": 46,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.202,
+            "danceability": 0.789,
+            "energy": 0.639,
+            "instrumentalness": 0,
+            "liveness": 0.175,
+            "loudness": -5.903,
+            "speechiness": 0.351,
+            "valence": 0.623,
+            "tempo": 134.937,
+            "track_href": "https://api.spotify.com/v1/tracks/586NBLeYCKcm1xzl0UkLrS"
+        }
+    },
+    {
+        "album": {
+            "id": "28UAekns23I51HBjwmAaAN",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735d645f82d8e83bc9ff1b2b9c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025d645f82d8e83bc9ff1b2b9c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515d645f82d8e83bc9ff1b2b9c",
+                    "width": 64
+                }
+            ],
+            "name": "Gotti Outta Here"
+        },
+        "artists": [
+            {
+                "id": "0dvFTsuG02c4cRbcSQ8zE6",
+                "name": "Yak Gotti"
+            },
+            {
+                "id": "06Qf6vq8AVIpE9XIw8LAsY",
+                "name": "Lil Duke"
+            }
+        ],
+        "duration_ms": 174545,
+        "href": "https://api.spotify.com/v1/tracks/4CyVNT1GetKtrMllHm4ts2",
+        "id": "4CyVNT1GetKtrMllHm4ts2",
+        "name": "Lemonade (feat. Lil Duke)",
+        "popularity": 35,
+        "data": {
+            "key": 9,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0846,
+            "danceability": 0.727,
+            "energy": 0.659,
+            "instrumentalness": 0,
+            "liveness": 0.135,
+            "loudness": -7.965,
+            "speechiness": 0.322,
+            "valence": 0.622,
+            "tempo": 142.863,
+            "track_href": "https://api.spotify.com/v1/tracks/4CyVNT1GetKtrMllHm4ts2"
+        }
+    },
+    {
+        "album": {
+            "id": "28UAekns23I51HBjwmAaAN",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735d645f82d8e83bc9ff1b2b9c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025d645f82d8e83bc9ff1b2b9c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515d645f82d8e83bc9ff1b2b9c",
+                    "width": 64
+                }
+            ],
+            "name": "Gotti Outta Here"
+        },
+        "artists": [
+            {
+                "id": "0dvFTsuG02c4cRbcSQ8zE6",
+                "name": "Yak Gotti"
+            }
+        ],
+        "duration_ms": 180821,
+        "href": "https://api.spotify.com/v1/tracks/4J40RO4Bu5v9kFly7LXO2C",
+        "id": "4J40RO4Bu5v9kFly7LXO2C",
+        "name": "In The Coupe",
+        "popularity": 36,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00685,
+            "danceability": 0.746,
+            "energy": 0.551,
+            "instrumentalness": 0.00103,
+            "liveness": 0.11,
+            "loudness": -9.537,
+            "speechiness": 0.102,
+            "valence": 0.213,
+            "tempo": 146.023,
+            "track_href": "https://api.spotify.com/v1/tracks/4J40RO4Bu5v9kFly7LXO2C"
+        }
+    },
+    {
+        "album": {
+            "id": "28UAekns23I51HBjwmAaAN",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735d645f82d8e83bc9ff1b2b9c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025d645f82d8e83bc9ff1b2b9c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515d645f82d8e83bc9ff1b2b9c",
+                    "width": 64
+                }
+            ],
+            "name": "Gotti Outta Here"
+        },
+        "artists": [
+            {
+                "id": "0dvFTsuG02c4cRbcSQ8zE6",
+                "name": "Yak Gotti"
+            },
+            {
+                "id": "6vv9MooabxcG6oEZAzrgnF",
+                "name": "5th Ward Greedy"
+            },
+            {
+                "id": "5pVXtBRmHkw3lQRONcNQdA",
+                "name": "Real Taker"
+            },
+            {
+                "id": "51UYpk7RRrgbC51ydS0KNg",
+                "name": "Yung Mal"
+            }
+        ],
+        "duration_ms": 274285,
+        "href": "https://api.spotify.com/v1/tracks/6slucYWVAkGbdMXxrmwMED",
+        "id": "6slucYWVAkGbdMXxrmwMED",
+        "name": "Biggest Opp (feat. 5th Ward Greedy, Real Taker & Yung Mal)",
+        "popularity": 31,
+        "data": {
+            "key": 9,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.05,
+            "danceability": 0.795,
+            "energy": 0.468,
+            "instrumentalness": 0.00305,
+            "liveness": 0.109,
+            "loudness": -9.047,
+            "speechiness": 0.271,
+            "valence": 0.403,
+            "tempo": 139.995,
+            "track_href": "https://api.spotify.com/v1/tracks/6slucYWVAkGbdMXxrmwMED"
+        }
+    },
+    {
+        "album": {
+            "id": "0sl62xHit6SvrH7tkMVeKU",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273934e7e351ce5625370628e2c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02934e7e351ce5625370628e2c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851934e7e351ce5625370628e2c",
+                    "width": 64
+                }
+            ],
+            "name": "THA PLAYA$ MANUAL"
+        },
+        "artists": [
+            {
+                "id": "3H6CaRooDAoCeRCpYwOXj2",
+                "name": "Ramirez"
+            }
+        ],
+        "duration_ms": 183857,
+        "href": "https://api.spotify.com/v1/tracks/27NiZkL9ZtOIF2TXkZcYgg",
+        "id": "27NiZkL9ZtOIF2TXkZcYgg",
+        "name": "Tales From Tha Guttah",
+        "popularity": 49,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00441,
+            "danceability": 0.75,
+            "energy": 0.689,
+            "instrumentalness": 0.133,
+            "liveness": 0.375,
+            "loudness": -8.526,
+            "speechiness": 0.0918,
+            "valence": 0.857,
+            "tempo": 175.003,
+            "track_href": "https://api.spotify.com/v1/tracks/27NiZkL9ZtOIF2TXkZcYgg"
+        }
+    },
+    {
+        "album": {
+            "id": "7hEgFnAICf8FqaERqmehOT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733f00534848fa23dcef0dc7b9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023f00534848fa23dcef0dc7b9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513f00534848fa23dcef0dc7b9",
+                    "width": 64
+                }
+            ],
+            "name": "Gucci Mane Presents: So Icy Summer"
+        },
+        "artists": [
+            {
+                "id": "5iyTbismzdvyjpjIuhKRvX",
+                "name": "Foogiano"
+            },
+            {
+                "id": "5f7VJjfbwm532GiveGC0ZK",
+                "name": "Lil Baby"
+            }
+        ],
+        "duration_ms": 269031,
+        "href": "https://api.spotify.com/v1/tracks/3760XkHe8CNFLNW0uEsFNg",
+        "id": "3760XkHe8CNFLNW0uEsFNg",
+        "name": "TRAPPER (Remix) [feat. Lil Baby]",
+        "popularity": 41,
+        "data": {
+            "key": 5,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.00542,
+            "danceability": 0.799,
+            "energy": 0.547,
+            "instrumentalness": 8.79e-05,
+            "liveness": 0.103,
+            "loudness": -8.416,
+            "speechiness": 0.245,
+            "valence": 0.472,
+            "tempo": 75.007,
+            "track_href": "https://api.spotify.com/v1/tracks/3760XkHe8CNFLNW0uEsFNg"
+        }
+    },
+    {
+        "album": {
+            "id": "5PGZpfzDkbbTvhDAuZlSQo",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d5597995a478c7d3f490b34f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d5597995a478c7d3f490b34f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d5597995a478c7d3f490b34f",
+                    "width": 64
+                }
+            ],
+            "name": "Give No Fxk"
+        },
+        "artists": [
+            {
+                "id": "6oMuImdp5ZcFhWP0ESe6mG",
+                "name": "Migos"
+            },
+            {
+                "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+                "name": "Travis Scott"
+            },
+            {
+                "id": "50co4Is1HCEo8bhOyUWKpn",
+                "name": "Young Thug"
+            }
+        ],
+        "duration_ms": 224243,
+        "href": "https://api.spotify.com/v1/tracks/6ZelF5APDN5r6XnFqcnvWR",
+        "id": "6ZelF5APDN5r6XnFqcnvWR",
+        "name": "Give No Fxk",
+        "popularity": 65,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0303,
+            "danceability": 0.904,
+            "energy": 0.627,
+            "instrumentalness": 5.68e-06,
+            "liveness": 0.0923,
+            "loudness": -5.608,
+            "speechiness": 0.222,
+            "valence": 0.236,
+            "tempo": 145.976,
+            "track_href": "https://api.spotify.com/v1/tracks/6ZelF5APDN5r6XnFqcnvWR"
+        }
+    },
+    {
+        "album": {
+            "id": "7tlluarkbgdrGwRdZk7Mr4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737925e88cf812671c79881a8f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027925e88cf812671c79881a8f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517925e88cf812671c79881a8f",
+                    "width": 64
+                }
+            ],
+            "name": "Mafia Bidness"
+        },
+        "artists": [
+            {
+                "id": "4tYSBptyGeVyZsk8JC4JHZ",
+                "name": "Shoreline Mafia"
+            },
+            {
+                "id": "3ppQEG71r7jVpI8RudzycF",
+                "name": "OHGEESY"
+            },
+            {
+                "id": "63GIj2yhFvX1Bzphb9JgVb",
+                "name": "Fenix Flexin"
+            },
+            {
+                "id": "5LXsuGg5SkeZgdrMdCH41B",
+                "name": "Z Money"
+            },
+            {
+                "id": "1qPjeAlCU4Dr6aEv8o1w1t",
+                "name": "AFN Peso"
+            }
+        ],
+        "duration_ms": 167571,
+        "href": "https://api.spotify.com/v1/tracks/6I6dBuvQUBd3QbfiuMHm02",
+        "id": "6I6dBuvQUBd3QbfiuMHm02",
+        "name": "Big Tymer (feat. Z Money & AFN Peso)",
+        "popularity": 49,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0293,
+            "danceability": 0.828,
+            "energy": 0.586,
+            "instrumentalness": 0,
+            "liveness": 0.108,
+            "loudness": -6.541,
+            "speechiness": 0.24,
+            "valence": 0.191,
+            "tempo": 96.988,
+            "track_href": "https://api.spotify.com/v1/tracks/6I6dBuvQUBd3QbfiuMHm02"
+        }
+    },
+    {
+        "album": {
+            "id": "6slkiHeFK3wW2D1mao0TX3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b1b3fdd23be4c158d4d2c32f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b1b3fdd23be4c158d4d2c32f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b1b3fdd23be4c158d4d2c32f",
+                    "width": 64
+                }
+            ],
+            "name": "Detroit 2"
+        },
+        "artists": [
+            {
+                "id": "0c173mlxpT3dSFRgMO8XPh",
+                "name": "Big Sean"
+            },
+            {
+                "id": "6AUl0ykLLpvTktob97x9hO",
+                "name": "Tee Grizzley"
+            },
+            {
+                "id": "3u579Gdap91lMptBSdXTpf",
+                "name": "Kash Doll"
+            },
+            {
+                "id": "26qmuJTgE3g67pPClBQ3Iu",
+                "name": "Cash Kidd"
+            },
+            {
+                "id": "7yzcsplXURYcG1Luakmkqy",
+                "name": "Payroll"
+            },
+            {
+                "id": "45gHcnDnMC15sgx3VL7ROG",
+                "name": "42 Dugg"
+            },
+            {
+                "id": "4fpwOzxFRMVGfd197dKIdY",
+                "name": "Boldy James"
+            },
+            {
+                "id": "79y9wOe73QinG3vsi3vLqK",
+                "name": "Drego"
+            },
+            {
+                "id": "2JSwnwAT1BupAQkhqcRCUw",
+                "name": "Sada Baby"
+            },
+            {
+                "id": "6DVipHzYsPlIoA0DW8Gmns",
+                "name": "Royce Da 5'9\""
+            },
+            {
+                "id": "7dGJo4pcD2V6oG8kP0tJRR",
+                "name": "Eminem"
+            }
+        ],
+        "duration_ms": 568129,
+        "href": "https://api.spotify.com/v1/tracks/2kY2ROHIGdp3aA6ahqaUKm",
+        "id": "2kY2ROHIGdp3aA6ahqaUKm",
+        "name": "Friday Night Cypher (feat. Tee Grizzley, Kash Doll, Cash Kidd, Payroll, 42 Dugg, Boldy James, Drego, Sada Baby, Royce Da 5'9\", and Eminem)",
+        "popularity": 62,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0906,
+            "danceability": 0.584,
+            "energy": 0.658,
+            "instrumentalness": 0,
+            "liveness": 0.0694,
+            "loudness": -6.537,
+            "speechiness": 0.377,
+            "valence": 0.381,
+            "tempo": 89.387,
+            "track_href": "https://api.spotify.com/v1/tracks/2kY2ROHIGdp3aA6ahqaUKm"
+        }
+    },
+    {
+        "album": {
+            "id": "59zpaLOByFkJhc9D5Xqna9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f5c547a4335523f10a802f94",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f5c547a4335523f10a802f94",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f5c547a4335523f10a802f94",
+                    "width": 64
+                }
+            ],
+            "name": "Quality Control: Control The Streets Volume 2"
+        },
+        "artists": [
+            {
+                "id": "6i392l38cR3uBPF0DbNs7S",
+                "name": "Quality Control"
+            },
+            {
+                "id": "3EW0kQ1skZiK1NHg3Spt9J",
+                "name": "Takeoff"
+            }
+        ],
+        "duration_ms": 139784,
+        "href": "https://api.spotify.com/v1/tracks/1D5dKs5tA5cIUp85HJdUAC",
+        "id": "1D5dKs5tA5cIUp85HJdUAC",
+        "name": "Magellanic",
+        "popularity": 42,
+        "data": {
+            "key": 2,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0182,
+            "danceability": 0.65,
+            "energy": 0.56,
+            "instrumentalness": 4.8e-06,
+            "liveness": 0.125,
+            "loudness": -6.181,
+            "speechiness": 0.436,
+            "valence": 0.312,
+            "tempo": 164.879,
+            "track_href": "https://api.spotify.com/v1/tracks/1D5dKs5tA5cIUp85HJdUAC"
+        }
+    },
+    {
+        "album": {
+            "id": "5rYrehtsQh7VKLqDI7FJtw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736e59174160b82fd7708ac690",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026e59174160b82fd7708ac690",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516e59174160b82fd7708ac690",
+                    "width": 64
+                }
+            ],
+            "name": "Took Her To The O"
+        },
+        "artists": [
+            {
+                "id": "6QtgPSJPSzcnn7dPZ4VINp",
+                "name": "King Von"
+            }
+        ],
+        "duration_ms": 194586,
+        "href": "https://api.spotify.com/v1/tracks/0kSnpKOS1bUguBGe2z661G",
+        "id": "0kSnpKOS1bUguBGe2z661G",
+        "name": "Took Her To The O",
+        "popularity": 64,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00335,
+            "danceability": 0.86,
+            "energy": 0.62,
+            "instrumentalness": 0,
+            "liveness": 0.133,
+            "loudness": -6.465,
+            "speechiness": 0.375,
+            "valence": 0.479,
+            "tempo": 159.98,
+            "track_href": "https://api.spotify.com/v1/tracks/0kSnpKOS1bUguBGe2z661G"
+        }
     }
 ]
