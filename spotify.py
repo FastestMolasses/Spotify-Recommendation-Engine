@@ -97,5 +97,4 @@ class Spotify:
             'speechiness': resp['speechiness'],
             'valence': resp['valence'],
             'tempo': resp['tempo'],
-            'track_href': resp['track_href'],
         }
