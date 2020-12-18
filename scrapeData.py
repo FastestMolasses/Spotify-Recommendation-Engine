@@ -6,7 +6,7 @@ from config import Config
 from spotify import Spotify
 
 
-def convertJsonDataToCSV(songs: list, fileName: str = 'songs.csv'):
+def convertJsonDataToCSV(songs: list, fileName: str = 'songs'):
     """
         Converts scrapped json Spotify data into a csv format.
     """
@@ -15,7 +15,7 @@ def convertJsonDataToCSV(songs: list, fileName: str = 'songs.csv'):
                'Danceability', 'Energy', 'Instrumentalness', 'Liveness',
                'Loudness', 'Speechiness', 'Valence', 'Tempo']
 
-    with open(os.path.join('data', fileName), 'w') as f:
+    with open(fileName + '.csv', 'w') as f:
         f.write(','.join(headers) + '\n')
 
         for song in songs:
@@ -53,9 +53,10 @@ if __name__ == '__main__':
         song['data'] = spotify.getTrackAnalysis(song['id'])
         sleep(1)
 
+    fileName = os.path.join('data', 'allGenres')
     # Save the JSON data
-    with open('data/playlist.json', 'w') as f:
+    with open(fileName + '.json', 'w') as f:
         json.dump(songs, f, indent=4)
 
     # Save the data into a CSV file
-    convertJsonDataToCSV(songs)
+    convertJsonDataToCSV(songs, fileName=fileName)
