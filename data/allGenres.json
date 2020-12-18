@@ -1,0 +1,5742 @@
+[
+    {
+        "album": {
+            "id": "6i8SLfUQsagk3SSPrj5AUW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732e41b5285bc71779e57ff3ab",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022e41b5285bc71779e57ff3ab",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512e41b5285bc71779e57ff3ab",
+                    "width": 64
+                }
+            ],
+            "name": "Hell Of A View"
+        },
+        "artists": [
+            {
+                "id": "2IvkS5MXK0vPGnwyJsrEyV",
+                "name": "Eric Church"
+            }
+        ],
+        "duration_ms": 175280,
+        "href": "https://api.spotify.com/v1/tracks/1kBx9VGumfuvlfqdlAGorE",
+        "id": "1kBx9VGumfuvlfqdlAGorE",
+        "name": "Hell Of A View",
+        "popularity": 74,
+        "data": {
+            "key": 5,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.119,
+            "danceability": 0.689,
+            "energy": 0.582,
+            "instrumentalness": 0.00464,
+            "liveness": 0.101,
+            "loudness": -6.778,
+            "speechiness": 0.0236,
+            "valence": 0.883,
+            "tempo": 99.021
+        }
+    },
+    {
+        "album": {
+            "id": "7L75Zpj3pTQf3s3CDOnrwr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27327aae15c6c14cb0f059a453b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0227aae15c6c14cb0f059a453b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485127aae15c6c14cb0f059a453b",
+                    "width": 64
+                }
+            ],
+            "name": "Somebody\u2019s Problem"
+        },
+        "artists": [
+            {
+                "id": "4oUHIQIBe0LHzYfvXNW4QM",
+                "name": "Morgan Wallen"
+            }
+        ],
+        "duration_ms": 161773,
+        "href": "https://api.spotify.com/v1/tracks/0SErdEdRcVX1uJCf1eTGYH",
+        "id": "0SErdEdRcVX1uJCf1eTGYH",
+        "name": "Somebody\u2019s Problem",
+        "popularity": 82,
+        "data": {
+            "key": 5,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.662,
+            "danceability": 0.657,
+            "energy": 0.54,
+            "instrumentalness": 0,
+            "liveness": 0.123,
+            "loudness": -7.675,
+            "speechiness": 0.0287,
+            "valence": 0.625,
+            "tempo": 136.97
+        }
+    },
+    {
+        "album": {
+            "id": "613QlECyZpEDa6DTgkNAJ6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c762b631c536a66932e33f4f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c762b631c536a66932e33f4f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c762b631c536a66932e33f4f",
+                    "width": 64
+                }
+            ],
+            "name": "Redneck Hollywood"
+        },
+        "artists": [
+            {
+                "id": "6tPHARSq45lQ8BSALCfkFC",
+                "name": "Lainey Wilson"
+            }
+        ],
+        "duration_ms": 206320,
+        "href": "https://api.spotify.com/v1/tracks/7cwKO3SvjCpTyLiIWfnxpx",
+        "id": "7cwKO3SvjCpTyLiIWfnxpx",
+        "name": "Things A Man Oughta Know",
+        "popularity": 72,
+        "data": {
+            "key": 3,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.518,
+            "danceability": 0.661,
+            "energy": 0.67,
+            "instrumentalness": 2.2e-06,
+            "liveness": 0.13,
+            "loudness": -5.58,
+            "speechiness": 0.0307,
+            "valence": 0.357,
+            "tempo": 139.852
+        }
+    },
+    {
+        "album": {
+            "id": "1e8gOn7NtkL8F0pWJopnZ0",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273153863807bdf6805aaf81875",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02153863807bdf6805aaf81875",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851153863807bdf6805aaf81875",
+                    "width": 64
+                }
+            ],
+            "name": "Doing Life With Me"
+        },
+        "artists": [
+            {
+                "id": "2IvkS5MXK0vPGnwyJsrEyV",
+                "name": "Eric Church"
+            }
+        ],
+        "duration_ms": 195586,
+        "href": "https://api.spotify.com/v1/tracks/57YkkgxAiusJPMtiSG3w3c",
+        "id": "57YkkgxAiusJPMtiSG3w3c",
+        "name": "Doing Life With Me",
+        "popularity": 67,
+        "data": {
+            "key": 3,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.73,
+            "danceability": 0.646,
+            "energy": 0.598,
+            "instrumentalness": 5.87e-06,
+            "liveness": 0.118,
+            "loudness": -10.293,
+            "speechiness": 0.0425,
+            "valence": 0.606,
+            "tempo": 80.993
+        }
+    },
+    {
+        "album": {
+            "id": "4AOloVYcXn1aa4p4IhwhRM",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d7d74af20c3a7ac6a0b7a60b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d7d74af20c3a7ac6a0b7a60b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d7d74af20c3a7ac6a0b7a60b",
+                    "width": 64
+                }
+            ],
+            "name": "Starting Over"
+        },
+        "artists": [
+            {
+                "id": "4YLtscXsxbVgi031ovDDdh",
+                "name": "Chris Stapleton"
+            }
+        ],
+        "duration_ms": 240413,
+        "href": "https://api.spotify.com/v1/tracks/3TNSVsiFngfe68UJpMq1oS",
+        "id": "3TNSVsiFngfe68UJpMq1oS",
+        "name": "Starting Over",
+        "popularity": 77,
+        "data": {
+            "key": 10,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.452,
+            "danceability": 0.638,
+            "energy": 0.538,
+            "instrumentalness": 0.000415,
+            "liveness": 0.0695,
+            "loudness": -8.445,
+            "speechiness": 0.0315,
+            "valence": 0.318,
+            "tempo": 89.124
+        }
+    },
+    {
+        "album": {
+            "id": "0CIbEKfFhnHbwJwVHb4KE1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734394ca9fbd7a2ab0e28f560d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024394ca9fbd7a2ab0e28f560d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514394ca9fbd7a2ab0e28f560d",
+                    "width": 64
+                }
+            ],
+            "name": "Famous Friends"
+        },
+        "artists": [
+            {
+                "id": "4BYxqVkZyFjtik7crYLg5Q",
+                "name": "Chris Young"
+            },
+            {
+                "id": "3oSJ7TBVCWMDMiYjXNiCKE",
+                "name": "Kane Brown"
+            }
+        ],
+        "duration_ms": 165569,
+        "href": "https://api.spotify.com/v1/tracks/4iXDn9pu5Q9sxv45vE8Lak",
+        "id": "4iXDn9pu5Q9sxv45vE8Lak",
+        "name": "Famous Friends",
+        "popularity": 72,
+        "data": {
+            "key": 6,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0553,
+            "danceability": 0.533,
+            "energy": 0.855,
+            "instrumentalness": 0,
+            "liveness": 0.335,
+            "loudness": -2.901,
+            "speechiness": 0.0356,
+            "valence": 0.64,
+            "tempo": 102.017
+        }
+    },
+    {
+        "album": {
+            "id": "6H1IElgVZIcO8HCsj3kAnk",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e2678fdf05e5e9b0d329a804",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e2678fdf05e5e9b0d329a804",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e2678fdf05e5e9b0d329a804",
+                    "width": 64
+                }
+            ],
+            "name": "Next Girl"
+        },
+        "artists": [
+            {
+                "id": "4sIl4BTo9l9KqEi0Y3RE72",
+                "name": "Carly Pearce"
+            }
+        ],
+        "duration_ms": 164677,
+        "href": "https://api.spotify.com/v1/tracks/4QpWhd7l2NrmGmfw4qGlpa",
+        "id": "4QpWhd7l2NrmGmfw4qGlpa",
+        "name": "Next Girl",
+        "popularity": 71,
+        "data": {
+            "key": 11,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.143,
+            "danceability": 0.583,
+            "energy": 0.867,
+            "instrumentalness": 0,
+            "liveness": 0.0863,
+            "loudness": -4.17,
+            "speechiness": 0.0637,
+            "valence": 0.962,
+            "tempo": 160.096
+        }
+    },
+    {
+        "album": {
+            "id": "7odU4foqIpRNmUSblazLBq",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730610a7b20b59754022db05ec",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020610a7b20b59754022db05ec",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510610a7b20b59754022db05ec",
+                    "width": 64
+                }
+            ],
+            "name": "Love You Like I Used To"
+        },
+        "artists": [
+            {
+                "id": "1E2AEtxaFaJtH0lO7kgNKw",
+                "name": "Russell Dickerson"
+            }
+        ],
+        "duration_ms": 186613,
+        "href": "https://api.spotify.com/v1/tracks/1D7cfiC5mxqHfTCcOiRBej",
+        "id": "1D7cfiC5mxqHfTCcOiRBej",
+        "name": "Love You Like I Used To",
+        "popularity": 77,
+        "data": {
+            "key": 10,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.12,
+            "danceability": 0.501,
+            "energy": 0.788,
+            "instrumentalness": 0,
+            "liveness": 0.137,
+            "loudness": -4.624,
+            "speechiness": 0.0415,
+            "valence": 0.61,
+            "tempo": 152.047
+        }
+    },
+    {
+        "album": {
+            "id": "2jqg5j8kjADgqkFSDoTylY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732175d6e26193b21040f314fe",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022175d6e26193b21040f314fe",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512175d6e26193b21040f314fe",
+                    "width": 64
+                }
+            ],
+            "name": "GOOD TIME - EP"
+        },
+        "artists": [
+            {
+                "id": "6Rw7DRa1dzChBvxGPCpOxU",
+                "name": "Niko Moon"
+            }
+        ],
+        "duration_ms": 214706,
+        "href": "https://api.spotify.com/v1/tracks/5Kpg1A7BOHpBbaT3H3xqd3",
+        "id": "5Kpg1A7BOHpBbaT3H3xqd3",
+        "name": "GOOD TIME",
+        "popularity": 72,
+        "data": {
+            "key": 5,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.132,
+            "danceability": 0.79,
+            "energy": 0.646,
+            "instrumentalness": 0,
+            "liveness": 0.295,
+            "loudness": -5.878,
+            "speechiness": 0.0447,
+            "valence": 0.641,
+            "tempo": 138.047
+        }
+    },
+    {
+        "album": {
+            "id": "1Rd2aYLTapfmSk66US3nlq",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273427d13fcdc7c3f36d0d5196f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02427d13fcdc7c3f36d0d5196f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851427d13fcdc7c3f36d0d5196f",
+                    "width": 64
+                }
+            ],
+            "name": "We Go Together Like"
+        },
+        "artists": [
+            {
+                "id": "0WicR9iYAPd0Bi7i3bz9MB",
+                "name": "Abby Anderson"
+            }
+        ],
+        "duration_ms": 163960,
+        "href": "https://api.spotify.com/v1/tracks/3mwQ4tEWBWynjw7HJgMiRA",
+        "id": "3mwQ4tEWBWynjw7HJgMiRA",
+        "name": "We Go Together Like",
+        "popularity": 69,
+        "data": {
+            "key": 11,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.172,
+            "danceability": 0.62,
+            "energy": 0.817,
+            "instrumentalness": 0,
+            "liveness": 0.144,
+            "loudness": -5.317,
+            "speechiness": 0.0254,
+            "valence": 0.614,
+            "tempo": 99.963
+        }
+    },
+    {
+        "album": {
+            "id": "25TJxI6ZH6XjT8geRQAFz5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273433fa8ed8901569b606a715e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02433fa8ed8901569b606a715e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851433fa8ed8901569b606a715e",
+                    "width": 64
+                }
+            ],
+            "name": "What You See Ain't Always What You Get (Deluxe Edition)"
+        },
+        "artists": [
+            {
+                "id": "718COspgdWOnwOFpJHRZHS",
+                "name": "Luke Combs"
+            }
+        ],
+        "duration_ms": 232533,
+        "href": "https://api.spotify.com/v1/tracks/6IBcOGPsniK3Pso1wHIhew",
+        "id": "6IBcOGPsniK3Pso1wHIhew",
+        "name": "Forever After All",
+        "popularity": 85,
+        "data": {
+            "key": 0,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.191,
+            "danceability": 0.487,
+            "energy": 0.65,
+            "instrumentalness": 0,
+            "liveness": 0.0933,
+            "loudness": -5.195,
+            "speechiness": 0.0253,
+            "valence": 0.456,
+            "tempo": 151.964
+        }
+    },
+    {
+        "album": {
+            "id": "1GZyb1fAcVAdxeZK16ozLR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273233f6ce837052ef45849896c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02233f6ce837052ef45849896c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851233f6ce837052ef45849896c",
+                    "width": 64
+                }
+            ],
+            "name": "Beers And Sunshine"
+        },
+        "artists": [
+            {
+                "id": "7FY5V3XMwlNBPitEjXowHQ",
+                "name": "Darius Rucker"
+            }
+        ],
+        "duration_ms": 178278,
+        "href": "https://api.spotify.com/v1/tracks/36ISlLb12gKuCCVTYXC0gb",
+        "id": "36ISlLb12gKuCCVTYXC0gb",
+        "name": "Beers And Sunshine",
+        "popularity": 70,
+        "data": {
+            "key": 5,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.134,
+            "danceability": 0.57,
+            "energy": 0.645,
+            "instrumentalness": 0,
+            "liveness": 0.147,
+            "loudness": -5.816,
+            "speechiness": 0.0304,
+            "valence": 0.677,
+            "tempo": 81.084
+        }
+    },
+    {
+        "album": {
+            "id": "5daeIQFYVirEPLqnivqo6h",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731685f2fba5288b95e01463fb",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021685f2fba5288b95e01463fb",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511685f2fba5288b95e01463fb",
+                    "width": 64
+                }
+            ],
+            "name": "Just About Over You (Radio Edit)"
+        },
+        "artists": [
+            {
+                "id": "6BpvASijzSWj7gnZD4Dvf1",
+                "name": "Priscilla Block"
+            }
+        ],
+        "duration_ms": 188012,
+        "href": "https://api.spotify.com/v1/tracks/7r4QGA98fNi3iPxc7umIjt",
+        "id": "7r4QGA98fNi3iPxc7umIjt",
+        "name": "Just About Over You - Radio Edit",
+        "popularity": 17,
+        "data": {
+            "key": 4,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.189,
+            "danceability": 0.546,
+            "energy": 0.788,
+            "instrumentalness": 0,
+            "liveness": 0.159,
+            "loudness": -3.302,
+            "speechiness": 0.0324,
+            "valence": 0.585,
+            "tempo": 150.084
+        }
+    },
+    {
+        "album": {
+            "id": "6GZSdWjroJCuofwkDsCGMD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735a9e9f725356e6cf6cd6947f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025a9e9f725356e6cf6cd6947f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515a9e9f725356e6cf6cd6947f",
+                    "width": 64
+                }
+            ],
+            "name": "Almost Maybes"
+        },
+        "artists": [
+            {
+                "id": "77kULmXAQ6vWer7IIHdGzI",
+                "name": "Jordan Davis"
+            }
+        ],
+        "duration_ms": 179152,
+        "href": "https://api.spotify.com/v1/tracks/14JFKtBSqefxfMiKhq6JT8",
+        "id": "14JFKtBSqefxfMiKhq6JT8",
+        "name": "Almost Maybes",
+        "popularity": 75,
+        "data": {
+            "key": 11,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.146,
+            "danceability": 0.582,
+            "energy": 0.868,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -3.927,
+            "speechiness": 0.0522,
+            "valence": 0.555,
+            "tempo": 90.105
+        }
+    },
+    {
+        "album": {
+            "id": "7zEA1JpBgLz8Zj6cGcIvIV",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733c9467023c4efd02ba78a1bc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023c9467023c4efd02ba78a1bc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513c9467023c4efd02ba78a1bc",
+                    "width": 64
+                }
+            ],
+            "name": "Gone"
+        },
+        "artists": [
+            {
+                "id": "7x8nK0m0cP2ksQf0mjWdPS",
+                "name": "Dierks Bentley"
+            }
+        ],
+        "duration_ms": 205960,
+        "href": "https://api.spotify.com/v1/tracks/7IhfjcaXuXCq20ZiAA7igK",
+        "id": "7IhfjcaXuXCq20ZiAA7igK",
+        "name": "Gone",
+        "popularity": 71,
+        "data": {
+            "key": 6,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00985,
+            "danceability": 0.521,
+            "energy": 0.746,
+            "instrumentalness": 0,
+            "liveness": 0.0741,
+            "loudness": -6.173,
+            "speechiness": 0.0351,
+            "valence": 0.473,
+            "tempo": 149.977
+        }
+    },
+    {
+        "album": {
+            "id": "6HALwpatS8fPZ62DgZbttt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734aba6c802918af9a1aab311a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024aba6c802918af9a1aab311a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514aba6c802918af9a1aab311a",
+                    "width": 64
+                }
+            ],
+            "name": "Livin\u2019 The Dream"
+        },
+        "artists": [
+            {
+                "id": "4oUHIQIBe0LHzYfvXNW4QM",
+                "name": "Morgan Wallen"
+            }
+        ],
+        "duration_ms": 239120,
+        "href": "https://api.spotify.com/v1/tracks/2L4YgbxxwmwafMqLIjSx8q",
+        "id": "2L4YgbxxwmwafMqLIjSx8q",
+        "name": "Livin\u2019 The Dream",
+        "popularity": 75,
+        "data": {
+            "key": 7,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.575,
+            "danceability": 0.621,
+            "energy": 0.754,
+            "instrumentalness": 0.00484,
+            "liveness": 0.213,
+            "loudness": -5.904,
+            "speechiness": 0.0269,
+            "valence": 0.441,
+            "tempo": 127.036
+        }
+    },
+    {
+        "album": {
+            "id": "4K4Zt6ttyStgYV5B3bWuBi",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f2ca97cae439bbc0bd12ed94",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f2ca97cae439bbc0bd12ed94",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f2ca97cae439bbc0bd12ed94",
+                    "width": 64
+                }
+            ],
+            "name": "Happy Anywhere (feat. Gwen Stefani)"
+        },
+        "artists": [
+            {
+                "id": "1UTPBmNbXNTittyMJrNkvw",
+                "name": "Blake Shelton"
+            },
+            {
+                "id": "4yiQZ8tQPux8cPriYMWUFP",
+                "name": "Gwen Stefani"
+            }
+        ],
+        "duration_ms": 170173,
+        "href": "https://api.spotify.com/v1/tracks/2DwbFtfC6sXBiVDPmju8Dd",
+        "id": "2DwbFtfC6sXBiVDPmju8Dd",
+        "name": "Happy Anywhere (feat. Gwen Stefani)",
+        "popularity": 76,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.1,
+            "danceability": 0.538,
+            "energy": 0.745,
+            "instrumentalness": 0,
+            "liveness": 0.063,
+            "loudness": -5.774,
+            "speechiness": 0.0387,
+            "valence": 0.669,
+            "tempo": 165.755
+        }
+    },
+    {
+        "album": {
+            "id": "5Or2XM0Gjy6Y8qlaERqsSn",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273753e552f06e10a4987ea455b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02753e552f06e10a4987ea455b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851753e552f06e10a4987ea455b",
+                    "width": 64
+                }
+            ],
+            "name": "Wildcard"
+        },
+        "artists": [
+            {
+                "id": "66lH4jAE7pqPlOlzUKbwA0",
+                "name": "Miranda Lambert"
+            }
+        ],
+        "duration_ms": 197453,
+        "href": "https://api.spotify.com/v1/tracks/53bZYxVbCYm6w1Gx8U64bz",
+        "id": "53bZYxVbCYm6w1Gx8U64bz",
+        "name": "Settling Down",
+        "popularity": 70,
+        "data": {
+            "key": 6,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0215,
+            "danceability": 0.643,
+            "energy": 0.756,
+            "instrumentalness": 0.000268,
+            "liveness": 0.101,
+            "loudness": -5.8,
+            "speechiness": 0.0305,
+            "valence": 0.934,
+            "tempo": 90.001
+        }
+    },
+    {
+        "album": {
+            "id": "0IzNkQjU9fUw1SlVgQDckM",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739373be533b1a88ddc0c969d0",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029373be533b1a88ddc0c969d0",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519373be533b1a88ddc0c969d0",
+                    "width": 64
+                }
+            ],
+            "name": "Burn 'Em All"
+        },
+        "artists": [
+            {
+                "id": "31n3CN1jSC5ALUJ9dwT8UI",
+                "name": "Kameron Marlowe"
+            }
+        ],
+        "duration_ms": 185305,
+        "href": "https://api.spotify.com/v1/tracks/2UBvtKeetnXn6lMnsBUrZz",
+        "id": "2UBvtKeetnXn6lMnsBUrZz",
+        "name": "Burn 'Em All",
+        "popularity": 70,
+        "data": {
+            "key": 11,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.115,
+            "danceability": 0.632,
+            "energy": 0.886,
+            "instrumentalness": 0,
+            "liveness": 0.136,
+            "loudness": -3.986,
+            "speechiness": 0.054,
+            "valence": 0.637,
+            "tempo": 114.951
+        }
+    },
+    {
+        "album": {
+            "id": "0rpP7RK9FEdwTC8BDjDSLj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27311a740aec842ebd4d4aa7adc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0211a740aec842ebd4d4aa7adc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485111a740aec842ebd4d4aa7adc",
+                    "width": 64
+                }
+            ],
+            "name": "State I'm In"
+        },
+        "artists": [
+            {
+                "id": "0FvJm0y2eHw0aPkLLU3sIG",
+                "name": "Filmore"
+            }
+        ],
+        "duration_ms": 193144,
+        "href": "https://api.spotify.com/v1/tracks/1LtiNpTzzSX8qcvlPFLmeR",
+        "id": "1LtiNpTzzSX8qcvlPFLmeR",
+        "name": "Nothing's Better",
+        "popularity": 71,
+        "data": {
+            "key": 9,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0724,
+            "danceability": 0.8,
+            "energy": 0.515,
+            "instrumentalness": 0,
+            "liveness": 0.355,
+            "loudness": -5.431,
+            "speechiness": 0.0351,
+            "valence": 0.949,
+            "tempo": 110.018
+        }
+    },
+    {
+        "album": {
+            "id": "0LptEP83Iy0SKHaVrkCmuj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736d5aaf43bfd55619bb3988a8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026d5aaf43bfd55619bb3988a8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516d5aaf43bfd55619bb3988a8",
+                    "width": 64
+                }
+            ],
+            "name": "I Should Probably Go To Bed"
+        },
+        "artists": [
+            {
+                "id": "7z5WFjZAIYejWy0NI5lv4T",
+                "name": "Dan + Shay"
+            }
+        ],
+        "duration_ms": 171826,
+        "href": "https://api.spotify.com/v1/tracks/5ovVcYo2MvjVydFwFyaaqy",
+        "id": "5ovVcYo2MvjVydFwFyaaqy",
+        "name": "I Should Probably Go To Bed",
+        "popularity": 79,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.634,
+            "danceability": 0.721,
+            "energy": 0.277,
+            "instrumentalness": 0,
+            "liveness": 0.112,
+            "loudness": -7.128,
+            "speechiness": 0.0365,
+            "valence": 0.309,
+            "tempo": 131.935
+        }
+    },
+    {
+        "album": {
+            "id": "3roOLsfxMpvsd8cEGJPyrc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730f712a886a44291188cab4e3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020f712a886a44291188cab4e3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510f712a886a44291188cab4e3",
+                    "width": 64
+                }
+            ],
+            "name": "Lose You"
+        },
+        "artists": [
+            {
+                "id": "77kULmXAQ6vWer7IIHdGzI",
+                "name": "Jordan Davis"
+            }
+        ],
+        "duration_ms": 203321,
+        "href": "https://api.spotify.com/v1/tracks/0vK1vDEvEMvSpFEKW62Qub",
+        "id": "0vK1vDEvEMvSpFEKW62Qub",
+        "name": "Lose You",
+        "popularity": 72,
+        "data": {
+            "key": 6,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.209,
+            "danceability": 0.649,
+            "energy": 0.64,
+            "instrumentalness": 0.000532,
+            "liveness": 0.0965,
+            "loudness": -6.09,
+            "speechiness": 0.0352,
+            "valence": 0.42,
+            "tempo": 94.957
+        }
+    },
+    {
+        "album": {
+            "id": "3YxTy8m1OZ3oNSdxYprbIg",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d630dbe9cbf7ad80807ffdfe",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d630dbe9cbf7ad80807ffdfe",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d630dbe9cbf7ad80807ffdfe",
+                    "width": 64
+                }
+            ],
+            "name": "More Than My Hometown"
+        },
+        "artists": [
+            {
+                "id": "4oUHIQIBe0LHzYfvXNW4QM",
+                "name": "Morgan Wallen"
+            }
+        ],
+        "duration_ms": 216573,
+        "href": "https://api.spotify.com/v1/tracks/6FniJZn4agmDtPx1pKZQsa",
+        "id": "6FniJZn4agmDtPx1pKZQsa",
+        "name": "More Than My Hometown",
+        "popularity": 47,
+        "data": {
+            "key": 6,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.601,
+            "danceability": 0.621,
+            "energy": 0.882,
+            "instrumentalness": 0,
+            "liveness": 0.132,
+            "loudness": -5.01,
+            "speechiness": 0.0459,
+            "valence": 0.574,
+            "tempo": 126.014
+        }
+    },
+    {
+        "album": {
+            "id": "0eu2mZjF6JQTuLCu9ils6m",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735d76d260bbb9e3e5abe08bc2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025d76d260bbb9e3e5abe08bc2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515d76d260bbb9e3e5abe08bc2",
+                    "width": 64
+                }
+            ],
+            "name": "Old Dominion"
+        },
+        "artists": [
+            {
+                "id": "6y8XlgIV8BLlIg1tT1R10i",
+                "name": "Old Dominion"
+            }
+        ],
+        "duration_ms": 203840,
+        "href": "https://api.spotify.com/v1/tracks/1TP0hha5wan1xwKjGcNSCv",
+        "id": "1TP0hha5wan1xwKjGcNSCv",
+        "name": "Never Be Sorry",
+        "popularity": 69,
+        "data": {
+            "key": 11,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.012,
+            "danceability": 0.733,
+            "energy": 0.833,
+            "instrumentalness": 4.22e-05,
+            "liveness": 0.16,
+            "loudness": -5.416,
+            "speechiness": 0.0284,
+            "valence": 0.851,
+            "tempo": 125.998
+        }
+    },
+    {
+        "album": {
+            "id": "014fzAwHbsvUolo3ap8P38",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273da0fbf5a54052f21c8499556",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02da0fbf5a54052f21c8499556",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851da0fbf5a54052f21c8499556",
+                    "width": 64
+                }
+            ],
+            "name": "Mixtape Vol. 1 - EP"
+        },
+        "artists": [
+            {
+                "id": "3oSJ7TBVCWMDMiYjXNiCKE",
+                "name": "Kane Brown"
+            }
+        ],
+        "duration_ms": 205746,
+        "href": "https://api.spotify.com/v1/tracks/4RN6OApAESI3Sh0gf5iuAM",
+        "id": "4RN6OApAESI3Sh0gf5iuAM",
+        "name": "Worship You",
+        "popularity": 72,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.388,
+            "danceability": 0.63,
+            "energy": 0.496,
+            "instrumentalness": 0,
+            "liveness": 0.088,
+            "loudness": -7.011,
+            "speechiness": 0.0329,
+            "valence": 0.387,
+            "tempo": 78.024
+        }
+    },
+    {
+        "album": {
+            "id": "3uGsdBLGyKfbP3OXzDL48Y",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731a5261e52e5cdabe93484ec9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021a5261e52e5cdabe93484ec9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511a5261e52e5cdabe93484ec9",
+                    "width": 64
+                }
+            ],
+            "name": "Without You"
+        },
+        "artists": [
+            {
+                "id": "718COspgdWOnwOFpJHRZHS",
+                "name": "Luke Combs"
+            },
+            {
+                "id": "5yN0nwLpUCaZ2gr67bndCN",
+                "name": "Amanda Shires"
+            }
+        ],
+        "duration_ms": 224986,
+        "href": "https://api.spotify.com/v1/tracks/34slXA5D75T5S0dwYYRd4J",
+        "id": "34slXA5D75T5S0dwYYRd4J",
+        "name": "Without You",
+        "popularity": 62,
+        "data": {
+            "key": 6,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.307,
+            "danceability": 0.522,
+            "energy": 0.659,
+            "instrumentalness": 0,
+            "liveness": 0.102,
+            "loudness": -6.016,
+            "speechiness": 0.0304,
+            "valence": 0.355,
+            "tempo": 141.996
+        }
+    },
+    {
+        "album": {
+            "id": "64EzSE1DPtbfk5OUFCC6B5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bfa80f313889282b3bbeca3c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bfa80f313889282b3bbeca3c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bfa80f313889282b3bbeca3c",
+                    "width": 64
+                }
+            ],
+            "name": "Better Than That"
+        },
+        "artists": [
+            {
+                "id": "7EekKnlf2HwNaLLpL9Cpgy",
+                "name": "Matt Stell"
+            }
+        ],
+        "duration_ms": 198733,
+        "href": "https://api.spotify.com/v1/tracks/1R65hpDEf3BiYRmdaa7roQ",
+        "id": "1R65hpDEf3BiYRmdaa7roQ",
+        "name": "Better Than That",
+        "popularity": 60,
+        "data": {
+            "key": 9,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.00542,
+            "danceability": 0.469,
+            "energy": 0.88,
+            "instrumentalness": 0.000125,
+            "liveness": 0.123,
+            "loudness": -3.373,
+            "speechiness": 0.0719,
+            "valence": 0.583,
+            "tempo": 157.99
+        }
+    },
+    {
+        "album": {
+            "id": "0WbfaztYJGyHiW3W9qe5Xw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733e52c7b8901410a91123b076",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023e52c7b8901410a91123b076",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513e52c7b8901410a91123b076",
+                    "width": 64
+                }
+            ],
+            "name": "What's Your Country Song"
+        },
+        "artists": [
+            {
+                "id": "6x2LnllRG5uGarZMsD4iO8",
+                "name": "Thomas Rhett"
+            }
+        ],
+        "duration_ms": 170372,
+        "href": "https://api.spotify.com/v1/tracks/7Cw3yXDA8Uui37SI5FFaA7",
+        "id": "7Cw3yXDA8Uui37SI5FFaA7",
+        "name": "What\u2019s Your Country Song",
+        "popularity": 75,
+        "data": {
+            "key": 5,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.000532,
+            "danceability": 0.355,
+            "energy": 0.706,
+            "instrumentalness": 0,
+            "liveness": 0.264,
+            "loudness": -6.164,
+            "speechiness": 0.0309,
+            "valence": 0.523,
+            "tempo": 174.005
+        }
+    },
+    {
+        "album": {
+            "id": "2HDp9JJaUtB2xU02QGlUif",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730fbe95389a60aef9f12676ab",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020fbe95389a60aef9f12676ab",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510fbe95389a60aef9f12676ab",
+                    "width": 64
+                }
+            ],
+            "name": "Memory I Don't Mess With"
+        },
+        "artists": [
+            {
+                "id": "5Zq7R5qmi58ByYyBQTlNuk",
+                "name": "Lee Brice"
+            }
+        ],
+        "duration_ms": 180616,
+        "href": "https://api.spotify.com/v1/tracks/7BQE1P0NUalHSvFtrxasx9",
+        "id": "7BQE1P0NUalHSvFtrxasx9",
+        "name": "Memory I Don't Mess With",
+        "popularity": 71,
+        "data": {
+            "key": 6,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.171,
+            "danceability": 0.617,
+            "energy": 0.704,
+            "instrumentalness": 0,
+            "liveness": 0.0924,
+            "loudness": -7.61,
+            "speechiness": 0.0258,
+            "valence": 0.57,
+            "tempo": 91.541
+        }
+    },
+    {
+        "album": {
+            "id": "2O6i9surGnW91oOcoucyNI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ce0521a45825f71fd5f21e1d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ce0521a45825f71fd5f21e1d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ce0521a45825f71fd5f21e1d",
+                    "width": 64
+                }
+            ],
+            "name": "Dirty"
+        },
+        "artists": [
+            {
+                "id": "4ZgQDCtRqZlhLswVS6MHN4",
+                "name": "grandson"
+            }
+        ],
+        "duration_ms": 208296,
+        "href": "https://api.spotify.com/v1/tracks/3MTfE3Mo3lfwAymYLU2luX",
+        "id": "3MTfE3Mo3lfwAymYLU2luX",
+        "name": "Dirty",
+        "popularity": 70,
+        "data": {
+            "key": 2,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0033,
+            "danceability": 0.536,
+            "energy": 0.845,
+            "instrumentalness": 0,
+            "liveness": 0.0465,
+            "loudness": -5.765,
+            "speechiness": 0.0615,
+            "valence": 0.6,
+            "tempo": 159.953
+        }
+    },
+    {
+        "album": {
+            "id": "3RjX0PnYherdDTp2MWq0G1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27369f2611845d06732e4e62703",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0269f2611845d06732e4e62703",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485169f2611845d06732e4e62703",
+                    "width": 64
+                }
+            ],
+            "name": "acting like that (feat. Machine Gun Kelly)"
+        },
+        "artists": [
+            {
+                "id": "6Ad91Jof8Niiw0lGLLi3NW",
+                "name": "YUNGBLUD"
+            },
+            {
+                "id": "6TIYQ3jFPwQSRmorSezPxX",
+                "name": "Machine Gun Kelly"
+            }
+        ],
+        "duration_ms": 191066,
+        "href": "https://api.spotify.com/v1/tracks/6PxNpy8jOjyZ8aGCD58LpW",
+        "id": "6PxNpy8jOjyZ8aGCD58LpW",
+        "name": "acting like that (feat. Machine Gun Kelly)",
+        "popularity": 76,
+        "data": {
+            "key": 0,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 6.98e-05,
+            "danceability": 0.522,
+            "energy": 0.9,
+            "instrumentalness": 0,
+            "liveness": 0.3,
+            "loudness": -2.631,
+            "speechiness": 0.0719,
+            "valence": 0.579,
+            "tempo": 160.01
+        }
+    },
+    {
+        "album": {
+            "id": "03q6OOInl2G0qYtmFlybqh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d83a4554b2361ee2f04edb62",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d83a4554b2361ee2f04edb62",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d83a4554b2361ee2f04edb62",
+                    "width": 64
+                }
+            ],
+            "name": "ESTELLA// (feat. Travis Barker)"
+        },
+        "artists": [
+            {
+                "id": "5ObBtv5VunwwhQaXXnUrsM",
+                "name": "KennyHoopla"
+            },
+            {
+                "id": "4exLIFE8sISLr28sqG1qNX",
+                "name": "Travis Barker"
+            }
+        ],
+        "duration_ms": 118733,
+        "href": "https://api.spotify.com/v1/tracks/4v2Bq0xDB7uNN73I5b44Du",
+        "id": "4v2Bq0xDB7uNN73I5b44Du",
+        "name": "ESTELLA// (feat. Travis Barker)",
+        "popularity": 64,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.000839,
+            "danceability": 0.472,
+            "energy": 0.811,
+            "instrumentalness": 0.000143,
+            "liveness": 0.373,
+            "loudness": -5.121,
+            "speechiness": 0.0612,
+            "valence": 0.637,
+            "tempo": 164.991
+        }
+    },
+    {
+        "album": {
+            "id": "7HZqhu4pOZcTAv7ROHhZSj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27318fb8aebae351b0ebcbb4d64",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0218fb8aebae351b0ebcbb4d64",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485118fb8aebae351b0ebcbb4d64",
+                    "width": 64
+                }
+            ],
+            "name": "Trouble\u2019s Coming"
+        },
+        "artists": [
+            {
+                "id": "2S5hlvw4CMtMGswFtfdK15",
+                "name": "Royal Blood"
+            }
+        ],
+        "duration_ms": 228400,
+        "href": "https://api.spotify.com/v1/tracks/5eR6OS3joTAHJToyzehKfu",
+        "id": "5eR6OS3joTAHJToyzehKfu",
+        "name": "Trouble\u2019s Coming",
+        "popularity": 72,
+        "data": {
+            "key": 1,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0629,
+            "danceability": 0.767,
+            "energy": 0.694,
+            "instrumentalness": 0,
+            "liveness": 0.32,
+            "loudness": -5.059,
+            "speechiness": 0.0384,
+            "valence": 0.78,
+            "tempo": 112.012
+        }
+    },
+    {
+        "album": {
+            "id": "1TmLWHno2aTHedSxNofPkg",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f1a87d866b3e255b79cd612b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f1a87d866b3e255b79cd612b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f1a87d866b3e255b79cd612b",
+                    "width": 64
+                }
+            ],
+            "name": "Take Me Away"
+        },
+        "artists": [
+            {
+                "id": "1iEaqWaYpKo9x0OrEq7Q7z",
+                "name": "Ayron Jones"
+            }
+        ],
+        "duration_ms": 246932,
+        "href": "https://api.spotify.com/v1/tracks/4CEqDmkqD7illXHuym76V6",
+        "id": "4CEqDmkqD7illXHuym76V6",
+        "name": "Take Me Away",
+        "popularity": 61,
+        "data": {
+            "key": 1,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.00012,
+            "danceability": 0.475,
+            "energy": 0.844,
+            "instrumentalness": 0.111,
+            "liveness": 0.221,
+            "loudness": -4.448,
+            "speechiness": 0.0622,
+            "valence": 0.554,
+            "tempo": 156.136
+        }
+    },
+    {
+        "album": {
+            "id": "64ct34gILqOHeOCvUUKwL9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739f03b27a3b7a3b958fe0094d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029f03b27a3b7a3b958fe0094d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519f03b27a3b7a3b958fe0094d",
+                    "width": 64
+                }
+            ],
+            "name": "Dark Love (ft. Aaron Gillespie)"
+        },
+        "artists": [
+            {
+                "id": "1CXuuw8HJhyN80HlNzvL1e",
+                "name": "Sullivan King"
+            },
+            {
+                "id": "5B2GfbXgossZt9SE08Iqn6",
+                "name": "Aaron Gillespie"
+            }
+        ],
+        "duration_ms": 165000,
+        "href": "https://api.spotify.com/v1/tracks/6SLVMTlKz0rGfRdE2NRVuR",
+        "id": "6SLVMTlKz0rGfRdE2NRVuR",
+        "name": "Dark Love (ft. Aaron Gillespie)",
+        "popularity": 52,
+        "data": {
+            "key": 11,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.000823,
+            "danceability": 0.515,
+            "energy": 0.602,
+            "instrumentalness": 0,
+            "liveness": 0.0673,
+            "loudness": -5.515,
+            "speechiness": 0.0977,
+            "valence": 0.438,
+            "tempo": 140.105
+        }
+    },
+    {
+        "album": {
+            "id": "13lnqlgmaRHQF54C9iiOWO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735ca27e07de053ed44dff8fca",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025ca27e07de053ed44dff8fca",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515ca27e07de053ed44dff8fca",
+                    "width": 64
+                }
+            ],
+            "name": "Si Vis Pacem, Para Bellum"
+        },
+        "artists": [
+            {
+                "id": "6B5c4sch27tWHAGdarpPaW",
+                "name": "Seether"
+            }
+        ],
+        "duration_ms": 239626,
+        "href": "https://api.spotify.com/v1/tracks/2SD2zj8W5zKMdjCCJFF0vQ",
+        "id": "2SD2zj8W5zKMdjCCJFF0vQ",
+        "name": "Wasteland",
+        "popularity": 57,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 3,
+            "acousticness": 7.61e-05,
+            "danceability": 0.268,
+            "energy": 0.811,
+            "instrumentalness": 0.00122,
+            "liveness": 0.0651,
+            "loudness": -4.06,
+            "speechiness": 0.0409,
+            "valence": 0.295,
+            "tempo": 101.041
+        }
+    },
+    {
+        "album": {
+            "id": "4ZmUMi1WqImmEwdE7i85zC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a5cade363ad553da186f2e2e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a5cade363ad553da186f2e2e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a5cade363ad553da186f2e2e",
+                    "width": 64
+                }
+            ],
+            "name": "Fuck Them All"
+        },
+        "artists": [
+            {
+                "id": "0iMnpaEHXkgMT956CmP1kj",
+                "name": "The Dangerous Summer"
+            }
+        ],
+        "duration_ms": 196800,
+        "href": "https://api.spotify.com/v1/tracks/5XTKO227Jtu81Ni41Fi9Gj",
+        "id": "5XTKO227Jtu81Ni41Fi9Gj",
+        "name": "Fuck Them All",
+        "popularity": 58,
+        "data": {
+            "key": 2,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0161,
+            "danceability": 0.539,
+            "energy": 0.887,
+            "instrumentalness": 4.18e-06,
+            "liveness": 0.267,
+            "loudness": -6.935,
+            "speechiness": 0.037,
+            "valence": 0.448,
+            "tempo": 100.017
+        }
+    },
+    {
+        "album": {
+            "id": "0NCb40mlxY4bJgGHNIJyFm",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273847ff2e28f23344bcc867008",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02847ff2e28f23344bcc867008",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851847ff2e28f23344bcc867008",
+                    "width": 64
+                }
+            ],
+            "name": "Beautiful Way"
+        },
+        "artists": [
+            {
+                "id": "1kNQXvepPjaPgUfeDAF2h6",
+                "name": "You Me At Six"
+            }
+        ],
+        "duration_ms": 225786,
+        "href": "https://api.spotify.com/v1/tracks/2xhpnTyhinktiHD3JFdZOC",
+        "id": "2xhpnTyhinktiHD3JFdZOC",
+        "name": "Beautiful Way",
+        "popularity": 62,
+        "data": {
+            "key": 5,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0125,
+            "danceability": 0.384,
+            "energy": 0.921,
+            "instrumentalness": 0.108,
+            "liveness": 0.152,
+            "loudness": -3.609,
+            "speechiness": 0.0489,
+            "valence": 0.446,
+            "tempo": 171.036
+        }
+    },
+    {
+        "album": {
+            "id": "0dQPaO9I1hRzDwe2RePxFR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d7e0ca6710c4fb56043e57c0",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d7e0ca6710c4fb56043e57c0",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d7e0ca6710c4fb56043e57c0",
+                    "width": 64
+                }
+            ],
+            "name": "This is Our Life"
+        },
+        "artists": [
+            {
+                "id": "2kO6mP0olFJGGh6kvUdNC8",
+                "name": "Des Rocs"
+            }
+        ],
+        "duration_ms": 224306,
+        "href": "https://api.spotify.com/v1/tracks/5T38ywOoK6b29fpbTrhwx3",
+        "id": "5T38ywOoK6b29fpbTrhwx3",
+        "name": "This is Our Life",
+        "popularity": 60,
+        "data": {
+            "key": 7,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00108,
+            "danceability": 0.367,
+            "energy": 0.877,
+            "instrumentalness": 1.08e-05,
+            "liveness": 0.351,
+            "loudness": -3.92,
+            "speechiness": 0.109,
+            "valence": 0.395,
+            "tempo": 157.68
+        }
+    },
+    {
+        "album": {
+            "id": "4bMgI05AysPH4EdwWaWORy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cacb1cf2845a365ea5c5ccf6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cacb1cf2845a365ea5c5ccf6",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851cacb1cf2845a365ea5c5ccf6",
+                    "width": 64
+                }
+            ],
+            "name": "Shame Shame"
+        },
+        "artists": [
+            {
+                "id": "7jy3rLJdDQY21OgRLCZ9sD",
+                "name": "Foo Fighters"
+            }
+        ],
+        "duration_ms": 257433,
+        "href": "https://api.spotify.com/v1/tracks/0wGv595Z2XDF9ZFbrbQqqH",
+        "id": "0wGv595Z2XDF9ZFbrbQqqH",
+        "name": "Shame Shame",
+        "popularity": 72,
+        "data": {
+            "key": 7,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00129,
+            "danceability": 0.648,
+            "energy": 0.864,
+            "instrumentalness": 0.0296,
+            "liveness": 0.0368,
+            "loudness": -4.136,
+            "speechiness": 0.0335,
+            "valence": 0.354,
+            "tempo": 122.014
+        }
+    },
+    {
+        "album": {
+            "id": "00OQIrRjQgZmacSnjK8L7M",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ba00e990d1520a4cde41ce0c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ba00e990d1520a4cde41ce0c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ba00e990d1520a4cde41ce0c",
+                    "width": 64
+                }
+            ],
+            "name": "Protect The Land / Genocidal Humanoidz"
+        },
+        "artists": [
+            {
+                "id": "5eAWCfyUhZtHHtBdNk56l1",
+                "name": "System Of A Down"
+            }
+        ],
+        "duration_ms": 307644,
+        "href": "https://api.spotify.com/v1/tracks/11ajcVj3qSyyMPUpTJUP3y",
+        "id": "11ajcVj3qSyyMPUpTJUP3y",
+        "name": "Protect The Land",
+        "popularity": 75,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 9.2e-05,
+            "danceability": 0.432,
+            "energy": 0.886,
+            "instrumentalness": 4.74e-05,
+            "liveness": 0.338,
+            "loudness": -3.991,
+            "speechiness": 0.0341,
+            "valence": 0.248,
+            "tempo": 76.04
+        }
+    },
+    {
+        "album": {
+            "id": "4U4nKoTy4lsQlUoaGqg8U4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737c2b1dc1639152beaeadf00d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027c2b1dc1639152beaeadf00d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517c2b1dc1639152beaeadf00d",
+                    "width": 64
+                }
+            ],
+            "name": "Teardrops"
+        },
+        "artists": [
+            {
+                "id": "1Ffb6ejR6Fe5IamqA5oRUF",
+                "name": "Bring Me The Horizon"
+            }
+        ],
+        "duration_ms": 215003,
+        "href": "https://api.spotify.com/v1/tracks/3aniWcwiiYKHpm3F5TdeKD",
+        "id": "3aniWcwiiYKHpm3F5TdeKD",
+        "name": "Teardrops",
+        "popularity": 74,
+        "data": {
+            "key": 7,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.000323,
+            "danceability": 0.497,
+            "energy": 0.916,
+            "instrumentalness": 0,
+            "liveness": 0.36,
+            "loudness": -3.323,
+            "speechiness": 0.108,
+            "valence": 0.401,
+            "tempo": 96.051
+        }
+    },
+    {
+        "album": {
+            "id": "76HILyNi5osIyJraAhmVWz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738bc0594bb8046d9ed326a49e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028bc0594bb8046d9ed326a49e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518bc0594bb8046d9ed326a49e",
+                    "width": 64
+                }
+            ],
+            "name": "THREE CHEERS FOR THE AMERICAN BEAUTY"
+        },
+        "artists": [
+            {
+                "id": "18UrIT17pqz5fG7J85iwSh",
+                "name": "LUNA AURA"
+            }
+        ],
+        "duration_ms": 155680,
+        "href": "https://api.spotify.com/v1/tracks/3k0iCsB9pZJ86yVWwQ16jS",
+        "id": "3k0iCsB9pZJ86yVWwQ16jS",
+        "name": "HONEY",
+        "popularity": 49,
+        "data": {
+            "key": 9,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0326,
+            "danceability": 0.472,
+            "energy": 0.903,
+            "instrumentalness": 2.71e-06,
+            "liveness": 0.0664,
+            "loudness": -4.838,
+            "speechiness": 0.131,
+            "valence": 0.449,
+            "tempo": 119.014
+        }
+    },
+    {
+        "album": {
+            "id": "7GxsS8UvsTuazVWiAKTHhJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a6a5939fe8e4d39ef3d3cc93",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a6a5939fe8e4d39ef3d3cc93",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a6a5939fe8e4d39ef3d3cc93",
+                    "width": 64
+                }
+            ],
+            "name": "25"
+        },
+        "artists": [
+            {
+                "id": "2R57sY41L9XvGPiIgHOaYq",
+                "name": "The Pretty Reckless"
+            }
+        ],
+        "duration_ms": 326901,
+        "href": "https://api.spotify.com/v1/tracks/2tono51k7WmcMuMmUkff0q",
+        "id": "2tono51k7WmcMuMmUkff0q",
+        "name": "25",
+        "popularity": 57,
+        "data": {
+            "key": 2,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.248,
+            "danceability": 0.455,
+            "energy": 0.663,
+            "instrumentalness": 5.06e-06,
+            "liveness": 0.158,
+            "loudness": -5.233,
+            "speechiness": 0.0326,
+            "valence": 0.236,
+            "tempo": 153.932
+        }
+    },
+    {
+        "album": {
+            "id": "41JFvCVEUUpGOIY1gdGH4F",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27307782307db9dab9e59c43902",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0207782307db9dab9e59c43902",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485107782307db9dab9e59c43902",
+                    "width": 64
+                }
+            ],
+            "name": "Young & Faded"
+        },
+        "artists": [
+            {
+                "id": "7jZycSvTyx0W9poD4PjEIG",
+                "name": "The Hunna"
+            }
+        ],
+        "duration_ms": 171493,
+        "href": "https://api.spotify.com/v1/tracks/04nqh41iiGhpEDgAEoiuua",
+        "id": "04nqh41iiGhpEDgAEoiuua",
+        "name": "Young & Faded",
+        "popularity": 47,
+        "data": {
+            "key": 1,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.117,
+            "danceability": 0.614,
+            "energy": 0.824,
+            "instrumentalness": 0.00716,
+            "liveness": 0.338,
+            "loudness": -4.963,
+            "speechiness": 0.0519,
+            "valence": 0.172,
+            "tempo": 150.028
+        }
+    },
+    {
+        "album": {
+            "id": "1kwAv74rVTTGMpawGsXtiE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27328c24b54e9149cab239ac1cd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0228c24b54e9149cab239ac1cd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485128c24b54e9149cab239ac1cd",
+                    "width": 64
+                }
+            ],
+            "name": "Wake Up, Sunshine"
+        },
+        "artists": [
+            {
+                "id": "46gyXjRIvN1NL1eCB8GBxo",
+                "name": "All Time Low"
+            },
+            {
+                "id": "2cFrymmkijnjDg9SS92EPM",
+                "name": "blackbear"
+            }
+        ],
+        "duration_ms": 174067,
+        "href": "https://api.spotify.com/v1/tracks/0tyR7Bu9P086aWBFZ4QJoo",
+        "id": "0tyR7Bu9P086aWBFZ4QJoo",
+        "name": "Monsters (feat. blackbear)",
+        "popularity": 78,
+        "data": {
+            "key": 0,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0493,
+            "danceability": 0.369,
+            "energy": 0.845,
+            "instrumentalness": 0,
+            "liveness": 0.416,
+            "loudness": -3.449,
+            "speechiness": 0.0611,
+            "valence": 0.782,
+            "tempo": 78.532
+        }
+    },
+    {
+        "album": {
+            "id": "3IHClJIXFPxf3xa0BNaQOd",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27328fde096edbe2e3dd9568f9f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0228fde096edbe2e3dd9568f9f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485128fde096edbe2e3dd9568f9f",
+                    "width": 64
+                }
+            ],
+            "name": "Ohms"
+        },
+        "artists": [
+            {
+                "id": "6Ghvu1VvMGScGpOUJBAHNH",
+                "name": "Deftones"
+            }
+        ],
+        "duration_ms": 250222,
+        "href": "https://api.spotify.com/v1/tracks/6mfrK1kvsOjiiH64Ier962",
+        "id": "6mfrK1kvsOjiiH64Ier962",
+        "name": "Ohms",
+        "popularity": 61,
+        "data": {
+            "key": 4,
+            "mode": 1,
+            "time_signature": 3,
+            "acousticness": 0.000108,
+            "danceability": 0.112,
+            "energy": 0.978,
+            "instrumentalness": 0.0241,
+            "liveness": 0.117,
+            "loudness": -2.64,
+            "speechiness": 0.117,
+            "valence": 0.371,
+            "tempo": 173.097
+        }
+    },
+    {
+        "album": {
+            "id": "5JKsvGrCimdMGjvuQGctG3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27370cc4c951a4f79876ad59dee",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0270cc4c951a4f79876ad59dee",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485170cc4c951a4f79876ad59dee",
+                    "width": 64
+                }
+            ],
+            "name": "Ramona"
+        },
+        "artists": [
+            {
+                "id": "40Yq4vzPs9VNUrIBG5Jr2i",
+                "name": "The Smashing Pumpkins"
+            }
+        ],
+        "duration_ms": 228160,
+        "href": "https://api.spotify.com/v1/tracks/5EfK3DZoPOzmVmN29GJKIm",
+        "id": "5EfK3DZoPOzmVmN29GJKIm",
+        "name": "Ramona",
+        "popularity": 54,
+        "data": {
+            "key": 7,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.00805,
+            "danceability": 0.71,
+            "energy": 0.677,
+            "instrumentalness": 0.0931,
+            "liveness": 0.112,
+            "loudness": -8.186,
+            "speechiness": 0.0316,
+            "valence": 0.467,
+            "tempo": 127.037
+        }
+    },
+    {
+        "album": {
+            "id": "0LBrVo5mANVWJb1h247JRi",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273124181002d73399293444341",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02124181002d73399293444341",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851124181002d73399293444341",
+                    "width": 64
+                }
+            ],
+            "name": "30"
+        },
+        "artists": [
+            {
+                "id": "3T55D3LMiygE9eSKFpiAye",
+                "name": "Badflower"
+            }
+        ],
+        "duration_ms": 226568,
+        "href": "https://api.spotify.com/v1/tracks/6nipZlJiUvI0I7lCf1Z7Li",
+        "id": "6nipZlJiUvI0I7lCf1Z7Li",
+        "name": "30",
+        "popularity": 63,
+        "data": {
+            "key": 9,
+            "mode": 1,
+            "time_signature": 3,
+            "acousticness": 0.00324,
+            "danceability": 0.548,
+            "energy": 0.971,
+            "instrumentalness": 0.000388,
+            "liveness": 0.065,
+            "loudness": -3.915,
+            "speechiness": 0.16,
+            "valence": 0.373,
+            "tempo": 135.028
+        }
+    },
+    {
+        "album": {
+            "id": "6afyaK8ihj33Chr7A7LqNI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27314030d39d060db78d004f2ed",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0214030d39d060db78d004f2ed",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485114030d39d060db78d004f2ed",
+                    "width": 64
+                }
+            ],
+            "name": "Moral Panic"
+        },
+        "artists": [
+            {
+                "id": "1kDGbuxWknIKx4FlgWxiSp",
+                "name": "Nothing But Thieves"
+            }
+        ],
+        "duration_ms": 236047,
+        "href": "https://api.spotify.com/v1/tracks/1fjygBqOg8E1t6RnYu5GIC",
+        "id": "1fjygBqOg8E1t6RnYu5GIC",
+        "name": "Can You Afford to Be An Individual?",
+        "popularity": 64,
+        "data": {
+            "key": 11,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0117,
+            "danceability": 0.515,
+            "energy": 0.859,
+            "instrumentalness": 0.0227,
+            "liveness": 0.127,
+            "loudness": -6.103,
+            "speechiness": 0.303,
+            "valence": 0.605,
+            "tempo": 150.067
+        }
+    },
+    {
+        "album": {
+            "id": "4WDh2xlMSWCG7TIfjvoYOi",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27329537a1f51b37cb91c5624d9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0229537a1f51b37cb91c5624d9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485129537a1f51b37cb91c5624d9",
+                    "width": 64
+                }
+            ],
+            "name": "Full Moon"
+        },
+        "artists": [
+            {
+                "id": "4KY9rCrokaoFzvMfX98u1q",
+                "name": "IRONTOM"
+            }
+        ],
+        "duration_ms": 220527,
+        "href": "https://api.spotify.com/v1/tracks/0Gz0WxGMpNkKYwI64VOfAF",
+        "id": "0Gz0WxGMpNkKYwI64VOfAF",
+        "name": "Big Shot",
+        "popularity": 26,
+        "data": {
+            "key": 8,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.00743,
+            "danceability": 0.504,
+            "energy": 0.938,
+            "instrumentalness": 0,
+            "liveness": 0.0741,
+            "loudness": -2.696,
+            "speechiness": 0.0583,
+            "valence": 0.612,
+            "tempo": 145.91
+        }
+    },
+    {
+        "album": {
+            "id": "33rt0rXX6q0XnDFijDfgL9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736e79351979aa065ad55b1bfa",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026e79351979aa065ad55b1bfa",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516e79351979aa065ad55b1bfa",
+                    "width": 64
+                }
+            ],
+            "name": "Every Time You Leave [Feat. Delaney Jane] (Live Acoustic)"
+        },
+        "artists": [
+            {
+                "id": "3Uobr6LgQpBbk6k4QGAb3V",
+                "name": "I Prevail"
+            },
+            {
+                "id": "3fuxStOqQv8TiytHeuGiE8",
+                "name": "Delaney Jane"
+            }
+        ],
+        "duration_ms": 216626,
+        "href": "https://api.spotify.com/v1/tracks/4lE8AJsMIEMpXqEZlVVa4n",
+        "id": "4lE8AJsMIEMpXqEZlVVa4n",
+        "name": "Every Time You Leave (Feat. Delaney Jane)",
+        "popularity": 54,
+        "data": {
+            "key": 1,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.000466,
+            "danceability": 0.473,
+            "energy": 0.749,
+            "instrumentalness": 5.5e-06,
+            "liveness": 0.0883,
+            "loudness": -5.047,
+            "speechiness": 0.0277,
+            "valence": 0.172,
+            "tempo": 150.021
+        }
+    },
+    {
+        "album": {
+            "id": "1Rz3Q2PIhrCs21itNShUxB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731f36a89354d71bdeba55de1c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021f36a89354d71bdeba55de1c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511f36a89354d71bdeba55de1c",
+                    "width": 64
+                }
+            ],
+            "name": "Shot In The Dark"
+        },
+        "artists": [
+            {
+                "id": "711MCceyCBcFnzjGY4Q7Un",
+                "name": "AC/DC"
+            }
+        ],
+        "duration_ms": 185133,
+        "href": "https://api.spotify.com/v1/tracks/6ZtrGCcn38kGImt2GPFbJB",
+        "id": "6ZtrGCcn38kGImt2GPFbJB",
+        "name": "Shot In The Dark",
+        "popularity": 72,
+        "data": {
+            "key": 2,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 2.07e-05,
+            "danceability": 0.599,
+            "energy": 0.787,
+            "instrumentalness": 5.27e-05,
+            "liveness": 0.064,
+            "loudness": -4.708,
+            "speechiness": 0.0338,
+            "valence": 0.822,
+            "tempo": 114.065
+        }
+    },
+    {
+        "album": {
+            "id": "57lgFncHBYu5E3igZnuCJK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d4d4929a3a86fe2f9fadbd42",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d4d4929a3a86fe2f9fadbd42",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d4d4929a3a86fe2f9fadbd42",
+                    "width": 64
+                }
+            ],
+            "name": "Tickets To My Downfall"
+        },
+        "artists": [
+            {
+                "id": "6TIYQ3jFPwQSRmorSezPxX",
+                "name": "Machine Gun Kelly"
+            }
+        ],
+        "duration_ms": 143900,
+        "href": "https://api.spotify.com/v1/tracks/3k0YJnqMKRZb8swo86vCkq",
+        "id": "3k0YJnqMKRZb8swo86vCkq",
+        "name": "drunk face",
+        "popularity": 74,
+        "data": {
+            "key": 7,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0282,
+            "danceability": 0.691,
+            "energy": 0.77,
+            "instrumentalness": 0,
+            "liveness": 0.497,
+            "loudness": -4.578,
+            "speechiness": 0.0367,
+            "valence": 0.344,
+            "tempo": 90.024
+        }
+    },
+    {
+        "album": {
+            "id": "4EvukZrmNBiqJbs3LwOSHu",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736771a05f34d77e5fc2bde64c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026771a05f34d77e5fc2bde64c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516771a05f34d77e5fc2bde64c",
+                    "width": 64
+                }
+            ],
+            "name": "HOLIDAY"
+        },
+        "artists": [
+            {
+                "id": "7jVv8c5Fj3E9VhNjxT4snq",
+                "name": "Lil Nas X"
+            }
+        ],
+        "duration_ms": 154997,
+        "href": "https://api.spotify.com/v1/tracks/6zFMeegAMYQo0mt8rXtrli",
+        "id": "6zFMeegAMYQo0mt8rXtrli",
+        "name": "HOLIDAY",
+        "popularity": 92,
+        "data": {
+            "key": 5,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.12,
+            "danceability": 0.81,
+            "energy": 0.511,
+            "instrumentalness": 0,
+            "liveness": 0.0832,
+            "loudness": -6.924,
+            "speechiness": 0.164,
+            "valence": 0.837,
+            "tempo": 151.947
+        }
+    },
+    {
+        "album": {
+            "id": "1wsPNQ8DFxRYNQnCs0hMu7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738c6dad8d9f29861db8ea1c75",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028c6dad8d9f29861db8ea1c75",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518c6dad8d9f29861db8ea1c75",
+                    "width": 64
+                }
+            ],
+            "name": "Pick Up Your Feelings"
+        },
+        "artists": [
+            {
+                "id": "7gSjFKpVmDgC2MMsnN8CYq",
+                "name": "Jazmine Sullivan"
+            }
+        ],
+        "duration_ms": 232096,
+        "href": "https://api.spotify.com/v1/tracks/2JLVZYEMmqPWbUoAJAMKfm",
+        "id": "2JLVZYEMmqPWbUoAJAMKfm",
+        "name": "Pick Up Your Feelings",
+        "popularity": 70,
+        "data": {
+            "key": 7,
+            "mode": 0,
+            "time_signature": 3,
+            "acousticness": 0.291,
+            "danceability": 0.729,
+            "energy": 0.414,
+            "instrumentalness": 0,
+            "liveness": 0.0793,
+            "loudness": -6.138,
+            "speechiness": 0.0565,
+            "valence": 0.565,
+            "tempo": 85.729
+        }
+    },
+    {
+        "album": {
+            "id": "7KKRDqdnhfBV61qQ1EVxY2",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27366ae1bc00b21dd7413059005",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0266ae1bc00b21dd7413059005",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485166ae1bc00b21dd7413059005",
+                    "width": 64
+                }
+            ],
+            "name": "Spotify Singles"
+        },
+        "artists": [
+            {
+                "id": "0AsThoR4KZSVktALiNcQwW",
+                "name": "Chloe x Halle"
+            }
+        ],
+        "duration_ms": 173206,
+        "href": "https://api.spotify.com/v1/tracks/1KFHD2MK0wQADYddeed7Qf",
+        "id": "1KFHD2MK0wQADYddeed7Qf",
+        "name": "Sending My Love - Spotify Singles",
+        "popularity": 65,
+        "data": {
+            "key": 4,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0339,
+            "danceability": 0.578,
+            "energy": 0.599,
+            "instrumentalness": 0,
+            "liveness": 0.286,
+            "loudness": -8.692,
+            "speechiness": 0.0402,
+            "valence": 0.475,
+            "tempo": 95.005
+        }
+    },
+    {
+        "album": {
+            "id": "53JvgHHILTK9VsqNsL6lXf",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d7db0676eabd476e7b0e33cb",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d7db0676eabd476e7b0e33cb",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d7db0676eabd476e7b0e33cb",
+                    "width": 64
+                }
+            ],
+            "name": "Lost One"
+        },
+        "artists": [
+            {
+                "id": "7gSjFKpVmDgC2MMsnN8CYq",
+                "name": "Jazmine Sullivan"
+            }
+        ],
+        "duration_ms": 180345,
+        "href": "https://api.spotify.com/v1/tracks/3HY9qrtAKtobL2nCQ535h0",
+        "id": "3HY9qrtAKtobL2nCQ535h0",
+        "name": "Lost One",
+        "popularity": 69,
+        "data": {
+            "key": 0,
+            "mode": 0,
+            "time_signature": 3,
+            "acousticness": 0.848,
+            "danceability": 0.494,
+            "energy": 0.425,
+            "instrumentalness": 5.12e-05,
+            "liveness": 0.0895,
+            "loudness": -5.317,
+            "speechiness": 0.0746,
+            "valence": 0.275,
+            "tempo": 66.602
+        }
+    },
+    {
+        "album": {
+            "id": "4LxNdEodxvcd7q41asR17h",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273873c4523604fff8ef176124c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02873c4523604fff8ef176124c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851873c4523604fff8ef176124c",
+                    "width": 64
+                }
+            ],
+            "name": "For You"
+        },
+        "artists": [
+            {
+                "id": "3wVXTWabe3viT0jF7DfjOL",
+                "name": "Vedo"
+            }
+        ],
+        "duration_ms": 201586,
+        "href": "https://api.spotify.com/v1/tracks/4lsHZ92XCFOQfzJFBTluk8",
+        "id": "4lsHZ92XCFOQfzJFBTluk8",
+        "name": "You Got It",
+        "popularity": 86,
+        "data": {
+            "key": 5,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.297,
+            "danceability": 0.774,
+            "energy": 0.376,
+            "instrumentalness": 0,
+            "liveness": 0.165,
+            "loudness": -9.372,
+            "speechiness": 0.208,
+            "valence": 0.391,
+            "tempo": 122.089
+        }
+    },
+    {
+        "album": {
+            "id": "0MJ0Sjfn5PCa4kpUbU31JR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738423c8534a6a7a010f94bb47",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028423c8534a6a7a010f94bb47",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518423c8534a6a7a010f94bb47",
+                    "width": 64
+                }
+            ],
+            "name": "Life On Earth - EP"
+        },
+        "artists": [
+            {
+                "id": "57LYzLEk2LcFghVwuWbcuS",
+                "name": "Summer Walker"
+            },
+            {
+                "id": "2HPaUgqeutzr3jx5a9WyDV",
+                "name": "PARTYNEXTDOOR"
+            }
+        ],
+        "duration_ms": 213933,
+        "href": "https://api.spotify.com/v1/tracks/2aSM4sbNN7cSmpYOG0sf46",
+        "id": "2aSM4sbNN7cSmpYOG0sf46",
+        "name": "My Affection (with PARTYNEXTDOOR)",
+        "popularity": 69,
+        "data": {
+            "key": 7,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.333,
+            "danceability": 0.632,
+            "energy": 0.495,
+            "instrumentalness": 0,
+            "liveness": 0.0941,
+            "loudness": -8.335,
+            "speechiness": 0.143,
+            "valence": 0.233,
+            "tempo": 77.083
+        }
+    },
+    {
+        "album": {
+            "id": "65tz6yI9G9USj9R7jh1qh5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f470d4c2b834e8cb8b876588",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f470d4c2b834e8cb8b876588",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f470d4c2b834e8cb8b876588",
+                    "width": 64
+                }
+            ],
+            "name": "Circles"
+        },
+        "artists": [
+            {
+                "id": "2iojnBLj0qIMiKPvVhLnsH",
+                "name": "Trey Songz"
+            }
+        ],
+        "duration_ms": 257385,
+        "href": "https://api.spotify.com/v1/tracks/7GU4sdexteLwpjIZ36QPFL",
+        "id": "7GU4sdexteLwpjIZ36QPFL",
+        "name": "Circles",
+        "popularity": 42,
+        "data": {
+            "key": 9,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.103,
+            "danceability": 0.681,
+            "energy": 0.651,
+            "instrumentalness": 0,
+            "liveness": 0.103,
+            "loudness": -5.533,
+            "speechiness": 0.104,
+            "valence": 0.416,
+            "tempo": 106.045
+        }
+    },
+    {
+        "album": {
+            "id": "4ZkPgA3xwggOxEtHndkb9R",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c6b82d1c08be3980a263542c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c6b82d1c08be3980a263542c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c6b82d1c08be3980a263542c",
+                    "width": 64
+                }
+            ],
+            "name": "good to know (Deluxe)"
+        },
+        "artists": [
+            {
+                "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+                "name": "JoJo"
+            }
+        ],
+        "duration_ms": 190933,
+        "href": "https://api.spotify.com/v1/tracks/1Tv6DohXfBPROpBCVWnVCP",
+        "id": "1Tv6DohXfBPROpBCVWnVCP",
+        "name": "Comeback",
+        "popularity": 58,
+        "data": {
+            "key": 8,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0666,
+            "danceability": 0.683,
+            "energy": 0.541,
+            "instrumentalness": 0.00939,
+            "liveness": 0.107,
+            "loudness": -7.615,
+            "speechiness": 0.0695,
+            "valence": 0.291,
+            "tempo": 122.989
+        }
+    },
+    {
+        "album": {
+            "id": "2pnBtHPmWH9u5QFKwgVd9R",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b66fff31386c016ebf17063f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b66fff31386c016ebf17063f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b66fff31386c016ebf17063f",
+                    "width": 64
+                }
+            ],
+            "name": "Put In Work"
+        },
+        "artists": [
+            {
+                "id": "4tMm1dU6Gn04VAZ9ClHcIZ",
+                "name": "Jacquees"
+            },
+            {
+                "id": "7bXgB6jMjp9ATFy66eO08Z",
+                "name": "Chris Brown"
+            }
+        ],
+        "duration_ms": 199897,
+        "href": "https://api.spotify.com/v1/tracks/6rij5OZoU4FSA2lTbFmRgi",
+        "id": "6rij5OZoU4FSA2lTbFmRgi",
+        "name": "Put In Work (with Chris Brown)",
+        "popularity": 70,
+        "data": {
+            "key": 10,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0491,
+            "danceability": 0.6,
+            "energy": 0.678,
+            "instrumentalness": 0,
+            "liveness": 0.138,
+            "loudness": -5.227,
+            "speechiness": 0.13,
+            "valence": 0.494,
+            "tempo": 136.858
+        }
+    },
+    {
+        "album": {
+            "id": "3euz4vS7ezKGnNSwgyvKcd",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025ef878a782c987d38d82b605",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515ef878a782c987d38d82b605",
+                    "width": 64
+                }
+            ],
+            "name": "Positions"
+        },
+        "artists": [
+            {
+                "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                "name": "Ariana Grande"
+            }
+        ],
+        "duration_ms": 173710,
+        "href": "https://api.spotify.com/v1/tracks/6Im9k8u9iIzKMrmV7BWtlF",
+        "id": "6Im9k8u9iIzKMrmV7BWtlF",
+        "name": "34+35",
+        "popularity": 95,
+        "data": {
+            "key": 0,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.237,
+            "danceability": 0.83,
+            "energy": 0.585,
+            "instrumentalness": 0,
+            "liveness": 0.248,
+            "loudness": -6.476,
+            "speechiness": 0.094,
+            "valence": 0.485,
+            "tempo": 109.978
+        }
+    },
+    {
+        "album": {
+            "id": "1TcaCHY4zFA6BxqSznmVhj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ee02d42f95aabaf5618cf0cd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ee02d42f95aabaf5618cf0cd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ee02d42f95aabaf5618cf0cd",
+                    "width": 64
+                }
+            ],
+            "name": "Hard For Me"
+        },
+        "artists": [
+            {
+                "id": "1z7b1Pr1rSlvWRzsW3HOrS",
+                "name": "Russ"
+            }
+        ],
+        "duration_ms": 208000,
+        "href": "https://api.spotify.com/v1/tracks/2sDwK2Nj5gBGpJykIl0Yu4",
+        "id": "2sDwK2Nj5gBGpJykIl0Yu4",
+        "name": "Hard For Me",
+        "popularity": 67,
+        "data": {
+            "key": 10,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0541,
+            "danceability": 0.763,
+            "energy": 0.586,
+            "instrumentalness": 0,
+            "liveness": 0.0593,
+            "loudness": -8.058,
+            "speechiness": 0.0302,
+            "valence": 0.41,
+            "tempo": 120.004
+        }
+    },
+    {
+        "album": {
+            "id": "2d9BCZeAAhiZWPpbX9aPCW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273005ee342f4eef2cc6e8436ab",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02005ee342f4eef2cc6e8436ab",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851005ee342f4eef2cc6e8436ab",
+                    "width": 64
+                }
+            ],
+            "name": "EL \u00daLTIMO TOUR DEL MUNDO"
+        },
+        "artists": [
+            {
+                "id": "4q3ewBCX7sLwd24euuV69X",
+                "name": "Bad Bunny"
+            },
+            {
+                "id": "7ltDVBr6mKbRvohxheJ9h1",
+                "name": "ROSAL\u00cdA"
+            }
+        ],
+        "duration_ms": 203200,
+        "href": "https://api.spotify.com/v1/tracks/2XIc1pqjXV3Cr2BQUGNBck",
+        "id": "2XIc1pqjXV3Cr2BQUGNBck",
+        "name": "LA NOCHE DE ANOCHE",
+        "popularity": 94,
+        "data": {
+            "key": 7,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0303,
+            "danceability": 0.856,
+            "energy": 0.618,
+            "instrumentalness": 0,
+            "liveness": 0.0866,
+            "loudness": -4.892,
+            "speechiness": 0.286,
+            "valence": 0.391,
+            "tempo": 81.993
+        }
+    },
+    {
+        "album": {
+            "id": "6LO6I2uJMkc0u7GHBYHa4Y",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a9c7357101e65ee6af3c3789",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a9c7357101e65ee6af3c3789",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a9c7357101e65ee6af3c3789",
+                    "width": 64
+                }
+            ],
+            "name": "BICHOTA"
+        },
+        "artists": [
+            {
+                "id": "790FomKkXshlbRYZFtlgla",
+                "name": "KAROL G"
+            }
+        ],
+        "duration_ms": 178946,
+        "href": "https://api.spotify.com/v1/tracks/7vrJn5hDSXRmdXoR30KgF1",
+        "id": "7vrJn5hDSXRmdXoR30KgF1",
+        "name": "BICHOTA",
+        "popularity": 96,
+        "data": {
+            "key": 1,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.212,
+            "danceability": 0.863,
+            "energy": 0.666,
+            "instrumentalness": 0.000493,
+            "liveness": 0.103,
+            "loudness": -4.158,
+            "speechiness": 0.152,
+            "valence": 0.838,
+            "tempo": 163.908
+        }
+    },
+    {
+        "album": {
+            "id": "6xd9phTkcEIsi1JWhbxZM3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27315353ebee04814bb8153aa74",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0215353ebee04814bb8153aa74",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485115353ebee04814bb8153aa74",
+                    "width": 64
+                }
+            ],
+            "name": "Sensational"
+        },
+        "artists": [
+            {
+                "id": "2YOYua8FpudSEiB9s88IgQ",
+                "name": "Yung Gravy"
+            }
+        ],
+        "duration_ms": 175960,
+        "href": "https://api.spotify.com/v1/tracks/6HUFOiTIGCizkemQxhQTao",
+        "id": "6HUFOiTIGCizkemQxhQTao",
+        "name": "Gravy For Pope",
+        "popularity": 52,
+        "data": {
+            "key": 6,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.437,
+            "danceability": 0.666,
+            "energy": 0.673,
+            "instrumentalness": 1.74e-06,
+            "liveness": 0.137,
+            "loudness": -7.906,
+            "speechiness": 0.218,
+            "valence": 0.377,
+            "tempo": 148.1
+        }
+    },
+    {
+        "album": {
+            "id": "6xd9phTkcEIsi1JWhbxZM3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27315353ebee04814bb8153aa74",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0215353ebee04814bb8153aa74",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485115353ebee04814bb8153aa74",
+                    "width": 64
+                }
+            ],
+            "name": "Sensational"
+        },
+        "artists": [
+            {
+                "id": "2YOYua8FpudSEiB9s88IgQ",
+                "name": "Yung Gravy"
+            },
+            {
+                "id": "5gCRApTajqwbnHHPbr2Fpi",
+                "name": "Juicy J"
+            }
+        ],
+        "duration_ms": 170173,
+        "href": "https://api.spotify.com/v1/tracks/1Uue730zlycJb8dN6n6PHz",
+        "id": "1Uue730zlycJb8dN6n6PHz",
+        "name": "Buttered Up",
+        "popularity": 54,
+        "data": {
+            "key": 10,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0349,
+            "danceability": 0.707,
+            "energy": 0.699,
+            "instrumentalness": 0,
+            "liveness": 0.401,
+            "loudness": -7.032,
+            "speechiness": 0.138,
+            "valence": 0.641,
+            "tempo": 159.913
+        }
+    },
+    {
+        "album": {
+            "id": "6xd9phTkcEIsi1JWhbxZM3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27315353ebee04814bb8153aa74",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0215353ebee04814bb8153aa74",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485115353ebee04814bb8153aa74",
+                    "width": 64
+                }
+            ],
+            "name": "Sensational"
+        },
+        "artists": [
+            {
+                "id": "2YOYua8FpudSEiB9s88IgQ",
+                "name": "Yung Gravy"
+            },
+            {
+                "id": "6XoXNsXj8wck0oVUNwxcmF",
+                "name": "MIA GLADSTONE"
+            }
+        ],
+        "duration_ms": 160693,
+        "href": "https://api.spotify.com/v1/tracks/2BfyXyivg20NJ5dgqJfKfL",
+        "id": "2BfyXyivg20NJ5dgqJfKfL",
+        "name": "Charlene",
+        "popularity": 50,
+        "data": {
+            "key": 0,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.263,
+            "danceability": 0.554,
+            "energy": 0.554,
+            "instrumentalness": 0,
+            "liveness": 0.141,
+            "loudness": -7.202,
+            "speechiness": 0.301,
+            "valence": 0.538,
+            "tempo": 174.099
+        }
+    },
+    {
+        "album": {
+            "id": "4X381fJ53pMVKyFYoFNBYA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273440804771b52fb9573ba3934",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02440804771b52fb9573ba3934",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851440804771b52fb9573ba3934",
+                    "width": 64
+                }
+            ],
+            "name": "MISCREANT"
+        },
+        "artists": [
+            {
+                "id": "4iDroUFo89Y7YBsdDTBmTD",
+                "name": "Sueco"
+            }
+        ],
+        "duration_ms": 181978,
+        "href": "https://api.spotify.com/v1/tracks/2tHFrOBUkI6NlV2a3UVLWJ",
+        "id": "2tHFrOBUkI6NlV2a3UVLWJ",
+        "name": "cayman",
+        "popularity": 37,
+        "data": {
+            "key": 11,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.383,
+            "danceability": 0.523,
+            "energy": 0.592,
+            "instrumentalness": 1.68e-06,
+            "liveness": 0.111,
+            "loudness": -5.758,
+            "speechiness": 0.156,
+            "valence": 0.191,
+            "tempo": 182.208
+        }
+    },
+    {
+        "album": {
+            "id": "4X381fJ53pMVKyFYoFNBYA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273440804771b52fb9573ba3934",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02440804771b52fb9573ba3934",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851440804771b52fb9573ba3934",
+                    "width": 64
+                }
+            ],
+            "name": "MISCREANT"
+        },
+        "artists": [
+            {
+                "id": "4iDroUFo89Y7YBsdDTBmTD",
+                "name": "Sueco"
+            }
+        ],
+        "duration_ms": 237333,
+        "href": "https://api.spotify.com/v1/tracks/1WmHtd8OycRA5o0CBw3Ot4",
+        "id": "1WmHtd8OycRA5o0CBw3Ot4",
+        "name": "sober",
+        "popularity": 34,
+        "data": {
+            "key": 3,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.128,
+            "danceability": 0.729,
+            "energy": 0.787,
+            "instrumentalness": 0.00832,
+            "liveness": 0.0982,
+            "loudness": -7.805,
+            "speechiness": 0.0524,
+            "valence": 0.237,
+            "tempo": 90.004
+        }
+    },
+    {
+        "album": {
+            "id": "1HmWQo43Gt8BR2dylfv3o4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e46d181f0fa342ee2ef38eb3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e46d181f0fa342ee2ef38eb3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e46d181f0fa342ee2ef38eb3",
+                    "width": 64
+                }
+            ],
+            "name": "Ugly is Beautiful"
+        },
+        "artists": [
+            {
+                "id": "6TLwD7HPWuiOzvXEa3oCNe",
+                "name": "Oliver Tree"
+            }
+        ],
+        "duration_ms": 176950,
+        "href": "https://api.spotify.com/v1/tracks/6ie5en0vOy4GUercEUUNfJ",
+        "id": "6ie5en0vOy4GUercEUUNfJ",
+        "name": "Cash Machine",
+        "popularity": 62,
+        "data": {
+            "key": 9,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0159,
+            "danceability": 0.417,
+            "energy": 0.624,
+            "instrumentalness": 0.000125,
+            "liveness": 0.175,
+            "loudness": -6.61,
+            "speechiness": 0.037,
+            "valence": 0.497,
+            "tempo": 200.136
+        }
+    },
+    {
+        "album": {
+            "id": "1HmWQo43Gt8BR2dylfv3o4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e46d181f0fa342ee2ef38eb3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e46d181f0fa342ee2ef38eb3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e46d181f0fa342ee2ef38eb3",
+                    "width": 64
+                }
+            ],
+            "name": "Ugly is Beautiful"
+        },
+        "artists": [
+            {
+                "id": "6TLwD7HPWuiOzvXEa3oCNe",
+                "name": "Oliver Tree"
+            }
+        ],
+        "duration_ms": 111209,
+        "href": "https://api.spotify.com/v1/tracks/0jk6J6B9ivegJc7dTg10Mp",
+        "id": "0jk6J6B9ivegJc7dTg10Mp",
+        "name": "Let Me Down",
+        "popularity": 72,
+        "data": {
+            "key": 7,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0114,
+            "danceability": 0.457,
+            "energy": 0.648,
+            "instrumentalness": 1.69e-05,
+            "liveness": 0.212,
+            "loudness": -5.762,
+            "speechiness": 0.0552,
+            "valence": 0.736,
+            "tempo": 160.021
+        }
+    },
+    {
+        "album": {
+            "id": "1HmWQo43Gt8BR2dylfv3o4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e46d181f0fa342ee2ef38eb3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e46d181f0fa342ee2ef38eb3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e46d181f0fa342ee2ef38eb3",
+                    "width": 64
+                }
+            ],
+            "name": "Ugly is Beautiful"
+        },
+        "artists": [
+            {
+                "id": "6TLwD7HPWuiOzvXEa3oCNe",
+                "name": "Oliver Tree"
+            }
+        ],
+        "duration_ms": 125051,
+        "href": "https://api.spotify.com/v1/tracks/2PFnwW05Wh0MYkfZxSwfuf",
+        "id": "2PFnwW05Wh0MYkfZxSwfuf",
+        "name": "Miracle Man",
+        "popularity": 70,
+        "data": {
+            "key": 0,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0932,
+            "danceability": 0.67,
+            "energy": 0.477,
+            "instrumentalness": 0,
+            "liveness": 0.414,
+            "loudness": -7.774,
+            "speechiness": 0.0308,
+            "valence": 0.662,
+            "tempo": 140.029
+        }
+    },
+    {
+        "album": {
+            "id": "43Izsae53Gq995HRWRDoTu",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737cf7c17754adf0ee174c639c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027cf7c17754adf0ee174c639c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517cf7c17754adf0ee174c639c",
+                    "width": 64
+                }
+            ],
+            "name": "Freedom for my People"
+        },
+        "artists": [
+            {
+                "id": "5nki7yRhxgM509M5ADlN1p",
+                "name": "Oliver Heldens"
+            },
+            {
+                "id": "1zC5fndU0aEvINmBra2M3T",
+                "name": "Shungudzo"
+            }
+        ],
+        "duration_ms": 297054,
+        "href": "https://api.spotify.com/v1/tracks/7wOirxr2EhVVFeG8Rs0Jnx",
+        "id": "7wOirxr2EhVVFeG8Rs0Jnx",
+        "name": "Freedom for my People",
+        "popularity": 0,
+        "data": {
+            "key": 11,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.179,
+            "danceability": 0.435,
+            "energy": 0.737,
+            "instrumentalness": 0.0463,
+            "liveness": 0.115,
+            "loudness": -6.562,
+            "speechiness": 0.0481,
+            "valence": 0.282,
+            "tempo": 122.007
+        }
+    },
+    {
+        "album": {
+            "id": "49HjM8mnjS9PgYjSC03tkS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735d29fc4c51a450bd32135de1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025d29fc4c51a450bd32135de1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515d29fc4c51a450bd32135de1",
+                    "width": 64
+                }
+            ],
+            "name": "Goosebumps"
+        },
+        "artists": [
+            {
+                "id": "2o08sCWF5yyo2G4DCiT7T9",
+                "name": "HVME"
+            }
+        ],
+        "duration_ms": 163208,
+        "href": "https://api.spotify.com/v1/tracks/20McUFi8KCIVdNDLrkTDuZ",
+        "id": "20McUFi8KCIVdNDLrkTDuZ",
+        "name": "Goosebumps",
+        "popularity": 88,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.325,
+            "danceability": 0.767,
+            "energy": 0.659,
+            "instrumentalness": 0,
+            "liveness": 0.13,
+            "loudness": -7.429,
+            "speechiness": 0.0444,
+            "valence": 0.439,
+            "tempo": 124.946
+        }
+    },
+    {
+        "album": {
+            "id": "2wUKHXscUlHKW0tEVVYqRs",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739206f78f5f61452ed8e403b1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029206f78f5f61452ed8e403b1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519206f78f5f61452ed8e403b1",
+                    "width": 64
+                }
+            ],
+            "name": "Goodbye"
+        },
+        "artists": [
+            {
+                "id": "5rGrDvrLOV2VV8SCFVGWlj",
+                "name": "Imanbek"
+            },
+            {
+                "id": "2nm38smINjms1LtczR0Cei",
+                "name": "Goodboys"
+            }
+        ],
+        "duration_ms": 144000,
+        "href": "https://api.spotify.com/v1/tracks/4crczEC1PpoD8TsDsmoWNI",
+        "id": "4crczEC1PpoD8TsDsmoWNI",
+        "name": "Goodbye",
+        "popularity": 0,
+        "data": {
+            "key": 10,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0396,
+            "danceability": 0.73,
+            "energy": 0.94,
+            "instrumentalness": 3.78e-05,
+            "liveness": 0.185,
+            "loudness": -3.41,
+            "speechiness": 0.0708,
+            "valence": 0.439,
+            "tempo": 125.014
+        }
+    },
+    {
+        "album": {
+            "id": "7u2byARDMi8YgqSVhKArYB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734c9971e21d5137f503388f5f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024c9971e21d5137f503388f5f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514c9971e21d5137f503388f5f",
+                    "width": 64
+                }
+            ],
+            "name": "Euphoric Sad Songs"
+        },
+        "artists": [
+            {
+                "id": "5KKpBU5eC2tJDzf0wmlRp2",
+                "name": "RAYE"
+            },
+            {
+                "id": "4WN5naL3ofxrVBgFpguzKo",
+                "name": "Rudimental"
+            }
+        ],
+        "duration_ms": 197573,
+        "href": "https://api.spotify.com/v1/tracks/3DTqHfTGj1c6y2gDXsTez4",
+        "id": "3DTqHfTGj1c6y2gDXsTez4",
+        "name": "Regardless",
+        "popularity": 74,
+        "data": {
+            "key": 7,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0205,
+            "danceability": 0.749,
+            "energy": 0.82,
+            "instrumentalness": 0.000685,
+            "liveness": 0.0775,
+            "loudness": -6.114,
+            "speechiness": 0.0478,
+            "valence": 0.534,
+            "tempo": 120.066
+        }
+    },
+    {
+        "album": {
+            "id": "4tqrHaVlCyNSvhRD4RAvCQ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735dc8f99db7b6ed419b35786a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025dc8f99db7b6ed419b35786a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515dc8f99db7b6ed419b35786a",
+                    "width": 64
+                }
+            ],
+            "name": "Save My Life (feat. Lovespeake)"
+        },
+        "artists": [
+            {
+                "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+                "name": "David Guetta"
+            },
+            {
+                "id": "19HFRWmRCl27kTk6LeqAO8",
+                "name": "MORTEN"
+            },
+            {
+                "id": "0svmVqwlzmbBfwofH6uGbk",
+                "name": "Lovespeake"
+            }
+        ],
+        "duration_ms": 183750,
+        "href": "https://api.spotify.com/v1/tracks/1w8DxFHDDInmn5TovLKKrW",
+        "id": "1w8DxFHDDInmn5TovLKKrW",
+        "name": "Save My Life (feat. Lovespeake)",
+        "popularity": 72,
+        "data": {
+            "key": 11,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.00135,
+            "danceability": 0.704,
+            "energy": 0.745,
+            "instrumentalness": 0.741,
+            "liveness": 0.234,
+            "loudness": -7.664,
+            "speechiness": 0.0448,
+            "valence": 0.0511,
+            "tempo": 128.002
+        }
+    },
+    {
+        "album": {
+            "id": "33dBxNhA7TgcPnGINIqjx9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273aaef72a18979fbc8d5aa4a65",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02aaef72a18979fbc8d5aa4a65",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851aaef72a18979fbc8d5aa4a65",
+                    "width": 64
+                }
+            ],
+            "name": "Lovefool (feat. Pia Mia)"
+        },
+        "artists": [
+            {
+                "id": "7ACEUD7UsmmXrnj4OLt8f9",
+                "name": "twocolors"
+            },
+            {
+                "id": "1BhWF9W2PngtPSyobKg0rP",
+                "name": "Pia Mia"
+            }
+        ],
+        "duration_ms": 190243,
+        "href": "https://api.spotify.com/v1/tracks/1Qw4FBX30bGdutJ19HBD7T",
+        "id": "1Qw4FBX30bGdutJ19HBD7T",
+        "name": "Lovefool (feat. Pia Mia)",
+        "popularity": 69,
+        "data": {
+            "key": 6,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0233,
+            "danceability": 0.64,
+            "energy": 0.796,
+            "instrumentalness": 0,
+            "liveness": 0.239,
+            "loudness": -5.141,
+            "speechiness": 0.0606,
+            "valence": 0.164,
+            "tempo": 122.905
+        }
+    },
+    {
+        "album": {
+            "id": "5uFXAG4F9SX86RS5RHWDsx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bdedb94e1631ee5523385584",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bdedb94e1631ee5523385584",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bdedb94e1631ee5523385584",
+                    "width": 64
+                }
+            ],
+            "name": "No Time For Tears"
+        },
+        "artists": [
+            {
+                "id": "2gduEC76ry33RVurAvT05p",
+                "name": "Nathan Dawe"
+            },
+            {
+                "id": "3e7awlrlDSwF3iM0WBjGMp",
+                "name": "Little Mix"
+            }
+        ],
+        "duration_ms": 196777,
+        "href": "https://api.spotify.com/v1/tracks/2Rr1INov0ckj7bLTsk9LV1",
+        "id": "2Rr1INov0ckj7bLTsk9LV1",
+        "name": "No Time For Tears",
+        "popularity": 75,
+        "data": {
+            "key": 9,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0263,
+            "danceability": 0.543,
+            "energy": 0.881,
+            "instrumentalness": 1.41e-05,
+            "liveness": 0.107,
+            "loudness": -3.035,
+            "speechiness": 0.188,
+            "valence": 0.397,
+            "tempo": 125.009
+        }
+    },
+    {
+        "album": {
+            "id": "77ouoghU4UrNpO63JWLR2C",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bb57d74e709f65720a537849",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bb57d74e709f65720a537849",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bb57d74e709f65720a537849",
+                    "width": 64
+                }
+            ],
+            "name": "LUCID"
+        },
+        "artists": [
+            {
+                "id": "2KEqzdPS7M5YwGmiuPTdr5",
+                "name": "Rina Sawayama"
+            }
+        ],
+        "duration_ms": 218108,
+        "href": "https://api.spotify.com/v1/tracks/5DVATjQZPVsm5kWbrPmekU",
+        "id": "5DVATjQZPVsm5kWbrPmekU",
+        "name": "LUCID",
+        "popularity": 70,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0145,
+            "danceability": 0.672,
+            "energy": 0.895,
+            "instrumentalness": 0.000968,
+            "liveness": 0.175,
+            "loudness": -2.836,
+            "speechiness": 0.0469,
+            "valence": 0.412,
+            "tempo": 125.983
+        }
+    },
+    {
+        "album": {
+            "id": "20z68r2DFjrTCCLLA9xTXM",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273708ba6b2825c55992a18b012",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02708ba6b2825c55992a18b012",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851708ba6b2825c55992a18b012",
+                    "width": 64
+                }
+            ],
+            "name": "LOVELIFE (with Jeremih)"
+        },
+        "artists": [
+            {
+                "id": "4Ws2otunReOa6BbwxxpCt6",
+                "name": "Benny Benassi"
+            },
+            {
+                "id": "3KV3p5EY4AvKxOlhGHORLg",
+                "name": "Jeremih"
+            }
+        ],
+        "duration_ms": 151475,
+        "href": "https://api.spotify.com/v1/tracks/27ITlhgZIx0ZYwaLYYDBsi",
+        "id": "27ITlhgZIx0ZYwaLYYDBsi",
+        "name": "LOVELIFE (with Jeremih)",
+        "popularity": 71,
+        "data": {
+            "key": 6,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.239,
+            "danceability": 0.795,
+            "energy": 0.783,
+            "instrumentalness": 2.93e-06,
+            "liveness": 0.0488,
+            "loudness": -4.715,
+            "speechiness": 0.0773,
+            "valence": 0.864,
+            "tempo": 122.98
+        }
+    },
+    {
+        "album": {
+            "id": "4l2tR6CnN9Fn05aTYMb7S5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739e3ffbc9245852e20a4d0c83",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029e3ffbc9245852e20a4d0c83",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519e3ffbc9245852e20a4d0c83",
+                    "width": 64
+                }
+            ],
+            "name": "i miss u (with Au/Ra)"
+        },
+        "artists": [
+            {
+                "id": "4Q6nIcaBED8qUel8bBx6Cr",
+                "name": "Jax Jones"
+            },
+            {
+                "id": "1eMmoIprPDWeFdB1FxU6ZV",
+                "name": "Au/Ra"
+            }
+        ],
+        "duration_ms": 172143,
+        "href": "https://api.spotify.com/v1/tracks/7CH8J4ulT49UfZwSDSkSZA",
+        "id": "7CH8J4ulT49UfZwSDSkSZA",
+        "name": "i miss u (with Au/Ra)",
+        "popularity": 80,
+        "data": {
+            "key": 9,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0387,
+            "danceability": 0.668,
+            "energy": 0.726,
+            "instrumentalness": 0,
+            "liveness": 0.134,
+            "loudness": -7.512,
+            "speechiness": 0.0468,
+            "valence": 0.453,
+            "tempo": 124.075
+        }
+    },
+    {
+        "album": {
+            "id": "7vXyxBKeUmxqpaetaUPOzf",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732034a6cbed169943ecd75d9c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022034a6cbed169943ecd75d9c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512034a6cbed169943ecd75d9c",
+                    "width": 64
+                }
+            ],
+            "name": "Top Down"
+        },
+        "artists": [
+            {
+                "id": "1aQwKFn00nswXRDUDipm0K",
+                "name": "Gaullin"
+            },
+            {
+                "id": "5ee4yhrWOxaxvL77BoVpVR",
+                "name": "Lucky Luke"
+            },
+            {
+                "id": "0aF4uopelh675gJDvtpCnU",
+                "name": "Tim North"
+            }
+        ],
+        "duration_ms": 146400,
+        "href": "https://api.spotify.com/v1/tracks/67rWoODE6VWSYz0ECqJWVS",
+        "id": "67rWoODE6VWSYz0ECqJWVS",
+        "name": "Top Down",
+        "popularity": 67,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0616,
+            "danceability": 0.78,
+            "energy": 0.844,
+            "instrumentalness": 0.000479,
+            "liveness": 0.146,
+            "loudness": -5.726,
+            "speechiness": 0.17,
+            "valence": 0.371,
+            "tempo": 125.005
+        }
+    },
+    {
+        "album": {
+            "id": "0tiJtd3FqJVlT7uAezBSwK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273276c4f1eff77725df09ae46e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02276c4f1eff77725df09ae46e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851276c4f1eff77725df09ae46e",
+                    "width": 64
+                }
+            ],
+            "name": "Like Gold"
+        },
+        "artists": [
+            {
+                "id": "6t1gpxYbY8OlLA7D2RiikQ",
+                "name": "Loud Luxury"
+            },
+            {
+                "id": "6rcE30MaP92XafelMNZ2Sq",
+                "name": "Frank Walker"
+            },
+            {
+                "id": "6B72wjgAkhvxTVCL6xS6mC",
+                "name": "Stephen Puth"
+            }
+        ],
+        "duration_ms": 176388,
+        "href": "https://api.spotify.com/v1/tracks/5seWZTjT0U8a7cy3Y5NJQ9",
+        "id": "5seWZTjT0U8a7cy3Y5NJQ9",
+        "name": "Like Gold",
+        "popularity": 69,
+        "data": {
+            "key": 6,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0699,
+            "danceability": 0.759,
+            "energy": 0.845,
+            "instrumentalness": 8.65e-05,
+            "liveness": 0.215,
+            "loudness": -6.794,
+            "speechiness": 0.0421,
+            "valence": 0.694,
+            "tempo": 124.0
+        }
+    },
+    {
+        "album": {
+            "id": "3jqEvfiu2ENgmgzZq27zbi",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737368325f5998ef48d4fb5401",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027368325f5998ef48d4fb5401",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517368325f5998ef48d4fb5401",
+                    "width": 64
+                }
+            ],
+            "name": "positions"
+        },
+        "artists": [
+            {
+                "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                "name": "Ariana Grande"
+            }
+        ],
+        "duration_ms": 172324,
+        "href": "https://api.spotify.com/v1/tracks/7igeByaBM0MgGsgXtNxDJ7",
+        "id": "7igeByaBM0MgGsgXtNxDJ7",
+        "name": "positions",
+        "popularity": 80,
+        "data": {
+            "key": 0,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.468,
+            "danceability": 0.736,
+            "energy": 0.802,
+            "instrumentalness": 0,
+            "liveness": 0.094,
+            "loudness": -4.759,
+            "speechiness": 0.0864,
+            "valence": 0.675,
+            "tempo": 144.005
+        }
+    },
+    {
+        "album": {
+            "id": "3YjfdLdpQcVI72uKhooZst",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273df16d539f508603bfb1efe02",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02df16d539f508603bfb1efe02",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851df16d539f508603bfb1efe02",
+                    "width": 64
+                }
+            ],
+            "name": "F*CK LOVE (SAVAGE)"
+        },
+        "artists": [
+            {
+                "id": "2tIP7SsRs7vjIcLrU85W8J",
+                "name": "The Kid LAROI"
+            }
+        ],
+        "duration_ms": 161384,
+        "href": "https://api.spotify.com/v1/tracks/27OeeYzk6klgBh83TSvGMA",
+        "id": "27OeeYzk6klgBh83TSvGMA",
+        "name": "WITHOUT YOU",
+        "popularity": 90,
+        "data": {
+            "key": 0,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.213,
+            "danceability": 0.662,
+            "energy": 0.413,
+            "instrumentalness": 0,
+            "liveness": 0.134,
+            "loudness": -7.357,
+            "speechiness": 0.0299,
+            "valence": 0.467,
+            "tempo": 93.005
+        }
+    },
+    {
+        "album": {
+            "id": "3yVVL2EYLp8g7gT08VvYKy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0212e57573cbc551c187a96107",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485112e57573cbc551c187a96107",
+                    "width": 64
+                }
+            ],
+            "name": "Monster"
+        },
+        "artists": [
+            {
+                "id": "7n2wHs1TKAczGzO7Dd2rGr",
+                "name": "Shawn Mendes"
+            },
+            {
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber"
+            }
+        ],
+        "duration_ms": 178994,
+        "href": "https://api.spotify.com/v1/tracks/2Z8yfpFX0ZMavHkcIeHiO1",
+        "id": "2Z8yfpFX0ZMavHkcIeHiO1",
+        "name": "Monster (Shawn Mendes & Justin Bieber)",
+        "popularity": 94,
+        "data": {
+            "key": 2,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0676,
+            "danceability": 0.652,
+            "energy": 0.383,
+            "instrumentalness": 0,
+            "liveness": 0.0828,
+            "loudness": -7.076,
+            "speechiness": 0.0516,
+            "valence": 0.549,
+            "tempo": 145.765
+        }
+    },
+    {
+        "album": {
+            "id": "5G58VVE9ub1KE01Mvbd8XM",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fec5ef9f3133aff71c525acc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fec5ef9f3133aff71c525acc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fec5ef9f3133aff71c525acc",
+                    "width": 64
+                }
+            ],
+            "name": "Therefore I Am"
+        },
+        "artists": [
+            {
+                "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                "name": "Billie Eilish"
+            }
+        ],
+        "duration_ms": 174321,
+        "href": "https://api.spotify.com/v1/tracks/54bFM56PmE4YLRnqpW6Tha",
+        "id": "54bFM56PmE4YLRnqpW6Tha",
+        "name": "Therefore I Am",
+        "popularity": 96,
+        "data": {
+            "key": 11,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.218,
+            "danceability": 0.889,
+            "energy": 0.34,
+            "instrumentalness": 0.13,
+            "liveness": 0.055,
+            "loudness": -7.773,
+            "speechiness": 0.0697,
+            "valence": 0.716,
+            "tempo": 94.009
+        }
+    },
+    {
+        "album": {
+            "id": "7e7t0MCrNDcJZsPwUKjmOc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0277ada0863603903f57b34369",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485177ada0863603903f57b34369",
+                    "width": 64
+                }
+            ],
+            "name": "Shoot For The Stars Aim For The Moon"
+        },
+        "artists": [
+            {
+                "id": "0eDvMgVFoNV3TpwtrVCoTj",
+                "name": "Pop Smoke"
+            }
+        ],
+        "duration_ms": 160000,
+        "href": "https://api.spotify.com/v1/tracks/1tkg4EHVoqnhR6iFEXb60y",
+        "id": "1tkg4EHVoqnhR6iFEXb60y",
+        "name": "What You Know Bout Love",
+        "popularity": 96,
+        "data": {
+            "key": 10,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.65,
+            "danceability": 0.709,
+            "energy": 0.548,
+            "instrumentalness": 1.59e-06,
+            "liveness": 0.133,
+            "loudness": -8.493,
+            "speechiness": 0.353,
+            "valence": 0.543,
+            "tempo": 83.995
+        }
+    },
+    {
+        "album": {
+            "id": "1RWiRfdNZKDe8VXzzf2VEc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730c2c97099fd6a637ed0aa4a4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020c2c97099fd6a637ed0aa4a4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510c2c97099fd6a637ed0aa4a4",
+                    "width": 64
+                }
+            ],
+            "name": "you broke me first"
+        },
+        "artists": [
+            {
+                "id": "45dkTj5sMRSjrmBSBeiHym",
+                "name": "Tate McRae"
+            }
+        ],
+        "duration_ms": 169265,
+        "href": "https://api.spotify.com/v1/tracks/45bE4HXI0AwGZXfZtMp8JR",
+        "id": "45bE4HXI0AwGZXfZtMp8JR",
+        "name": "you broke me first",
+        "popularity": 94,
+        "data": {
+            "key": 4,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.786,
+            "danceability": 0.642,
+            "energy": 0.374,
+            "instrumentalness": 0,
+            "liveness": 0.0906,
+            "loudness": -9.386,
+            "speechiness": 0.0545,
+            "valence": 0.0799,
+            "tempo": 124.099
+        }
+    },
+    {
+        "album": {
+            "id": "2HICqd0ltMKNrkhfmWSuKy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bcf6d999338f72005c8522a7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bcf6d999338f72005c8522a7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bcf6d999338f72005c8522a7",
+                    "width": 64
+                }
+            ],
+            "name": "Deep End"
+        },
+        "artists": [
+            {
+                "id": "6trIghKwHRUyxwvm66HLHH",
+                "name": "Foushe\u00e9"
+            }
+        ],
+        "duration_ms": 141223,
+        "href": "https://api.spotify.com/v1/tracks/6HlE9t71z9DjGi7KqSyEpA",
+        "id": "6HlE9t71z9DjGi7KqSyEpA",
+        "name": "Deep End",
+        "popularity": 89,
+        "data": {
+            "key": 4,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.758,
+            "danceability": 0.711,
+            "energy": 0.592,
+            "instrumentalness": 0,
+            "liveness": 0.156,
+            "loudness": -7.136,
+            "speechiness": 0.23,
+            "valence": 0.535,
+            "tempo": 124.749
+        }
+    },
+    {
+        "album": {
+            "id": "3Qj2vsFzmaB8jcH6Q60WIG",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e99f7b031daf4e3bc1c275e5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e99f7b031daf4e3bc1c275e5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e99f7b031daf4e3bc1c275e5",
+                    "width": 64
+                }
+            ],
+            "name": "The Prelude"
+        },
+        "artists": [
+            {
+                "id": "1W7FNibLa0O0b572tB2w7t",
+                "name": "Pink Sweat$"
+            }
+        ],
+        "duration_ms": 170344,
+        "href": "https://api.spotify.com/v1/tracks/0ri0Han4IRJhzvERHOZTMr",
+        "id": "0ri0Han4IRJhzvERHOZTMr",
+        "name": "At My Worst",
+        "popularity": 86,
+        "data": {
+            "key": 0,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.777,
+            "danceability": 0.813,
+            "energy": 0.415,
+            "instrumentalness": 0,
+            "liveness": 0.131,
+            "loudness": -5.926,
+            "speechiness": 0.0349,
+            "valence": 0.667,
+            "tempo": 91.921
+        }
+    },
+    {
+        "album": {
+            "id": "7xV2TzoaVc0ycW7fwBwAml",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0277fdcfda6535601aff081b6a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485177fdcfda6535601aff081b6a",
+                    "width": 64
+                }
+            ],
+            "name": "Fine Line"
+        },
+        "artists": [
+            {
+                "id": "6KImCVD70vtIoJWnq6nGn3",
+                "name": "Harry Styles"
+            }
+        ],
+        "duration_ms": 208906,
+        "href": "https://api.spotify.com/v1/tracks/45S5WTQEGOB1VHr1Q4FuPl",
+        "id": "45S5WTQEGOB1VHr1Q4FuPl",
+        "name": "Golden",
+        "popularity": 90,
+        "data": {
+            "key": 4,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.21,
+            "danceability": 0.448,
+            "energy": 0.838,
+            "instrumentalness": 0.000131,
+            "liveness": 0.131,
+            "loudness": -5.257,
+            "speechiness": 0.0557,
+            "valence": 0.254,
+            "tempo": 139.863
+        }
+    },
+    {
+        "album": {
+            "id": "2CMlkzFI2oDAy5MbyV7OV5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0288e3cda6d29b2552d4d6bc43",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485188e3cda6d29b2552d4d6bc43",
+                    "width": 64
+                }
+            ],
+            "name": "Kid Krow"
+        },
+        "artists": [
+            {
+                "id": "4Uc8Dsxct0oMqx0P6i60ea",
+                "name": "Conan Gray"
+            }
+        ],
+        "duration_ms": 198040,
+        "href": "https://api.spotify.com/v1/tracks/4xqrdfXkTW4T0RauPLv3WA",
+        "id": "4xqrdfXkTW4T0RauPLv3WA",
+        "name": "Heather",
+        "popularity": 93,
+        "data": {
+            "key": 5,
+            "mode": 1,
+            "time_signature": 3,
+            "acousticness": 0.584,
+            "danceability": 0.357,
+            "energy": 0.425,
+            "instrumentalness": 0,
+            "liveness": 0.322,
+            "loudness": -7.301,
+            "speechiness": 0.0333,
+            "valence": 0.27,
+            "tempo": 102.078
+        }
+    },
+    {
+        "album": {
+            "id": "7Ef5RjtzcXSJvTw5ysf3Ye",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730e24d47704a3b2644b3b2421",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020e24d47704a3b2644b3b2421",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510e24d47704a3b2644b3b2421",
+                    "width": 64
+                }
+            ],
+            "name": "Lovezone"
+        },
+        "artists": [
+            {
+                "id": "0AlOgXaMBLYvxNEhqHM4np",
+                "name": "Rome Fortune"
+            }
+        ],
+        "duration_ms": 168000,
+        "href": "https://api.spotify.com/v1/tracks/1gJ7I46oRO9tvlP1IlexRj",
+        "id": "1gJ7I46oRO9tvlP1IlexRj",
+        "name": "Lovezone",
+        "popularity": 0,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.508,
+            "danceability": 0.584,
+            "energy": 0.528,
+            "instrumentalness": 0.893,
+            "liveness": 0.0918,
+            "loudness": -7.889,
+            "speechiness": 0.0455,
+            "valence": 0.745,
+            "tempo": 210.019
+        }
+    },
+    {
+        "album": {
+            "id": "2exyw2cPaUSgAZRbeD3Ovv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273547083641c32dbf328246e90",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02547083641c32dbf328246e90",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851547083641c32dbf328246e90",
+                    "width": 64
+                }
+            ],
+            "name": "Lifetime Remixes"
+        },
+        "artists": [
+            {
+                "id": "3X2DdnmoANw8Rg8luHyZQb",
+                "name": "Romy"
+            },
+            {
+                "id": "3NKVm2Jedcf6ibJr6pMUVx",
+                "name": "Jayda G"
+            }
+        ],
+        "duration_ms": 194755,
+        "href": "https://api.spotify.com/v1/tracks/2aO0ymX3VfF86945XVcdWM",
+        "id": "2aO0ymX3VfF86945XVcdWM",
+        "name": "Lifetime - Jayda G Baleen Mix",
+        "popularity": 37,
+        "data": {
+            "key": 10,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.132,
+            "danceability": 0.761,
+            "energy": 0.68,
+            "instrumentalness": 0.301,
+            "liveness": 0.137,
+            "loudness": -8.568,
+            "speechiness": 0.0409,
+            "valence": 0.616,
+            "tempo": 126.994
+        }
+    },
+    {
+        "album": {
+            "id": "7JN4bDXgC4mDcuhghlFBHc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738d8aae8ad272d6f225f2ea28",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028d8aae8ad272d6f225f2ea28",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518d8aae8ad272d6f225f2ea28",
+                    "width": 64
+                }
+            ],
+            "name": "Dead Man Walking"
+        },
+        "artists": [
+            {
+                "id": "3tlXnStJ1fFhdScmQeLpuG",
+                "name": "Brent Faiyaz"
+            }
+        ],
+        "duration_ms": 247079,
+        "href": "https://api.spotify.com/v1/tracks/5VlTQnZO89Ioku8ssdbqJk",
+        "id": "5VlTQnZO89Ioku8ssdbqJk",
+        "name": "Dead Man Walking",
+        "popularity": 80,
+        "data": {
+            "key": 9,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.279,
+            "danceability": 0.505,
+            "energy": 0.267,
+            "instrumentalness": 0,
+            "liveness": 0.096,
+            "loudness": -13.763,
+            "speechiness": 0.05,
+            "valence": 0.439,
+            "tempo": 143.929
+        }
+    },
+    {
+        "album": {
+            "id": "17Z3b3zcONkAQFS1GJ6AM4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273372407432334efcbbafc137a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02372407432334efcbbafc137a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851372407432334efcbbafc137a",
+                    "width": 64
+                }
+            ],
+            "name": "Condition"
+        },
+        "artists": [
+            {
+                "id": "1np8xozf7ATJZDi9JX8Dx5",
+                "name": "salute"
+            }
+        ],
+        "duration_ms": 274412,
+        "href": "https://api.spotify.com/v1/tracks/2ipbVg9oVEJ6VJMOAwZOVG",
+        "id": "2ipbVg9oVEJ6VJMOAwZOVG",
+        "name": "Honey",
+        "popularity": 49,
+        "data": {
+            "key": 11,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0549,
+            "danceability": 0.766,
+            "energy": 0.525,
+            "instrumentalness": 0.00534,
+            "liveness": 0.0594,
+            "loudness": -8.368,
+            "speechiness": 0.363,
+            "valence": 0.671,
+            "tempo": 126.981
+        }
+    },
+    {
+        "album": {
+            "id": "3yrC1dGWFi1YccEH8Ceua6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273dd30b02b2466be41b612a27b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02dd30b02b2466be41b612a27b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851dd30b02b2466be41b612a27b",
+                    "width": 64
+                }
+            ],
+            "name": "Let's Go Out"
+        },
+        "artists": [
+            {
+                "id": "1Rwokb27xxRMZC0zWA8i6C",
+                "name": "Bella Boo"
+            }
+        ],
+        "duration_ms": 296461,
+        "href": "https://api.spotify.com/v1/tracks/0xmB1LYDQFjkvERTFvM3SJ",
+        "id": "0xmB1LYDQFjkvERTFvM3SJ",
+        "name": "Rain On Me",
+        "popularity": 39,
+        "data": {
+            "key": 7,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00406,
+            "danceability": 0.787,
+            "energy": 0.594,
+            "instrumentalness": 0.852,
+            "liveness": 0.121,
+            "loudness": -12.487,
+            "speechiness": 0.0906,
+            "valence": 0.416,
+            "tempo": 130.033
+        }
+    },
+    {
+        "album": {
+            "id": "3CU1TMUl0c6XzIVWPvzPv0",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733088ddad7a7ab9fc4355249e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023088ddad7a7ab9fc4355249e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513088ddad7a7ab9fc4355249e",
+                    "width": 64
+                }
+            ],
+            "name": "Hues"
+        },
+        "artists": [
+            {
+                "id": "4yJHrytMK7mqtKsXVGaBNg",
+                "name": "Fana Hues"
+            }
+        ],
+        "duration_ms": 126192,
+        "href": "https://api.spotify.com/v1/tracks/6XkHHMfaghZ1SNf3V5yM5b",
+        "id": "6XkHHMfaghZ1SNf3V5yM5b",
+        "name": "Lay Up",
+        "popularity": 50,
+        "data": {
+            "key": 6,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.0236,
+            "danceability": 0.515,
+            "energy": 0.821,
+            "instrumentalness": 0.0127,
+            "liveness": 0.588,
+            "loudness": -2.691,
+            "speechiness": 0.113,
+            "valence": 0.696,
+            "tempo": 173.857
+        }
+    },
+    {
+        "album": {
+            "id": "2lAlbPqGVAxv0ZnUQ5GRQw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735799ca3605d20ffcbe5b9bcd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025799ca3605d20ffcbe5b9bcd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515799ca3605d20ffcbe5b9bcd",
+                    "width": 64
+                }
+            ],
+            "name": "Dunya (feat. LukeyWorld)"
+        },
+        "artists": [
+            {
+                "id": "5XenQ7XfcvQdfIbpLEFaKQ",
+                "name": "GoldLink"
+            },
+            {
+                "id": "6DrRHenMKLK5wm5d2mNJmR",
+                "name": "LukeyWorld"
+            }
+        ],
+        "duration_ms": 180552,
+        "href": "https://api.spotify.com/v1/tracks/3L23Jgif3sjgwEApqn3Go3",
+        "id": "3L23Jgif3sjgwEApqn3Go3",
+        "name": "Dunya (feat. LukeyWorld)",
+        "popularity": 61,
+        "data": {
+            "key": 5,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.216,
+            "danceability": 0.884,
+            "energy": 0.595,
+            "instrumentalness": 3.91e-05,
+            "liveness": 0.09,
+            "loudness": -5.832,
+            "speechiness": 0.0588,
+            "valence": 0.396,
+            "tempo": 131.046
+        }
+    },
+    {
+        "album": {
+            "id": "2sD4s8plx7sdr7Qn580kK6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f89edafc4916eaec3bd718ab",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f89edafc4916eaec3bd718ab",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f89edafc4916eaec3bd718ab",
+                    "width": 64
+                }
+            ],
+            "name": "Bad Habits"
+        },
+        "artists": [
+            {
+                "id": "23zg3TcAtWQy7J6upgbUnj",
+                "name": "Usher"
+            }
+        ],
+        "duration_ms": 257249,
+        "href": "https://api.spotify.com/v1/tracks/7beY8mXJuC4l0J2WgVoCfm",
+        "id": "7beY8mXJuC4l0J2WgVoCfm",
+        "name": "Bad Habits",
+        "popularity": 68,
+        "data": {
+            "key": 5,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0934,
+            "danceability": 0.62,
+            "energy": 0.829,
+            "instrumentalness": 0,
+            "liveness": 0.111,
+            "loudness": -4.433,
+            "speechiness": 0.101,
+            "valence": 0.636,
+            "tempo": 152.279
+        }
+    },
+    {
+        "album": {
+            "id": "3WWfApLKg76DOgntZABET6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730263e4a3c8e9f19297a85e66",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020263e4a3c8e9f19297a85e66",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510263e4a3c8e9f19297a85e66",
+                    "width": 64
+                }
+            ],
+            "name": "Hold On"
+        },
+        "artists": [
+            {
+                "id": "3Y7RZ31TRPVadSFVy1o8os",
+                "name": "H.E.R."
+            }
+        ],
+        "duration_ms": 203214,
+        "href": "https://api.spotify.com/v1/tracks/0zcRUprLKw7LtndkBurb3S",
+        "id": "0zcRUprLKw7LtndkBurb3S",
+        "name": "Hold On",
+        "popularity": 68,
+        "data": {
+            "key": 5,
+            "mode": 1,
+            "time_signature": 3,
+            "acousticness": 0.453,
+            "danceability": 0.461,
+            "energy": 0.542,
+            "instrumentalness": 4.32e-06,
+            "liveness": 0.146,
+            "loudness": -5.202,
+            "speechiness": 0.0457,
+            "valence": 0.189,
+            "tempo": 120.209
+        }
+    },
+    {
+        "album": {
+            "id": "5n8vnVCFsIi8XYNSZpvyd6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738061c1934420b0e4202a35e8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028061c1934420b0e4202a35e8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518061c1934420b0e4202a35e8",
+                    "width": 64
+                }
+            ],
+            "name": "Inhale"
+        },
+        "artists": [
+            {
+                "id": "2EMAnMvWE2eb56ToJVfCWs",
+                "name": "Bryson Tiller"
+            }
+        ],
+        "duration_ms": 174091,
+        "href": "https://api.spotify.com/v1/tracks/4ptJnPKDD6S038BlYss3Tf",
+        "id": "4ptJnPKDD6S038BlYss3Tf",
+        "name": "Inhale",
+        "popularity": 61,
+        "data": {
+            "key": 4,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.317,
+            "danceability": 0.464,
+            "energy": 0.714,
+            "instrumentalness": 0.00274,
+            "liveness": 0.247,
+            "loudness": -8.23,
+            "speechiness": 0.411,
+            "valence": 0.456,
+            "tempo": 77.524
+        }
+    },
+    {
+        "album": {
+            "id": "4ApHDufPmgrypVKB6Yzxa5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d1371ff35bc6aa373c3b75dc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d1371ff35bc6aa373c3b75dc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d1371ff35bc6aa373c3b75dc",
+                    "width": 64
+                }
+            ],
+            "name": "Last December"
+        },
+        "artists": [
+            {
+                "id": "5aYyPjAsLj7UzANzdupwnS",
+                "name": "Good Charlotte"
+            }
+        ],
+        "duration_ms": 189060,
+        "href": "https://api.spotify.com/v1/tracks/0M3WxzvPruZ2i5dvOOGAOC",
+        "id": "0M3WxzvPruZ2i5dvOOGAOC",
+        "name": "Last December",
+        "popularity": 0,
+        "data": {
+            "key": 8,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.000142,
+            "danceability": 0.408,
+            "energy": 0.949,
+            "instrumentalness": 5.42e-06,
+            "liveness": 0.26,
+            "loudness": -3.187,
+            "speechiness": 0.168,
+            "valence": 0.341,
+            "tempo": 155.124
+        }
+    },
+    {
+        "album": {
+            "id": "4z83faihZhcjSRyqLb5XSL",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739baaaa5b30c2e21db3b14248",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029baaaa5b30c2e21db3b14248",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519baaaa5b30c2e21db3b14248",
+                    "width": 64
+                }
+            ],
+            "name": "My Way, Soon"
+        },
+        "artists": [
+            {
+                "id": "4NpFxQe2UvRCAjto3JqlSl",
+                "name": "Greta Van Fleet"
+            }
+        ],
+        "duration_ms": 255217,
+        "href": "https://api.spotify.com/v1/tracks/1FBereoGKCn8BKqKheYw1z",
+        "id": "1FBereoGKCn8BKqKheYw1z",
+        "name": "My Way, Soon",
+        "popularity": 63,
+        "data": {
+            "key": 10,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 8.56e-05,
+            "danceability": 0.409,
+            "energy": 0.943,
+            "instrumentalness": 0.105,
+            "liveness": 0.0938,
+            "loudness": -4.056,
+            "speechiness": 0.0598,
+            "valence": 0.438,
+            "tempo": 131.899
+        }
+    },
+    {
+        "album": {
+            "id": "5tRhwDUyr3HypAaJysxUki",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a759c9110a458a97f767eb2d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a759c9110a458a97f767eb2d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a759c9110a458a97f767eb2d",
+                    "width": 64
+                }
+            ],
+            "name": "Daisy"
+        },
+        "artists": [
+            {
+                "id": "3PyJHH2wyfQK3WZrk9rpmP",
+                "name": "Ashnikko"
+            }
+        ],
+        "duration_ms": 146523,
+        "href": "https://api.spotify.com/v1/tracks/0AUvWawuP0ibk4SQ3sIZjk",
+        "id": "0AUvWawuP0ibk4SQ3sIZjk",
+        "name": "Daisy",
+        "popularity": 90,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.235,
+            "danceability": 0.834,
+            "energy": 0.663,
+            "instrumentalness": 0,
+            "liveness": 0.372,
+            "loudness": -6.143,
+            "speechiness": 0.133,
+            "valence": 0.774,
+            "tempo": 121.876
+        }
+    },
+    {
+        "album": {
+            "id": "1NCMThGVejpiJtC5VTcAXf",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273723466838f3034aca03d700c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02723466838f3034aca03d700c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851723466838f3034aca03d700c",
+                    "width": 64
+                }
+            ],
+            "name": "Air Forces"
+        },
+        "artists": [
+            {
+                "id": "1zkKkDDra0jlsiJYz57P3P",
+                "name": "Mustafa"
+            }
+        ],
+        "duration_ms": 178393,
+        "href": "https://api.spotify.com/v1/tracks/4XD7sfXwdU4LVQ1CQDD3ZT",
+        "id": "4XD7sfXwdU4LVQ1CQDD3ZT",
+        "name": "Air Forces",
+        "popularity": 54,
+        "data": {
+            "key": 6,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.895,
+            "danceability": 0.53,
+            "energy": 0.333,
+            "instrumentalness": 0.00686,
+            "liveness": 0.14,
+            "loudness": -15.34,
+            "speechiness": 0.101,
+            "valence": 0.432,
+            "tempo": 174.119
+        }
+    },
+    {
+        "album": {
+            "id": "265inH5rByFJoFVUYb9D98",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e770a344d5eca9adb68afc48",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e770a344d5eca9adb68afc48",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e770a344d5eca9adb68afc48",
+                    "width": 64
+                }
+            ],
+            "name": "Cotton Candy"
+        },
+        "artists": [
+            {
+                "id": "3qqkHeEhezlIaNj1vFYH2r",
+                "name": "spill tab"
+            }
+        ],
+        "duration_ms": 93871,
+        "href": "https://api.spotify.com/v1/tracks/7K1H5Peem34cxKy40kNFw5",
+        "id": "7K1H5Peem34cxKy40kNFw5",
+        "name": "Cotton Candy",
+        "popularity": 59,
+        "data": {
+            "key": 0,
+            "mode": 1,
+            "time_signature": 3,
+            "acousticness": 0.675,
+            "danceability": 0.685,
+            "energy": 0.46,
+            "instrumentalness": 1.25e-05,
+            "liveness": 0.357,
+            "loudness": -7.809,
+            "speechiness": 0.224,
+            "valence": 0.596,
+            "tempo": 96.876
+        }
+    },
+    {
+        "album": {
+            "id": "6Ybk2UXncKCGUvi41vwcWR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d7d23fdeabfbcd1ce73d0acd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d7d23fdeabfbcd1ce73d0acd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d7d23fdeabfbcd1ce73d0acd",
+                    "width": 64
+                }
+            ],
+            "name": "Devotion"
+        },
+        "artists": [
+            {
+                "id": "756t7CBmWLNYsshVtS6P44",
+                "name": "Tone Stith"
+            }
+        ],
+        "duration_ms": 249494,
+        "href": "https://api.spotify.com/v1/tracks/2b3y7M0vz0oqP5AwGguTV7",
+        "id": "2b3y7M0vz0oqP5AwGguTV7",
+        "name": "Devotion",
+        "popularity": 58,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.027,
+            "danceability": 0.593,
+            "energy": 0.842,
+            "instrumentalness": 0,
+            "liveness": 0.175,
+            "loudness": -3.196,
+            "speechiness": 0.0347,
+            "valence": 0.608,
+            "tempo": 105.028
+        }
+    },
+    {
+        "album": {
+            "id": "11QKDc8OK4rnD3uBs7wKmR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733c1d50d3467be460844da7c1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023c1d50d3467be460844da7c1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513c1d50d3467be460844da7c1",
+                    "width": 64
+                }
+            ],
+            "name": "The Album"
+        },
+        "artists": [
+            {
+                "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+                "name": "Teyana Taylor"
+            },
+            {
+                "id": "0cGUm45nv7Z6M6qdXYQGTX",
+                "name": "Kehlani"
+            }
+        ],
+        "duration_ms": 287163,
+        "href": "https://api.spotify.com/v1/tracks/5nYT2MO2wuJ0KkYJhKvD0v",
+        "id": "5nYT2MO2wuJ0KkYJhKvD0v",
+        "name": "Morning (with Kehlani)",
+        "popularity": 49,
+        "data": {
+            "key": 3,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.553,
+            "danceability": 0.56,
+            "energy": 0.541,
+            "instrumentalness": 0,
+            "liveness": 0.298,
+            "loudness": -7.731,
+            "speechiness": 0.094,
+            "valence": 0.638,
+            "tempo": 119.839
+        }
+    },
+    {
+        "album": {
+            "id": "11QKDc8OK4rnD3uBs7wKmR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733c1d50d3467be460844da7c1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023c1d50d3467be460844da7c1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513c1d50d3467be460844da7c1",
+                    "width": 64
+                }
+            ],
+            "name": "The Album"
+        },
+        "artists": [
+            {
+                "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+                "name": "Teyana Taylor"
+            },
+            {
+                "id": "7IfculRW2WXyzNQ8djX8WX",
+                "name": "Erykah Badu"
+            }
+        ],
+        "duration_ms": 257789,
+        "href": "https://api.spotify.com/v1/tracks/125kmhAUbQqM4zKOS3L7No",
+        "id": "125kmhAUbQqM4zKOS3L7No",
+        "name": "Lowkey (feat. Erykah Badu)",
+        "popularity": 54,
+        "data": {
+            "key": 9,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.423,
+            "danceability": 0.535,
+            "energy": 0.553,
+            "instrumentalness": 0.000141,
+            "liveness": 0.1,
+            "loudness": -8.911,
+            "speechiness": 0.222,
+            "valence": 0.488,
+            "tempo": 130.409
+        }
+    },
+    {
+        "album": {
+            "id": "11QKDc8OK4rnD3uBs7wKmR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733c1d50d3467be460844da7c1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023c1d50d3467be460844da7c1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513c1d50d3467be460844da7c1",
+                    "width": 64
+                }
+            ],
+            "name": "The Album"
+        },
+        "artists": [
+            {
+                "id": "4ULO7IGI3M2bo0Ap7B9h8a",
+                "name": "Teyana Taylor"
+            }
+        ],
+        "duration_ms": 159701,
+        "href": "https://api.spotify.com/v1/tracks/33eARItosPkQZxshJPzRgd",
+        "id": "33eARItosPkQZxshJPzRgd",
+        "name": "Wrong Bitch",
+        "popularity": 47,
+        "data": {
+            "key": 1,
+            "mode": 0,
+            "time_signature": 5,
+            "acousticness": 0.799,
+            "danceability": 0.43,
+            "energy": 0.443,
+            "instrumentalness": 0,
+            "liveness": 0.113,
+            "loudness": -6.38,
+            "speechiness": 0.187,
+            "valence": 0.516,
+            "tempo": 169.38
+        }
+    },
+    {
+        "album": {
+            "id": "2T8UlI17u5hwTqu6zkpkW7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d8082097058d4c44739b17dd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d8082097058d4c44739b17dd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d8082097058d4c44739b17dd",
+                    "width": 64
+                }
+            ],
+            "name": "PARTYMOBILE"
+        },
+        "artists": [
+            {
+                "id": "2HPaUgqeutzr3jx5a9WyDV",
+                "name": "PARTYNEXTDOOR"
+            }
+        ],
+        "duration_ms": 286781,
+        "href": "https://api.spotify.com/v1/tracks/6Jq89I45IO3GNlD3ulEgZf",
+        "id": "6Jq89I45IO3GNlD3ulEgZf",
+        "name": "SHOWING YOU",
+        "popularity": 55,
+        "data": {
+            "key": 6,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.739,
+            "danceability": 0.649,
+            "energy": 0.297,
+            "instrumentalness": 0,
+            "liveness": 0.11,
+            "loudness": -13.509,
+            "speechiness": 0.036,
+            "valence": 0.523,
+            "tempo": 133.933
+        }
+    }
+]

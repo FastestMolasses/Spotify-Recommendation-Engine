@@ -1,0 +1,68 @@
+Name,Artists,Album,Duration,Popularity,Song ID,Key,Mode,Time Signature,Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Valence,Tempo
+Hell Of A View,Eric Church,Hell Of A View,175280,73,1kBx9VGumfuvlfqdlAGorE,5,1,4,0.119,0.689,0.582,0.00464,0.101,-6.778,0.0236,0.883,99.021
+Somebody’s Problem,Morgan Wallen,Somebody’s Problem,161773,81,0SErdEdRcVX1uJCf1eTGYH,5,1,4,0.662,0.657,0.54,0,0.123,-7.675,0.0287,0.625,136.97
+Things A Man Oughta Know,Lainey Wilson,Redneck Hollywood,206320,71,7cwKO3SvjCpTyLiIWfnxpx,3,1,4,0.518,0.661,0.67,2.2e-06,0.13,-5.58,0.0307,0.357,139.852
+Doing Life With Me,Eric Church,Doing Life With Me,195586,60,57YkkgxAiusJPMtiSG3w3c,3,1,4,0.73,0.646,0.598,5.87e-06,0.118,-10.293,0.0425,0.606,80.993
+Starting Over,Chris Stapleton,Starting Over,240413,77,3TNSVsiFngfe68UJpMq1oS,10,1,4,0.452,0.638,0.538,0.000415,0.0695,-8.445,0.0315,0.318,89.124
+Famous Friends,Chris Young/Kane Brown,Famous Friends,165569,71,4iXDn9pu5Q9sxv45vE8Lak,6,1,4,0.0553,0.533,0.855,0,0.335,-2.901,0.0356,0.64,102.017
+Next Girl,Carly Pearce,Next Girl,164677,70,4QpWhd7l2NrmGmfw4qGlpa,11,1,4,0.143,0.583,0.867,0,0.0863,-4.17,0.0637,0.962,160.096
+Love You Like I Used To,Russell Dickerson,Love You Like I Used To,186613,76,1D7cfiC5mxqHfTCcOiRBej,10,1,4,0.12,0.501,0.788,0,0.137,-4.624,0.0415,0.61,152.047
+GOOD TIME,Niko Moon,GOOD TIME - EP,214706,71,5Kpg1A7BOHpBbaT3H3xqd3,5,1,4,0.132,0.79,0.646,0,0.295,-5.878,0.0447,0.641,138.047
+We Go Together Like,Abby Anderson,We Go Together Like,163960,68,3mwQ4tEWBWynjw7HJgMiRA,11,1,4,0.172,0.62,0.817,0,0.144,-5.317,0.0254,0.614,99.963
+Forever After All,Luke Combs,What You See Ain't Always What You Get (Deluxe Edition),232533,85,6IBcOGPsniK3Pso1wHIhew,0,1,4,0.191,0.487,0.65,0,0.0933,-5.195,0.0253,0.456,151.964
+Beers And Sunshine,Darius Rucker,Beers And Sunshine,178278,69,36ISlLb12gKuCCVTYXC0gb,5,1,4,0.134,0.57,0.645,0,0.147,-5.816,0.0304,0.677,81.084
+Just About Over You - Radio Edit,Priscilla Block,Just About Over You (Radio Edit),188012,18,7r4QGA98fNi3iPxc7umIjt,4,1,4,0.189,0.546,0.788,0,0.159,-3.302,0.0324,0.585,150.084
+Almost Maybes,Jordan Davis,Almost Maybes,179152,74,14JFKtBSqefxfMiKhq6JT8,11,1,4,0.146,0.582,0.868,0,0.103,-3.927,0.0522,0.555,90.105
+Gone,Dierks Bentley,Gone,205960,71,7IhfjcaXuXCq20ZiAA7igK,6,1,4,0.00985,0.521,0.746,0,0.0741,-6.173,0.0351,0.473,149.977
+Livin’ The Dream,Morgan Wallen,Livin’ The Dream,239120,75,2L4YgbxxwmwafMqLIjSx8q,7,0,4,0.575,0.621,0.754,0.00484,0.213,-5.904,0.0269,0.441,127.036
+Happy Anywhere (feat. Gwen Stefani),Blake Shelton/Gwen Stefani,Happy Anywhere (feat. Gwen Stefani),170173,75,2DwbFtfC6sXBiVDPmju8Dd,8,1,4,0.1,0.538,0.745,0,0.063,-5.774,0.0387,0.669,165.755
+Settling Down,Miranda Lambert,Wildcard,197453,69,53bZYxVbCYm6w1Gx8U64bz,6,0,4,0.0215,0.643,0.756,0.000268,0.101,-5.8,0.0305,0.934,90.001
+Burn 'Em All,Kameron Marlowe,Burn 'Em All,185305,69,2UBvtKeetnXn6lMnsBUrZz,11,0,4,0.115,0.632,0.886,0,0.136,-3.986,0.054,0.637,114.951
+Nothing's Better,Filmore,State I'm In,193144,71,1LtiNpTzzSX8qcvlPFLmeR,9,1,4,0.0724,0.8,0.515,0,0.355,-5.431,0.0351,0.949,110.018
+I Should Probably Go To Bed,Dan + Shay,I Should Probably Go To Bed,171826,79,5ovVcYo2MvjVydFwFyaaqy,1,1,4,0.634,0.721,0.277,0,0.112,-7.128,0.0365,0.309,131.935
+Lose You,Jordan Davis,Lose You,203321,72,0vK1vDEvEMvSpFEKW62Qub,6,1,4,0.209,0.649,0.64,0.000532,0.0965,-6.09,0.0352,0.42,94.957
+More Than My Hometown,Morgan Wallen,More Than My Hometown,216573,48,6FniJZn4agmDtPx1pKZQsa,6,1,4,0.601,0.621,0.882,0,0.132,-5.01,0.0459,0.574,126.014
+Never Be Sorry,Old Dominion,Old Dominion,203840,69,1TP0hha5wan1xwKjGcNSCv,11,1,4,0.012,0.733,0.833,4.22e-05,0.16,-5.416,0.0284,0.851,125.998
+Worship You,Kane Brown,Mixtape Vol. 1 - EP,205746,72,4RN6OApAESI3Sh0gf5iuAM,8,1,4,0.388,0.63,0.496,0,0.088,-7.011,0.0329,0.387,78.024
+Without You,Luke Combs/Amanda Shires,Without You,224986,63,34slXA5D75T5S0dwYYRd4J,6,1,4,0.307,0.522,0.659,0,0.102,-6.016,0.0304,0.355,141.996
+Better Than That,Matt Stell,Better Than That,198733,56,1R65hpDEf3BiYRmdaa7roQ,9,0,4,0.00542,0.469,0.88,0.000125,0.123,-3.373,0.0719,0.583,157.99
+What’s Your Country Song,Thomas Rhett,What's Your Country Song,170372,74,7Cw3yXDA8Uui37SI5FFaA7,5,1,4,0.000532,0.355,0.706,0,0.264,-6.164,0.0309,0.523,174.005
+Memory I Don't Mess With,Lee Brice,Memory I Don't Mess With,180616,70,7BQE1P0NUalHSvFtrxasx9,6,0,4,0.171,0.617,0.704,0,0.0924,-7.61,0.0258,0.57,91.541
+Dirty,grandson,Dirty,208296,70,3MTfE3Mo3lfwAymYLU2luX,2,1,4,0.0033,0.536,0.845,0,0.0465,-5.765,0.0615,0.6,159.953
+acting like that (feat. Machine Gun Kelly),YUNGBLUD/Machine Gun Kelly,acting like that (feat. Machine Gun Kelly),191066,75,6PxNpy8jOjyZ8aGCD58LpW,0,0,4,6.98e-05,0.522,0.9,0,0.3,-2.631,0.0719,0.579,160.01
+ESTELLA// (feat. Travis Barker),KennyHoopla/Travis Barker,ESTELLA// (feat. Travis Barker),118733,63,4v2Bq0xDB7uNN73I5b44Du,8,1,4,0.000839,0.472,0.811,0.000143,0.373,-5.121,0.0612,0.637,164.991
+Trouble’s Coming,Royal Blood,Trouble’s Coming,228400,71,5eR6OS3joTAHJToyzehKfu,1,0,4,0.0629,0.767,0.694,0,0.32,-5.059,0.0384,0.78,112.012
+Take Me Away,Ayron Jones,Take Me Away,246932,61,4CEqDmkqD7illXHuym76V6,1,0,4,0.00012,0.475,0.844,0.111,0.221,-4.448,0.0622,0.554,156.136
+Dark Love (ft. Aaron Gillespie),Sullivan King/Aaron Gillespie,Dark Love (ft. Aaron Gillespie),165000,50,6SLVMTlKz0rGfRdE2NRVuR,11,0,4,0.000823,0.515,0.602,0,0.0673,-5.515,0.0977,0.438,140.105
+Wasteland,Seether,Si Vis Pacem Para Bellum,239626,57,2SD2zj8W5zKMdjCCJFF0vQ,1,1,3,7.61e-05,0.268,0.811,0.00122,0.0651,-4.06,0.0409,0.295,101.041
+Fuck Them All,The Dangerous Summer,Fuck Them All,196800,57,5XTKO227Jtu81Ni41Fi9Gj,2,1,4,0.0161,0.539,0.887,4.18e-06,0.267,-6.935,0.037,0.448,100.017
+Beautiful Way,You Me At Six,Beautiful Way,225786,61,2xhpnTyhinktiHD3JFdZOC,5,0,4,0.0125,0.384,0.921,0.108,0.152,-3.609,0.0489,0.446,171.036
+This is Our Life,Des Rocs,This is Our Life,224306,60,5T38ywOoK6b29fpbTrhwx3,7,1,4,0.00108,0.367,0.877,1.08e-05,0.351,-3.92,0.109,0.395,157.68
+Shame Shame,Foo Fighters,Shame Shame,257433,71,0wGv595Z2XDF9ZFbrbQqqH,7,1,4,0.00129,0.648,0.864,0.0296,0.0368,-4.136,0.0335,0.354,122.014
+Protect The Land,System Of A Down,Protect The Land / Genocidal Humanoidz,307644,75,11ajcVj3qSyyMPUpTJUP3y,8,1,4,9.2e-05,0.432,0.886,4.74e-05,0.338,-3.991,0.0341,0.248,76.04
+Teardrops,Bring Me The Horizon,Teardrops,215003,74,3aniWcwiiYKHpm3F5TdeKD,7,1,4,0.000323,0.497,0.916,0,0.36,-3.323,0.108,0.401,96.051
+HONEY,LUNA AURA,THREE CHEERS FOR THE AMERICAN BEAUTY,155680,49,3k0iCsB9pZJ86yVWwQ16jS,9,1,4,0.0326,0.472,0.903,2.71e-06,0.0664,-4.838,0.131,0.449,119.014
+25,The Pretty Reckless,25,326901,56,2tono51k7WmcMuMmUkff0q,2,1,4,0.248,0.455,0.663,5.06e-06,0.158,-5.233,0.0326,0.236,153.932
+Young & Faded,The Hunna,Young & Faded,171493,47,04nqh41iiGhpEDgAEoiuua,1,0,4,0.117,0.614,0.824,0.00716,0.338,-4.963,0.0519,0.172,150.028
+Monsters (feat. blackbear),All Time Low/blackbear,Wake Up Sunshine,174067,78,0tyR7Bu9P086aWBFZ4QJoo,0,0,4,0.0493,0.369,0.845,0,0.416,-3.449,0.0611,0.782,78.532
+Ohms,Deftones,Ohms,250222,61,6mfrK1kvsOjiiH64Ier962,4,1,3,0.000108,0.112,0.978,0.0241,0.117,-2.64,0.117,0.371,173.097
+Ramona,The Smashing Pumpkins,Ramona,228160,55,5EfK3DZoPOzmVmN29GJKIm,7,0,4,0.00805,0.71,0.677,0.0931,0.112,-8.186,0.0316,0.467,127.037
+30,Badflower,30,226568,63,6nipZlJiUvI0I7lCf1Z7Li,9,1,3,0.00324,0.548,0.971,0.000388,0.065,-3.915,0.16,0.373,135.028
+Can You Afford to Be An Individual?,Nothing But Thieves,Moral Panic,236047,63,1fjygBqOg8E1t6RnYu5GIC,11,0,4,0.0117,0.515,0.859,0.0227,0.127,-6.103,0.303,0.605,150.067
+Big Shot,IRONTOM,Full Moon,220527,27,0Gz0WxGMpNkKYwI64VOfAF,8,0,4,0.00743,0.504,0.938,0,0.0741,-2.696,0.0583,0.612,145.91
+Every Time You Leave (Feat. Delaney Jane),I Prevail/Delaney Jane,Every Time You Leave [Feat. Delaney Jane] (Live Acoustic),216626,54,4lE8AJsMIEMpXqEZlVVa4n,1,0,4,0.000466,0.473,0.749,5.5e-06,0.0883,-5.047,0.0277,0.172,150.021
+Shot In The Dark,AC/DC,Shot In The Dark,185133,72,6ZtrGCcn38kGImt2GPFbJB,2,1,4,2.07e-05,0.599,0.787,5.27e-05,0.064,-4.708,0.0338,0.822,114.065
+drunk face,Machine Gun Kelly,Tickets To My Downfall,143900,74,3k0YJnqMKRZb8swo86vCkq,7,0,4,0.0282,0.691,0.77,0,0.497,-4.578,0.0367,0.344,90.024
+HOLIDAY,Lil Nas X,HOLIDAY,154997,92,6zFMeegAMYQo0mt8rXtrli,5,0,4,0.12,0.81,0.511,0,0.0832,-6.924,0.164,0.837,151.947
+Pick Up Your Feelings,Jazmine Sullivan,Pick Up Your Feelings,232096,69,2JLVZYEMmqPWbUoAJAMKfm,7,0,3,0.291,0.729,0.414,0,0.0793,-6.138,0.0565,0.565,85.729
+Sending My Love - Spotify Singles,Chloe x Halle,Spotify Singles,173206,64,1KFHD2MK0wQADYddeed7Qf,4,0,4,0.0339,0.578,0.599,0,0.286,-8.692,0.0402,0.475,95.005
+Lost One,Jazmine Sullivan,Lost One,180345,69,3HY9qrtAKtobL2nCQ535h0,0,0,3,0.848,0.494,0.425,5.12e-05,0.0895,-5.317,0.0746,0.275,66.602
+You Got It,Vedo,For You,201586,85,4lsHZ92XCFOQfzJFBTluk8,5,1,4,0.297,0.774,0.376,0,0.165,-9.372,0.208,0.391,122.089
+My Affection (with PARTYNEXTDOOR),Summer Walker/PARTYNEXTDOOR,Life On Earth - EP,213933,69,2aSM4sbNN7cSmpYOG0sf46,7,1,4,0.333,0.632,0.495,0,0.0941,-8.335,0.143,0.233,77.083
+Circles,Trey Songz,Circles,257385,44,7GU4sdexteLwpjIZ36QPFL,9,1,4,0.103,0.681,0.651,0,0.103,-5.533,0.104,0.416,106.045
+Comeback,JoJo,good to know (Deluxe),190933,58,1Tv6DohXfBPROpBCVWnVCP,8,0,4,0.0666,0.683,0.541,0.00939,0.107,-7.615,0.0695,0.291,122.989
+Put In Work (with Chris Brown),Jacquees/Chris Brown,Put In Work,199897,70,6rij5OZoU4FSA2lTbFmRgi,10,0,4,0.0491,0.6,0.678,0,0.138,-5.227,0.13,0.494,136.858
+34+35,Ariana Grande,Positions,173710,94,6Im9k8u9iIzKMrmV7BWtlF,0,1,4,0.237,0.83,0.585,0,0.248,-6.476,0.094,0.485,109.978
+Hard For Me,Russ,Hard For Me,208000,62,2sDwK2Nj5gBGpJykIl0Yu4,10,0,4,0.0541,0.763,0.586,0,0.0593,-8.058,0.0302,0.41,120.004
+LA NOCHE DE ANOCHE,Bad Bunny/ROSALÍA,EL ÚLTIMO TOUR DEL MUNDO,203200,93,2XIc1pqjXV3Cr2BQUGNBck,7,1,4,0.0303,0.856,0.618,0,0.0866,-4.892,0.286,0.391,81.993
+BICHOTA,KAROL G,BICHOTA,178946,95,7vrJn5hDSXRmdXoR30KgF1,1,0,4,0.212,0.863,0.666,0.000493,0.103,-4.158,0.152,0.838,163.908

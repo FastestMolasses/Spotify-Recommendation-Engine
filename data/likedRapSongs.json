@@ -44,8 +44,7 @@
             "loudness": -4.313,
             "speechiness": 0.264,
             "valence": 0.199,
-            "tempo": 91.615,
-            "track_href": "https://api.spotify.com/v1/tracks/24b6djSbUFQtXAdyb3FMbr"
+            "tempo": 91.615
         }
     },
     {
@@ -93,8 +92,7 @@
             "loudness": -5.861,
             "speechiness": 0.238,
             "valence": 0.62,
-            "tempo": 136.98,
-            "track_href": "https://api.spotify.com/v1/tracks/76Y0gxtTxN0FyDCYh5qYQj"
+            "tempo": 136.98
         }
     },
     {
@@ -146,8 +144,7 @@
             "loudness": -8.637,
             "speechiness": 0.384,
             "valence": 0.535,
-            "tempo": 120.998,
-            "track_href": "https://api.spotify.com/v1/tracks/3tDqEKKUs6gf8zMvSuLyLA"
+            "tempo": 120.998
         }
     },
     {
@@ -195,8 +192,7 @@
             "loudness": -5.353,
             "speechiness": 0.358,
             "valence": 0.466,
-            "tempo": 153.894,
-            "track_href": "https://api.spotify.com/v1/tracks/2O0PpdgMmzBj2ZY8cqjfpO"
+            "tempo": 153.894
         }
     },
     {
@@ -252,8 +248,7 @@
             "loudness": -7.909,
             "speechiness": 0.149,
             "valence": 0.387,
-            "tempo": 139.978,
-            "track_href": "https://api.spotify.com/v1/tracks/2bSk87AVkCIIC3Bcligq1z"
+            "tempo": 139.978
         }
     },
     {
@@ -309,8 +304,7 @@
             "loudness": -7.399,
             "speechiness": 0.341,
             "valence": 0.363,
-            "tempo": 123.968,
-            "track_href": "https://api.spotify.com/v1/tracks/40WxFAbt8UEK7jKLmIxRNY"
+            "tempo": 123.968
         }
     },
     {
@@ -358,8 +352,7 @@
             "loudness": -7.437,
             "speechiness": 0.216,
             "valence": 0.545,
-            "tempo": 75.998,
-            "track_href": "https://api.spotify.com/v1/tracks/7jut3DJ4sg1uyWZEwjZaJc"
+            "tempo": 75.998
         }
     },
     {
@@ -411,8 +404,7 @@
             "loudness": -5.818,
             "speechiness": 0.484,
             "valence": 0.146,
-            "tempo": 77.493,
-            "track_href": "https://api.spotify.com/v1/tracks/2D2w9943rsnJOGCrI4aMQp"
+            "tempo": 77.493
         }
     },
     {
@@ -460,8 +452,7 @@
             "loudness": -4.614,
             "speechiness": 0.0548,
             "valence": 0.184,
-            "tempo": 143.979,
-            "track_href": "https://api.spotify.com/v1/tracks/5FWyHjKMW85oZoqgG1zD9b"
+            "tempo": 143.979
         }
     },
     {
@@ -509,8 +500,7 @@
             "loudness": -8.385,
             "speechiness": 0.154,
             "valence": 0.0782,
-            "tempo": 126.017,
-            "track_href": "https://api.spotify.com/v1/tracks/0d9CyCAtOL3Txly9Jo02ra"
+            "tempo": 126.017
         }
     },
     {
@@ -558,8 +548,7 @@
             "loudness": -7.434,
             "speechiness": 0.102,
             "valence": 0.557,
-            "tempo": 119.987,
-            "track_href": "https://api.spotify.com/v1/tracks/1hg3RlqFZXJb5YgRoK9qmF"
+            "tempo": 119.987
         }
     },
     {
@@ -611,8 +600,7 @@
             "loudness": -11.375,
             "speechiness": 0.471,
             "valence": 0.274,
-            "tempo": 117.977,
-            "track_href": "https://api.spotify.com/v1/tracks/7tjXeAUgZEe2yE6nSOcqWA"
+            "tempo": 117.977
         }
     },
     {
@@ -655,7 +643,7 @@
         "href": "https://api.spotify.com/v1/tracks/1sxGIhaxY8eF52e1TlShSP",
         "id": "1sxGIhaxY8eF52e1TlShSP",
         "name": "Pardon Me (Lil Yachty feat. Future & Mike WiLL Made-It)",
-        "popularity": 65,
+        "popularity": 66,
         "data": {
             "key": 6,
             "mode": 0,
@@ -668,8 +656,7 @@
             "loudness": -6.66,
             "speechiness": 0.281,
             "valence": 0.477,
-            "tempo": 129.976,
-            "track_href": "https://api.spotify.com/v1/tracks/1sxGIhaxY8eF52e1TlShSP"
+            "tempo": 129.976
         }
     },
     {
@@ -704,7 +691,7 @@
         "href": "https://api.spotify.com/v1/tracks/6PHbWsTTlmQKF9i9VC1KFv",
         "id": "6PHbWsTTlmQKF9i9VC1KFv",
         "name": "Ridin Strikers",
-        "popularity": 59,
+        "popularity": 60,
         "data": {
             "key": 1,
             "mode": 1,
@@ -717,8 +704,7 @@
             "loudness": -8.747,
             "speechiness": 0.318,
             "valence": 0.134,
-            "tempo": 162.066,
-            "track_href": "https://api.spotify.com/v1/tracks/6PHbWsTTlmQKF9i9VC1KFv"
+            "tempo": 162.066
         }
     },
     {
@@ -766,8 +752,7 @@
             "loudness": -6.822,
             "speechiness": 0.388,
             "valence": 0.832,
-            "tempo": 166.088,
-            "track_href": "https://api.spotify.com/v1/tracks/4huciygZHFSjTP5DHmPs20"
+            "tempo": 166.088
         }
     },
     {
@@ -815,8 +800,7 @@
             "loudness": -8.856,
             "speechiness": 0.206,
             "valence": 0.328,
-            "tempo": 110.916,
-            "track_href": "https://api.spotify.com/v1/tracks/2swu91llDBxeb75tMETplV"
+            "tempo": 110.916
         }
     },
     {
@@ -864,8 +848,7 @@
             "loudness": -7.51,
             "speechiness": 0.215,
             "valence": 0.74,
-            "tempo": 99.027,
-            "track_href": "https://api.spotify.com/v1/tracks/43YQDj1KOPMFAUcTEPKy4p"
+            "tempo": 99.027
         }
     },
     {
@@ -917,8 +900,7 @@
             "loudness": -9.158,
             "speechiness": 0.255,
             "valence": 0.254,
-            "tempo": 160.016,
-            "track_href": "https://api.spotify.com/v1/tracks/6bqtKURdSWkInAJHDkuaL0"
+            "tempo": 160.016
         }
     },
     {
@@ -957,7 +939,7 @@
         "href": "https://api.spotify.com/v1/tracks/0GR7iJLhj80KD5LkA14ZRn",
         "id": "0GR7iJLhj80KD5LkA14ZRn",
         "name": "Digital Dash",
-        "popularity": 60,
+        "popularity": 61,
         "data": {
             "key": 2,
             "mode": 1,
@@ -970,8 +952,7 @@
             "loudness": -7.566,
             "speechiness": 0.12,
             "valence": 0.276,
-            "tempo": 140.032,
-            "track_href": "https://api.spotify.com/v1/tracks/0GR7iJLhj80KD5LkA14ZRn"
+            "tempo": 140.032
         }
     },
     {
@@ -1023,8 +1004,7 @@
             "loudness": -6.224,
             "speechiness": 0.266,
             "valence": 0.27,
-            "tempo": 131.984,
-            "track_href": "https://api.spotify.com/v1/tracks/7jslhIiELQkgW9IHeYNOWE"
+            "tempo": 131.984
         }
     },
     {
@@ -1072,8 +1052,7 @@
             "loudness": -7.964,
             "speechiness": 0.369,
             "valence": 0.436,
-            "tempo": 84.531,
-            "track_href": "https://api.spotify.com/v1/tracks/5D2M4HrTJjrksPGDOKa3tY"
+            "tempo": 84.531
         }
     },
     {
@@ -1125,8 +1104,7 @@
             "loudness": -6.903,
             "speechiness": 0.487,
             "valence": 0.537,
-            "tempo": 142.053,
-            "track_href": "https://api.spotify.com/v1/tracks/1K5KBOgreBi5fkEHvg5ap3"
+            "tempo": 142.053
         }
     },
     {
@@ -1174,8 +1152,7 @@
             "loudness": -7.332,
             "speechiness": 0.293,
             "valence": 0.188,
-            "tempo": 150.057,
-            "track_href": "https://api.spotify.com/v1/tracks/5v1STk4ZTTDrhgCs6LD3nd"
+            "tempo": 150.057
         }
     },
     {
@@ -1223,8 +1200,7 @@
             "loudness": -5.918,
             "speechiness": 0.133,
             "valence": 0.118,
-            "tempo": 151.9,
-            "track_href": "https://api.spotify.com/v1/tracks/6QeUzTuBoasiii8nevDciq"
+            "tempo": 151.9
         }
     },
     {
@@ -1272,8 +1248,7 @@
             "loudness": -8.975,
             "speechiness": 0.143,
             "valence": 0.324,
-            "tempo": 139.084,
-            "track_href": "https://api.spotify.com/v1/tracks/3tZ4zv4UuenjJGSNUMfBNG"
+            "tempo": 139.084
         }
     },
     {
@@ -1321,8 +1296,7 @@
             "loudness": -5.589,
             "speechiness": 0.272,
             "valence": 0.202,
-            "tempo": 144.019,
-            "track_href": "https://api.spotify.com/v1/tracks/4ANFPo7dzs2DdPuONXC9bp"
+            "tempo": 144.019
         }
     },
     {
@@ -1370,8 +1344,7 @@
             "loudness": -8.059,
             "speechiness": 0.0941,
             "valence": 0.173,
-            "tempo": 105.902,
-            "track_href": "https://api.spotify.com/v1/tracks/6z6YV7ANb27fmra1O3wAOD"
+            "tempo": 105.902
         }
     },
     {
@@ -1406,7 +1379,7 @@
         "href": "https://api.spotify.com/v1/tracks/2QEnZJ8FwpBoyLKcFcgceT",
         "id": "2QEnZJ8FwpBoyLKcFcgceT",
         "name": "Government Official",
-        "popularity": 50,
+        "popularity": 51,
         "data": {
             "key": 1,
             "mode": 1,
@@ -1419,8 +1392,7 @@
             "loudness": -5.125,
             "speechiness": 0.157,
             "valence": 0.321,
-            "tempo": 144.988,
-            "track_href": "https://api.spotify.com/v1/tracks/2QEnZJ8FwpBoyLKcFcgceT"
+            "tempo": 144.988
         }
     },
     {
@@ -1468,8 +1440,7 @@
             "loudness": -6.346,
             "speechiness": 0.091,
             "valence": 0.157,
-            "tempo": 140.039,
-            "track_href": "https://api.spotify.com/v1/tracks/1I3ZAmPmbFV78oNKnibOiW"
+            "tempo": 140.039
         }
     },
     {
@@ -1517,8 +1488,7 @@
             "loudness": -4.941,
             "speechiness": 0.261,
             "valence": 0.128,
-            "tempo": 133.941,
-            "track_href": "https://api.spotify.com/v1/tracks/4HfaOznGhHYWqPtpLYz2PB"
+            "tempo": 133.941
         }
     },
     {
@@ -1566,8 +1536,7 @@
             "loudness": -6.794,
             "speechiness": 0.23,
             "valence": 0.544,
-            "tempo": 158.043,
-            "track_href": "https://api.spotify.com/v1/tracks/7wcyO1rrH3Ru4t659IjG41"
+            "tempo": 158.043
         }
     },
     {
@@ -1615,8 +1584,7 @@
             "loudness": -4.766,
             "speechiness": 0.191,
             "valence": 0.393,
-            "tempo": 160.94,
-            "track_href": "https://api.spotify.com/v1/tracks/5YP6yKgGGsXKukqxXypVAf"
+            "tempo": 160.94
         }
     },
     {
@@ -1664,8 +1632,7 @@
             "loudness": -8.695,
             "speechiness": 0.496,
             "valence": 0.425,
-            "tempo": 154.035,
-            "track_href": "https://api.spotify.com/v1/tracks/2aR4gdgyCgacqHGqUZ91YS"
+            "tempo": 154.035
         }
     },
     {
@@ -1713,8 +1680,7 @@
             "loudness": -6.958,
             "speechiness": 0.315,
             "valence": 0.235,
-            "tempo": 153.947,
-            "track_href": "https://api.spotify.com/v1/tracks/01sjbEk3X7KNXFvXXXN5MY"
+            "tempo": 153.947
         }
     },
     {
@@ -1766,8 +1732,7 @@
             "loudness": -6.105,
             "speechiness": 0.0776,
             "valence": 0.445,
-            "tempo": 162.038,
-            "track_href": "https://api.spotify.com/v1/tracks/3WRIaWsws011vHMd9uzPjG"
+            "tempo": 162.038
         }
     },
     {
@@ -1819,8 +1784,7 @@
             "loudness": -7.34,
             "speechiness": 0.165,
             "valence": 0.287,
-            "tempo": 156.83,
-            "track_href": "https://api.spotify.com/v1/tracks/2MfcvcvWSUkstTDZXYIakq"
+            "tempo": 156.83
         }
     },
     {
@@ -1876,8 +1840,7 @@
             "loudness": -7.555,
             "speechiness": 0.237,
             "valence": 0.268,
-            "tempo": 149.991,
-            "track_href": "https://api.spotify.com/v1/tracks/3fFBZvG777xoKyvcrBq7lc"
+            "tempo": 149.991
         }
     },
     {
@@ -1925,8 +1888,7 @@
             "loudness": -8.581,
             "speechiness": 0.373,
             "valence": 0.313,
-            "tempo": 166.457,
-            "track_href": "https://api.spotify.com/v1/tracks/5W9QCBJ6Em0XWX333YrNhc"
+            "tempo": 166.457
         }
     },
     {
@@ -1974,8 +1936,7 @@
             "loudness": -8.55,
             "speechiness": 0.321,
             "valence": 0.2,
-            "tempo": 130.011,
-            "track_href": "https://api.spotify.com/v1/tracks/2YXEUNdnNLtFuf5gi3LnWm"
+            "tempo": 130.011
         }
     },
     {
@@ -2023,8 +1984,7 @@
             "loudness": -7.44,
             "speechiness": 0.0468,
             "valence": 0.165,
-            "tempo": 130.014,
-            "track_href": "https://api.spotify.com/v1/tracks/4GkkxswcdEt1tkSyiRzgnC"
+            "tempo": 130.014
         }
     },
     {
@@ -2072,8 +2032,7 @@
             "loudness": -6.187,
             "speechiness": 0.177,
             "valence": 0.609,
-            "tempo": 147.977,
-            "track_href": "https://api.spotify.com/v1/tracks/52SuMdAYS2jvKQhODi0ARY"
+            "tempo": 147.977
         }
     },
     {
@@ -2108,7 +2067,7 @@
         "href": "https://api.spotify.com/v1/tracks/0VgkVdmE4gld66l8iyGjgx",
         "id": "0VgkVdmE4gld66l8iyGjgx",
         "name": "Mask Off",
-        "popularity": 80,
+        "popularity": 81,
         "data": {
             "key": 2,
             "mode": 1,
@@ -2121,8 +2080,7 @@
             "loudness": -8.795,
             "speechiness": 0.431,
             "valence": 0.281,
-            "tempo": 150.062,
-            "track_href": "https://api.spotify.com/v1/tracks/0VgkVdmE4gld66l8iyGjgx"
+            "tempo": 150.062
         }
     },
     {
@@ -2170,8 +2128,7 @@
             "loudness": -7.123,
             "speechiness": 0.288,
             "valence": 0.188,
-            "tempo": 141.957,
-            "track_href": "https://api.spotify.com/v1/tracks/4ibj6HRTdzkfvlDgxSXxCp"
+            "tempo": 141.957
         }
     },
     {
@@ -2219,8 +2176,7 @@
             "loudness": -6.951,
             "speechiness": 0.384,
             "valence": 0.438,
-            "tempo": 75.443,
-            "track_href": "https://api.spotify.com/v1/tracks/0AkKwgg6rD4p7EpDlNpSz2"
+            "tempo": 75.443
         }
     },
     {
@@ -2268,8 +2224,7 @@
             "loudness": -9.739,
             "speechiness": 0.265,
             "valence": 0.386,
-            "tempo": 138.059,
-            "track_href": "https://api.spotify.com/v1/tracks/2Nfd2ITp4WkI1aoZlYpZwg"
+            "tempo": 138.059
         }
     },
     {
@@ -2317,8 +2272,7 @@
             "loudness": -5.837,
             "speechiness": 0.0782,
             "valence": 0.279,
-            "tempo": 147.076,
-            "track_href": "https://api.spotify.com/v1/tracks/6vbafkvao6NErZDTjh2sYC"
+            "tempo": 147.076
         }
     },
     {
@@ -2366,8 +2320,7 @@
             "loudness": -8.089,
             "speechiness": 0.0727,
             "valence": 0.171,
-            "tempo": 75.538,
-            "track_href": "https://api.spotify.com/v1/tracks/1baPNXuNvp5wRrmYU91OIt"
+            "tempo": 75.538
         }
     },
     {
@@ -2402,7 +2355,7 @@
         "href": "https://api.spotify.com/v1/tracks/7givkGZW1cwM8MJYzMd2Na",
         "id": "7givkGZW1cwM8MJYzMd2Na",
         "name": "Ain't No Time",
-        "popularity": 49,
+        "popularity": 50,
         "data": {
             "key": 7,
             "mode": 0,
@@ -2415,8 +2368,7 @@
             "loudness": -6.677,
             "speechiness": 0.069,
             "valence": 0.135,
-            "tempo": 145.016,
-            "track_href": "https://api.spotify.com/v1/tracks/7givkGZW1cwM8MJYzMd2Na"
+            "tempo": 145.016
         }
     },
     {
@@ -2464,8 +2416,7 @@
             "loudness": -7.335,
             "speechiness": 0.0982,
             "valence": 0.366,
-            "tempo": 159.969,
-            "track_href": "https://api.spotify.com/v1/tracks/3K0sVapHNSSeJ8o4DLHOJY"
+            "tempo": 159.969
         }
     },
     {
@@ -2513,8 +2464,7 @@
             "loudness": -7.148,
             "speechiness": 0.289,
             "valence": 0.166,
-            "tempo": 75.044,
-            "track_href": "https://api.spotify.com/v1/tracks/0BzDQgmeRdA4V71VhfBvXT"
+            "tempo": 75.044
         }
     },
     {
@@ -2562,8 +2512,7 @@
             "loudness": -6.188,
             "speechiness": 0.154,
             "valence": 0.517,
-            "tempo": 76.498,
-            "track_href": "https://api.spotify.com/v1/tracks/5lMmp06Yt5opZrKdszyh8Y"
+            "tempo": 76.498
         }
     },
     {
@@ -2615,8 +2564,7 @@
             "loudness": -7.789,
             "speechiness": 0.0725,
             "valence": 0.102,
-            "tempo": 143.974,
-            "track_href": "https://api.spotify.com/v1/tracks/7EiZI6JVHllARrX9PUvAdX"
+            "tempo": 143.974
         }
     },
     {
@@ -2664,8 +2612,7 @@
             "loudness": -7.179,
             "speechiness": 0.083,
             "valence": 0.0736,
-            "tempo": 147.952,
-            "track_href": "https://api.spotify.com/v1/tracks/05GDlYBejzsmn3diyYWpHW"
+            "tempo": 147.952
         }
     },
     {
@@ -2713,8 +2660,7 @@
             "loudness": -7.16,
             "speechiness": 0.23,
             "valence": 0.442,
-            "tempo": 153.954,
-            "track_href": "https://api.spotify.com/v1/tracks/6DXOQVJAjoeDGd5Xlb9XUY"
+            "tempo": 153.954
         }
     },
     {
@@ -2762,8 +2708,7 @@
             "loudness": -8.256,
             "speechiness": 0.111,
             "valence": 0.0487,
-            "tempo": 125.022,
-            "track_href": "https://api.spotify.com/v1/tracks/5ihDGnhQgMA0F0tk9fNLlA"
+            "tempo": 125.022
         }
     },
     {
@@ -2815,8 +2760,7 @@
             "loudness": -6.941,
             "speechiness": 0.338,
             "valence": 0.191,
-            "tempo": 161.997,
-            "track_href": "https://api.spotify.com/v1/tracks/5nN8BwAQDJDguq7Dpd3JQQ"
+            "tempo": 161.997
         }
     },
     {
@@ -2864,8 +2808,7 @@
             "loudness": -8.24,
             "speechiness": 0.212,
             "valence": 0.155,
-            "tempo": 140.013,
-            "track_href": "https://api.spotify.com/v1/tracks/4Bt9yX2Gq7Q1biRF45EN1C"
+            "tempo": 140.013
         }
     },
     {
@@ -2913,8 +2856,7 @@
             "loudness": -6.749,
             "speechiness": 0.282,
             "valence": 0.595,
-            "tempo": 159.903,
-            "track_href": "https://api.spotify.com/v1/tracks/20fAoPjfYltmd3K3bO7gbt"
+            "tempo": 159.903
         }
     },
     {
@@ -2962,8 +2904,7 @@
             "loudness": -6.922,
             "speechiness": 0.174,
             "valence": 0.338,
-            "tempo": 81.018,
-            "track_href": "https://api.spotify.com/v1/tracks/6elNeXUhiuHPD9hH5rocQi"
+            "tempo": 81.018
         }
     },
     {
@@ -3011,8 +2952,7 @@
             "loudness": -5.875,
             "speechiness": 0.131,
             "valence": 0.0805,
-            "tempo": 80.046,
-            "track_href": "https://api.spotify.com/v1/tracks/1yCVsVH2hQ72SxNI8QTDaB"
+            "tempo": 80.046
         }
     },
     {
@@ -3047,7 +2987,7 @@
         "href": "https://api.spotify.com/v1/tracks/2oGY1X7Xd5kyL6B9s19D9A",
         "id": "2oGY1X7Xd5kyL6B9s19D9A",
         "name": "56 Nights",
-        "popularity": 51,
+        "popularity": 52,
         "data": {
             "key": 1,
             "mode": 1,
@@ -3060,8 +3000,7 @@
             "loudness": -6.461,
             "speechiness": 0.153,
             "valence": 0.276,
-            "tempo": 122.935,
-            "track_href": "https://api.spotify.com/v1/tracks/2oGY1X7Xd5kyL6B9s19D9A"
+            "tempo": 122.935
         }
     },
     {
@@ -3109,8 +3048,7 @@
             "loudness": -7.609,
             "speechiness": 0.324,
             "valence": 0.123,
-            "tempo": 130.955,
-            "track_href": "https://api.spotify.com/v1/tracks/3XsiyMcsbIBazeYFb5SFxh"
+            "tempo": 130.955
         }
     },
     {
@@ -3158,8 +3096,7 @@
             "loudness": -6.044,
             "speechiness": 0.137,
             "valence": 0.551,
-            "tempo": 126.992,
-            "track_href": "https://api.spotify.com/v1/tracks/7gBQgznbpI6iqEprmeSfI9"
+            "tempo": 126.992
         }
     },
     {
@@ -3194,7 +3131,7 @@
         "href": "https://api.spotify.com/v1/tracks/3KBV7tSnPTTbnshytvafTB",
         "id": "3KBV7tSnPTTbnshytvafTB",
         "name": "Gangland",
-        "popularity": 41,
+        "popularity": 42,
         "data": {
             "key": 10,
             "mode": 0,
@@ -3207,8 +3144,7 @@
             "loudness": -7.322,
             "speechiness": 0.0986,
             "valence": 0.279,
-            "tempo": 123.959,
-            "track_href": "https://api.spotify.com/v1/tracks/3KBV7tSnPTTbnshytvafTB"
+            "tempo": 123.959
         }
     },
     {
@@ -3256,8 +3192,7 @@
             "loudness": -7.22,
             "speechiness": 0.144,
             "valence": 0.185,
-            "tempo": 125.98,
-            "track_href": "https://api.spotify.com/v1/tracks/0joQFwiBKmi6X1Iq5R1ubH"
+            "tempo": 125.98
         }
     },
     {
@@ -3309,8 +3244,7 @@
             "loudness": -9.435,
             "speechiness": 0.364,
             "valence": 0.341,
-            "tempo": 129.847,
-            "track_href": "https://api.spotify.com/v1/tracks/7KSSdFCBHCfq4KPzz78ghk"
+            "tempo": 129.847
         }
     },
     {
@@ -3358,8 +3292,7 @@
             "loudness": -5.77,
             "speechiness": 0.0975,
             "valence": 0.531,
-            "tempo": 85.009,
-            "track_href": "https://api.spotify.com/v1/tracks/1nX1wW2WuCEnc2eDOBOaFd"
+            "tempo": 85.009
         }
     },
     {
@@ -3411,8 +3344,7 @@
             "loudness": -4.574,
             "speechiness": 0.202,
             "valence": 0.415,
-            "tempo": 143.01,
-            "track_href": "https://api.spotify.com/v1/tracks/5SWnsxjhdcEDc7LJjq9UHk"
+            "tempo": 143.01
         }
     },
     {
@@ -3464,8 +3396,7 @@
             "loudness": -6.439,
             "speechiness": 0.16,
             "valence": 0.202,
-            "tempo": 130.029,
-            "track_href": "https://api.spotify.com/v1/tracks/6pcywuOeGGWeOQzdUyti6k"
+            "tempo": 130.029
         }
     },
     {
@@ -3521,8 +3452,7 @@
             "loudness": -5.625,
             "speechiness": 0.0969,
             "valence": 0.62,
-            "tempo": 97.974,
-            "track_href": "https://api.spotify.com/v1/tracks/3ruoIF2UnoXdzK8mR61ebq"
+            "tempo": 97.974
         }
     },
     {
@@ -3574,8 +3504,7 @@
             "loudness": -6.494,
             "speechiness": 0.355,
             "valence": 0.382,
-            "tempo": 152.891,
-            "track_href": "https://api.spotify.com/v1/tracks/7fxSLnklnayJNBIKntXedZ"
+            "tempo": 152.891
         }
     },
     {
@@ -3614,7 +3543,7 @@
         "href": "https://api.spotify.com/v1/tracks/42Tohunwlh34o0mgxYx5iq",
         "id": "42Tohunwlh34o0mgxYx5iq",
         "name": "My Dawg",
-        "popularity": 72,
+        "popularity": 71,
         "data": {
             "key": 0,
             "mode": 0,
@@ -3627,8 +3556,7 @@
             "loudness": -5.319,
             "speechiness": 0.301,
             "valence": 0.364,
-            "tempo": 140.105,
-            "track_href": "https://api.spotify.com/v1/tracks/42Tohunwlh34o0mgxYx5iq"
+            "tempo": 140.105
         }
     },
     {
@@ -3680,8 +3608,7 @@
             "loudness": -6.082,
             "speechiness": 0.277,
             "valence": 0.175,
-            "tempo": 74.963,
-            "track_href": "https://api.spotify.com/v1/tracks/2Grb4G6t9VIqo6moKUloom"
+            "tempo": 74.963
         }
     },
     {
@@ -3733,8 +3660,7 @@
             "loudness": -8.28,
             "speechiness": 0.206,
             "valence": 0.333,
-            "tempo": 100.007,
-            "track_href": "https://api.spotify.com/v1/tracks/7sO5G9EABYOXQKNPNiE9NR"
+            "tempo": 100.007
         }
     },
     {
@@ -3790,8 +3716,7 @@
             "loudness": -6.395,
             "speechiness": 0.235,
             "valence": 0.136,
-            "tempo": 135.003,
-            "track_href": "https://api.spotify.com/v1/tracks/6HR1z11h0ROUlWP4Kx8Z7G"
+            "tempo": 135.003
         }
     },
     {
@@ -3839,8 +3764,7 @@
             "loudness": -8.228,
             "speechiness": 0.351,
             "valence": 0.376,
-            "tempo": 75.016,
-            "track_href": "https://api.spotify.com/v1/tracks/2fQrGHiQOvpL9UgPvtYy6G"
+            "tempo": 75.016
         }
     },
     {
@@ -3888,8 +3812,7 @@
             "loudness": -11.666,
             "speechiness": 0.343,
             "valence": 0.211,
-            "tempo": 158.923,
-            "track_href": "https://api.spotify.com/v1/tracks/74BIr8H03lr5L6LZ1friIa"
+            "tempo": 158.923
         }
     },
     {
@@ -3928,7 +3851,7 @@
         "href": "https://api.spotify.com/v1/tracks/4xrpNY9y0FZnxVznSwM4cw",
         "id": "4xrpNY9y0FZnxVznSwM4cw",
         "name": "Say You Love Me",
-        "popularity": 62,
+        "popularity": 63,
         "data": {
             "key": 11,
             "mode": 1,
@@ -3941,8 +3864,7 @@
             "loudness": -9.024,
             "speechiness": 0.234,
             "valence": 0.655,
-            "tempo": 135.919,
-            "track_href": "https://api.spotify.com/v1/tracks/4xrpNY9y0FZnxVznSwM4cw"
+            "tempo": 135.919
         }
     },
     {
@@ -4002,8 +3924,7 @@
             "loudness": -9.241,
             "speechiness": 0.168,
             "valence": 0.63,
-            "tempo": 141.003,
-            "track_href": "https://api.spotify.com/v1/tracks/4dhZy7EbsbhwIS7C6Ct8mI"
+            "tempo": 141.003
         }
     },
     {
@@ -4055,8 +3976,7 @@
             "loudness": -7.951,
             "speechiness": 0.271,
             "valence": 0.521,
-            "tempo": 147.043,
-            "track_href": "https://api.spotify.com/v1/tracks/0F7uqQx9trviYhGwD0GD9B"
+            "tempo": 147.043
         }
     },
     {
@@ -4108,8 +4028,7 @@
             "loudness": -7.155,
             "speechiness": 0.0931,
             "valence": 0.183,
-            "tempo": 128.044,
-            "track_href": "https://api.spotify.com/v1/tracks/3J7mXGLaO87MFu42WAb66h"
+            "tempo": 128.044
         }
     },
     {
@@ -4165,8 +4084,7 @@
             "loudness": -10.546,
             "speechiness": 0.238,
             "valence": 0.539,
-            "tempo": 140.066,
-            "track_href": "https://api.spotify.com/v1/tracks/2VypG9FeVsKkYyvsYG8PUU"
+            "tempo": 140.066
         }
     },
     {
@@ -4214,8 +4132,7 @@
             "loudness": -6.021,
             "speechiness": 0.0906,
             "valence": 0.451,
-            "tempo": 154.039,
-            "track_href": "https://api.spotify.com/v1/tracks/1ckxFDBKrcepE6pDmayXzP"
+            "tempo": 154.039
         }
     },
     {
@@ -4271,8 +4188,7 @@
             "loudness": -4.263,
             "speechiness": 0.0768,
             "valence": 0.459,
-            "tempo": 136.904,
-            "track_href": "https://api.spotify.com/v1/tracks/5NAMZI9lVhxNa6AZp3iQVH"
+            "tempo": 136.904
         }
     },
     {
@@ -4320,8 +4236,7 @@
             "loudness": -6.794,
             "speechiness": 0.184,
             "valence": 0.284,
-            "tempo": 132.07,
-            "track_href": "https://api.spotify.com/v1/tracks/0tISnxqgVmxqhVghsTi2Rr"
+            "tempo": 132.07
         }
     },
     {
@@ -4369,8 +4284,7 @@
             "loudness": -4.228,
             "speechiness": 0.0537,
             "valence": 0.294,
-            "tempo": 131.932,
-            "track_href": "https://api.spotify.com/v1/tracks/4cg1yakyRSIOjxKM2I7J1q"
+            "tempo": 131.932
         }
     },
     {
@@ -4422,8 +4336,7 @@
             "loudness": -9.071,
             "speechiness": 0.206,
             "valence": 0.39,
-            "tempo": 107.99,
-            "track_href": "https://api.spotify.com/v1/tracks/0sMZD2KXYkkR0xDZiBoI7g"
+            "tempo": 107.99
         }
     },
     {
@@ -4471,8 +4384,7 @@
             "loudness": -5.876,
             "speechiness": 0.141,
             "valence": 0.431,
-            "tempo": 146.923,
-            "track_href": "https://api.spotify.com/v1/tracks/5MD2QLnFM2ChpKAh33z0zr"
+            "tempo": 146.923
         }
     },
     {
@@ -4524,8 +4436,7 @@
             "loudness": -6.59,
             "speechiness": 0.125,
             "valence": 0.159,
-            "tempo": 123.997,
-            "track_href": "https://api.spotify.com/v1/tracks/6o4nVtywF4F75RkOcDxrtd"
+            "tempo": 123.997
         }
     },
     {
@@ -4573,8 +4484,7 @@
             "loudness": -5.164,
             "speechiness": 0.323,
             "valence": 0.368,
-            "tempo": 110.953,
-            "track_href": "https://api.spotify.com/v1/tracks/1jk9c0gZI0wbn5GvAj7PBV"
+            "tempo": 110.953
         }
     },
     {
@@ -4626,8 +4536,7 @@
             "loudness": -6.506,
             "speechiness": 0.384,
             "valence": 0.223,
-            "tempo": 140.096,
-            "track_href": "https://api.spotify.com/v1/tracks/1SkR9g1l9NipSZhZPJsbOT"
+            "tempo": 140.096
         }
     },
     {
@@ -4679,8 +4588,7 @@
             "loudness": -6.004,
             "speechiness": 0.242,
             "valence": 0.565,
-            "tempo": 112.938,
-            "track_href": "https://api.spotify.com/v1/tracks/5kBmoWvzfQgpd1pVGwFwab"
+            "tempo": 112.938
         }
     },
     {
@@ -4728,8 +4636,7 @@
             "loudness": -6.221,
             "speechiness": 0.251,
             "valence": 0.17,
-            "tempo": 133.284,
-            "track_href": "https://api.spotify.com/v1/tracks/4BP0An7SXctTY4kF41JxIQ"
+            "tempo": 133.284
         }
     },
     {
@@ -4781,8 +4688,7 @@
             "loudness": -8.855,
             "speechiness": 0.307,
             "valence": 0.556,
-            "tempo": 120.013,
-            "track_href": "https://api.spotify.com/v1/tracks/7uZXXMz8td5gRf75oupj9B"
+            "tempo": 120.013
         }
     },
     {
@@ -4834,8 +4740,7 @@
             "loudness": -9.021,
             "speechiness": 0.341,
             "valence": 0.221,
-            "tempo": 126.071,
-            "track_href": "https://api.spotify.com/v1/tracks/3pjzb1lnMOJbWbghMGSp23"
+            "tempo": 126.071
         }
     },
     {
@@ -4870,7 +4775,7 @@
         "href": "https://api.spotify.com/v1/tracks/51eCFwRlu0Hj3hKeZ4MHoD",
         "id": "51eCFwRlu0Hj3hKeZ4MHoD",
         "name": "ARGENTINA",
-        "popularity": 51,
+        "popularity": 52,
         "data": {
             "key": 1,
             "mode": 1,
@@ -4883,8 +4788,7 @@
             "loudness": -9.463,
             "speechiness": 0.0838,
             "valence": 0.356,
-            "tempo": 139.967,
-            "track_href": "https://api.spotify.com/v1/tracks/51eCFwRlu0Hj3hKeZ4MHoD"
+            "tempo": 139.967
         }
     },
     {
@@ -4932,8 +4836,7 @@
             "loudness": -6.083,
             "speechiness": 0.315,
             "valence": 0.629,
-            "tempo": 118.04,
-            "track_href": "https://api.spotify.com/v1/tracks/0BOmhToQ03yOdpzYKMEnAg"
+            "tempo": 118.04
         }
     },
     {
@@ -4993,8 +4896,7 @@
             "loudness": -8.115,
             "speechiness": 0.418,
             "valence": 0.153,
-            "tempo": 140.973,
-            "track_href": "https://api.spotify.com/v1/tracks/6PoKfDY78ih5OveWirggRX"
+            "tempo": 140.973
         }
     },
     {
@@ -5046,8 +4948,7 @@
             "loudness": -6.038,
             "speechiness": 0.0899,
             "valence": 0.4,
-            "tempo": 142.008,
-            "track_href": "https://api.spotify.com/v1/tracks/7roKDmJDOzkpfGpUQJ5EnL"
+            "tempo": 142.008
         }
     },
     {
@@ -5099,8 +5000,7 @@
             "loudness": -5.343,
             "speechiness": 0.0705,
             "valence": 0.426,
-            "tempo": 120.028,
-            "track_href": "https://api.spotify.com/v1/tracks/1yQvL8SzbF5JCroRKk9F07"
+            "tempo": 120.028
         }
     },
     {
@@ -5148,8 +5048,7 @@
             "loudness": -8.197,
             "speechiness": 0.515,
             "valence": 0.395,
-            "tempo": 150.055,
-            "track_href": "https://api.spotify.com/v1/tracks/16QjPRt5HYK0dnLGmGRCvf"
+            "tempo": 150.055
         }
     },
     {
@@ -5197,8 +5096,7 @@
             "loudness": -7.148,
             "speechiness": 0.543,
             "valence": 0.575,
-            "tempo": 109.867,
-            "track_href": "https://api.spotify.com/v1/tracks/0p0jvYdazuWBMC8QacxpUH"
+            "tempo": 109.867
         }
     },
     {
@@ -5246,8 +5144,7 @@
             "loudness": -7.034,
             "speechiness": 0.0605,
             "valence": 0.321,
-            "tempo": 155.998,
-            "track_href": "https://api.spotify.com/v1/tracks/1jzOG0T6JjvaOoHgzl91Nd"
+            "tempo": 155.998
         }
     },
     {
@@ -5303,8 +5200,7 @@
             "loudness": -5.415,
             "speechiness": 0.284,
             "valence": 0.886,
-            "tempo": 132.055,
-            "track_href": "https://api.spotify.com/v1/tracks/6wWaVoUOzLQJHd3bWAUpdZ"
+            "tempo": 132.055
         }
     },
     {
@@ -5352,8 +5248,7 @@
             "loudness": -11.277,
             "speechiness": 0.206,
             "valence": 0.376,
-            "tempo": 146.056,
-            "track_href": "https://api.spotify.com/v1/tracks/0HCnj7pfrvshnocOJUFeit"
+            "tempo": 146.056
         }
     },
     {
@@ -5401,8 +5296,7 @@
             "loudness": -6.366,
             "speechiness": 0.231,
             "valence": 0.401,
-            "tempo": 155.096,
-            "track_href": "https://api.spotify.com/v1/tracks/7GX5flRQZVHRAGd6B4TmDO"
+            "tempo": 155.096
         }
     },
     {
@@ -5450,8 +5344,7 @@
             "loudness": -4.009,
             "speechiness": 0.117,
             "valence": 0.783,
-            "tempo": 123.426,
-            "track_href": "https://api.spotify.com/v1/tracks/0uxSUdBrJy9Un0EYoBowng"
+            "tempo": 123.426
         }
     },
     {
@@ -5499,8 +5392,7 @@
             "loudness": -7.817,
             "speechiness": 0.142,
             "valence": 0.478,
-            "tempo": 136.173,
-            "track_href": "https://api.spotify.com/v1/tracks/0B8QzDH7YWih85V5SEMnyJ"
+            "tempo": 136.173
         }
     },
     {
@@ -5548,8 +5440,7 @@
             "loudness": -6.297,
             "speechiness": 0.351,
             "valence": 0.675,
-            "tempo": 122.975,
-            "track_href": "https://api.spotify.com/v1/tracks/6VfYstlYa70wcAxA3EPQCK"
+            "tempo": 122.975
         }
     },
     {
@@ -5597,8 +5488,7 @@
             "loudness": -4.397,
             "speechiness": 0.373,
             "valence": 0.561,
-            "tempo": 152.376,
-            "track_href": "https://api.spotify.com/v1/tracks/1Ng8P0sQADZALMSUR0WPmi"
+            "tempo": 152.376
         }
     },
     {
@@ -5646,8 +5536,7 @@
             "loudness": -8.175,
             "speechiness": 0.384,
             "valence": 0.667,
-            "tempo": 168.0,
-            "track_href": "https://api.spotify.com/v1/tracks/0ob26YsboDpkfyTOTln82d"
+            "tempo": 168.0
         }
     },
     {
@@ -5699,8 +5588,7 @@
             "loudness": -6.679,
             "speechiness": 0.362,
             "valence": 0.532,
-            "tempo": 150.969,
-            "track_href": "https://api.spotify.com/v1/tracks/0DUHmrwC8ZviGGC2o2JBy1"
+            "tempo": 150.969
         }
     },
     {
@@ -5748,8 +5636,7 @@
             "loudness": -6.297,
             "speechiness": 0.134,
             "valence": 0.732,
-            "tempo": 160.035,
-            "track_href": "https://api.spotify.com/v1/tracks/1oU2vrVzQxqoZJZSw80Ven"
+            "tempo": 160.035
         }
     },
     {
@@ -5797,8 +5684,7 @@
             "loudness": -6.047,
             "speechiness": 0.33,
             "valence": 0.364,
-            "tempo": 141.985,
-            "track_href": "https://api.spotify.com/v1/tracks/37R4QzUNmA5mat4PKA2tHW"
+            "tempo": 141.985
         }
     },
     {
@@ -5846,8 +5732,7 @@
             "loudness": -6.79,
             "speechiness": 0.109,
             "valence": 0.201,
-            "tempo": 88.995,
-            "track_href": "https://api.spotify.com/v1/tracks/5xKXcU8tpSYz7C7wrMMYec"
+            "tempo": 88.995
         }
     },
     {
@@ -5895,8 +5780,7 @@
             "loudness": -5.547,
             "speechiness": 0.091,
             "valence": 0.228,
-            "tempo": 143.013,
-            "track_href": "https://api.spotify.com/v1/tracks/4dpgUETtAY1YLAHulN0UtP"
+            "tempo": 143.013
         }
     },
     {
@@ -5948,8 +5832,7 @@
             "loudness": -5.065,
             "speechiness": 0.107,
             "valence": 0.367,
-            "tempo": 130.97,
-            "track_href": "https://api.spotify.com/v1/tracks/2r6OAV3WsYtXuXjvJ1lIDi"
+            "tempo": 130.97
         }
     },
     {
@@ -6005,8 +5888,7 @@
             "loudness": -4.369,
             "speechiness": 0.219,
             "valence": 0.24,
-            "tempo": 143.877,
-            "track_href": "https://api.spotify.com/v1/tracks/3QqJ44HiM84iyZS0G2IKIP"
+            "tempo": 143.877
         }
     },
     {
@@ -6054,8 +5936,7 @@
             "loudness": -5.106,
             "speechiness": 0.242,
             "valence": 0.772,
-            "tempo": 140.992,
-            "track_href": "https://api.spotify.com/v1/tracks/6S380PQvuw8SQzsGygd6I4"
+            "tempo": 140.992
         }
     },
     {
@@ -6103,8 +5984,7 @@
             "loudness": -5.652,
             "speechiness": 0.273,
             "valence": 0.625,
-            "tempo": 142.983,
-            "track_href": "https://api.spotify.com/v1/tracks/4lCSOu4tsSlljiQUlWJYVt"
+            "tempo": 142.983
         }
     },
     {
@@ -6156,8 +6036,7 @@
             "loudness": -5.402,
             "speechiness": 0.304,
             "valence": 0.803,
-            "tempo": 142.054,
-            "track_href": "https://api.spotify.com/v1/tracks/5R9k9x85lAYbamdUoKAJvj"
+            "tempo": 142.054
         }
     },
     {
@@ -6213,8 +6092,7 @@
             "loudness": -5.405,
             "speechiness": 0.277,
             "valence": 0.547,
-            "tempo": 154.981,
-            "track_href": "https://api.spotify.com/v1/tracks/4jVBIpuOiMj1crqd8LoCrJ"
+            "tempo": 154.981
         }
     },
     {
@@ -6249,7 +6127,7 @@
         "href": "https://api.spotify.com/v1/tracks/05nB8pRwwbKA2fsKK1nOyE",
         "id": "05nB8pRwwbKA2fsKK1nOyE",
         "name": "Perkys Calling",
-        "popularity": 61,
+        "popularity": 62,
         "data": {
             "key": 9,
             "mode": 1,
@@ -6262,8 +6140,7 @@
             "loudness": -7.869,
             "speechiness": 0.51,
             "valence": 0.0993,
-            "tempo": 156.131,
-            "track_href": "https://api.spotify.com/v1/tracks/05nB8pRwwbKA2fsKK1nOyE"
+            "tempo": 156.131
         }
     },
     {
@@ -6311,8 +6188,7 @@
             "loudness": -7.699,
             "speechiness": 0.207,
             "valence": 0.311,
-            "tempo": 121.025,
-            "track_href": "https://api.spotify.com/v1/tracks/3X8Nrq4TvSd54ymTiXYcD6"
+            "tempo": 121.025
         }
     },
     {
@@ -6364,8 +6240,7 @@
             "loudness": -9.476,
             "speechiness": 0.405,
             "valence": 0.461,
-            "tempo": 164.035,
-            "track_href": "https://api.spotify.com/v1/tracks/3e9XIReZpQHD3X4utMq48M"
+            "tempo": 164.035
         }
     },
     {
@@ -6417,8 +6292,7 @@
             "loudness": -2.966,
             "speechiness": 0.306,
             "valence": 0.364,
-            "tempo": 82.422,
-            "track_href": "https://api.spotify.com/v1/tracks/6K2anECyrckidwf5wxS78Q"
+            "tempo": 82.422
         }
     },
     {
@@ -6470,8 +6344,7 @@
             "loudness": -5.945,
             "speechiness": 0.175,
             "valence": 0.242,
-            "tempo": 138.04,
-            "track_href": "https://api.spotify.com/v1/tracks/7hpCaD1ILnO9GoMQvj5oWI"
+            "tempo": 138.04
         }
     },
     {
@@ -6519,8 +6392,7 @@
             "loudness": -9.202,
             "speechiness": 0.359,
             "valence": 0.155,
-            "tempo": 118.908,
-            "track_href": "https://api.spotify.com/v1/tracks/5hDzdpEb5cG3lhX6EAQqQ8"
+            "tempo": 118.908
         }
     },
     {
@@ -6555,7 +6427,7 @@
         "href": "https://api.spotify.com/v1/tracks/3lyeSiAIdLoZUHhV8psOTI",
         "id": "3lyeSiAIdLoZUHhV8psOTI",
         "name": "Feed Me Dope",
-        "popularity": 54,
+        "popularity": 55,
         "data": {
             "key": 8,
             "mode": 0,
@@ -6568,8 +6440,7 @@
             "loudness": -6.509,
             "speechiness": 0.296,
             "valence": 0.565,
-            "tempo": 150.012,
-            "track_href": "https://api.spotify.com/v1/tracks/3lyeSiAIdLoZUHhV8psOTI"
+            "tempo": 150.012
         }
     },
     {
@@ -6621,8 +6492,7 @@
             "loudness": -5.475,
             "speechiness": 0.168,
             "valence": 0.425,
-            "tempo": 139.948,
-            "track_href": "https://api.spotify.com/v1/tracks/1XRgIKC5TPwo7nWGyKqgG0"
+            "tempo": 139.948
         }
     },
     {
@@ -6661,7 +6531,7 @@
         "href": "https://api.spotify.com/v1/tracks/68MTDH8Kk4jBEV1ah0n89s",
         "id": "68MTDH8Kk4jBEV1ah0n89s",
         "name": "EA (feat. 21 Savage)",
-        "popularity": 61,
+        "popularity": 62,
         "data": {
             "key": 10,
             "mode": 0,
@@ -6674,8 +6544,7 @@
             "loudness": -5.205,
             "speechiness": 0.414,
             "valence": 0.227,
-            "tempo": 87.306,
-            "track_href": "https://api.spotify.com/v1/tracks/68MTDH8Kk4jBEV1ah0n89s"
+            "tempo": 87.306
         }
     },
     {
@@ -6723,8 +6592,7 @@
             "loudness": -2.691,
             "speechiness": 0.221,
             "valence": 0.525,
-            "tempo": 159.958,
-            "track_href": "https://api.spotify.com/v1/tracks/5xpEQ8JRnuKPLDve8ry24T"
+            "tempo": 159.958
         }
     },
     {
@@ -6780,8 +6648,7 @@
             "loudness": -4.331,
             "speechiness": 0.298,
             "valence": 0.752,
-            "tempo": 128.023,
-            "track_href": "https://api.spotify.com/v1/tracks/0VohK45FIUHEMBbfUw8iBM"
+            "tempo": 128.023
         }
     },
     {
@@ -6829,8 +6696,7 @@
             "loudness": -8.324,
             "speechiness": 0.129,
             "valence": 0.112,
-            "tempo": 77.005,
-            "track_href": "https://api.spotify.com/v1/tracks/5vm7y9SmcH0S1NOQanb8rQ"
+            "tempo": 77.005
         }
     },
     {
@@ -6865,7 +6731,7 @@
         "href": "https://api.spotify.com/v1/tracks/2QoXCOyH7MVLGAiZuFgRXB",
         "id": "2QoXCOyH7MVLGAiZuFgRXB",
         "name": "AR Pistols",
-        "popularity": 32,
+        "popularity": 33,
         "data": {
             "key": 9,
             "mode": 1,
@@ -6878,8 +6744,7 @@
             "loudness": -6.851,
             "speechiness": 0.419,
             "valence": 0.272,
-            "tempo": 181.885,
-            "track_href": "https://api.spotify.com/v1/tracks/2QoXCOyH7MVLGAiZuFgRXB"
+            "tempo": 181.885
         }
     },
     {
@@ -6931,8 +6796,7 @@
             "loudness": -4.572,
             "speechiness": 0.216,
             "valence": 0.465,
-            "tempo": 140.055,
-            "track_href": "https://api.spotify.com/v1/tracks/2wzpr7E2FkOISAbYQOtPmZ"
+            "tempo": 140.055
         }
     },
     {
@@ -6980,8 +6844,7 @@
             "loudness": -8.446,
             "speechiness": 0.21,
             "valence": 0.534,
-            "tempo": 160.003,
-            "track_href": "https://api.spotify.com/v1/tracks/2NjeQLvFsfeKdZoA7dbfL1"
+            "tempo": 160.003
         }
     },
     {
@@ -7029,8 +6892,7 @@
             "loudness": -6.546,
             "speechiness": 0.306,
             "valence": 0.566,
-            "tempo": 142.006,
-            "track_href": "https://api.spotify.com/v1/tracks/3DWjFSDEQ9IWz1mj449fB7"
+            "tempo": 142.006
         }
     },
     {
@@ -7078,8 +6940,7 @@
             "loudness": -4.22,
             "speechiness": 0.324,
             "valence": 0.305,
-            "tempo": 61.311,
-            "track_href": "https://api.spotify.com/v1/tracks/57BGVV6wcyhbn3hsjlqEZB"
+            "tempo": 61.311
         }
     },
     {
@@ -7131,8 +6992,7 @@
             "loudness": -5.166,
             "speechiness": 0.0738,
             "valence": 0.444,
-            "tempo": 140.074,
-            "track_href": "https://api.spotify.com/v1/tracks/3liqOtIOxObydJiqru2wr8"
+            "tempo": 140.074
         }
     },
     {
@@ -7171,7 +7031,7 @@
         "href": "https://api.spotify.com/v1/tracks/7qeWNGBqqagdwf4KnjRzGZ",
         "id": "7qeWNGBqqagdwf4KnjRzGZ",
         "name": "U Played (feat. Lil Baby)",
-        "popularity": 69,
+        "popularity": 70,
         "data": {
             "key": 2,
             "mode": 1,
@@ -7184,8 +7044,7 @@
             "loudness": -3.574,
             "speechiness": 0.233,
             "valence": 0.881,
-            "tempo": 134.965,
-            "track_href": "https://api.spotify.com/v1/tracks/7qeWNGBqqagdwf4KnjRzGZ"
+            "tempo": 134.965
         }
     },
     {
@@ -7233,8 +7092,7 @@
             "loudness": -8.208,
             "speechiness": 0.455,
             "valence": 0.309,
-            "tempo": 80.322,
-            "track_href": "https://api.spotify.com/v1/tracks/2b7rt5gCEy2p2zTp656s4U"
+            "tempo": 80.322
         }
     },
     {
@@ -7269,7 +7127,7 @@
         "href": "https://api.spotify.com/v1/tracks/4LZ2Tn1XPRoy70IeEm7peM",
         "id": "4LZ2Tn1XPRoy70IeEm7peM",
         "name": "Crashin' Out",
-        "popularity": 50,
+        "popularity": 51,
         "data": {
             "key": 1,
             "mode": 1,
@@ -7282,8 +7140,7 @@
             "loudness": -5.469,
             "speechiness": 0.272,
             "valence": 0.787,
-            "tempo": 148.013,
-            "track_href": "https://api.spotify.com/v1/tracks/4LZ2Tn1XPRoy70IeEm7peM"
+            "tempo": 148.013
         }
     },
     {
@@ -7355,8 +7212,7 @@
             "loudness": -6.599,
             "speechiness": 0.0563,
             "valence": 0.265,
-            "tempo": 121.793,
-            "track_href": "https://api.spotify.com/v1/tracks/0q3C21uLnMbPVBlO0vaPhi"
+            "tempo": 121.793
         }
     },
     {
@@ -7412,8 +7268,7 @@
             "loudness": -5.877,
             "speechiness": 0.318,
             "valence": 0.598,
-            "tempo": 94.501,
-            "track_href": "https://api.spotify.com/v1/tracks/0DaMA9Qeod1l8d6kmEq4Ay"
+            "tempo": 94.501
         }
     },
     {
@@ -7473,8 +7328,7 @@
             "loudness": -7.548,
             "speechiness": 0.0908,
             "valence": 0.712,
-            "tempo": 94.965,
-            "track_href": "https://api.spotify.com/v1/tracks/0VKtRbgIN0YlDSgIhGLvun"
+            "tempo": 94.965
         }
     },
     {
@@ -7530,8 +7384,7 @@
             "loudness": -9.404,
             "speechiness": 0.649,
             "valence": 0.596,
-            "tempo": 155.918,
-            "track_href": "https://api.spotify.com/v1/tracks/2tbIldU1Cfdpat40wyJKkn"
+            "tempo": 155.918
         }
     },
     {
@@ -7583,8 +7436,7 @@
             "loudness": -4.836,
             "speechiness": 0.0787,
             "valence": 0.321,
-            "tempo": 134.022,
-            "track_href": "https://api.spotify.com/v1/tracks/5e9aFSdnkQUrm5y8Dhw0qN"
+            "tempo": 134.022
         }
     },
     {
@@ -7636,8 +7488,7 @@
             "loudness": -4.63,
             "speechiness": 0.301,
             "valence": 0.568,
-            "tempo": 123.017,
-            "track_href": "https://api.spotify.com/v1/tracks/6uJONCdr2rC65BNmCnTBWK"
+            "tempo": 123.017
         }
     },
     {
@@ -7693,8 +7544,7 @@
             "loudness": -5.808,
             "speechiness": 0.344,
             "valence": 0.472,
-            "tempo": 143.477,
-            "track_href": "https://api.spotify.com/v1/tracks/40mjsnRjCpycdUw3xhS20g"
+            "tempo": 143.477
         }
     },
     {
@@ -7750,8 +7600,7 @@
             "loudness": -4.895,
             "speechiness": 0.225,
             "valence": 0.309,
-            "tempo": 139.864,
-            "track_href": "https://api.spotify.com/v1/tracks/6gi6y1xwmVszDWkUqab1qw"
+            "tempo": 139.864
         }
     },
     {
@@ -7799,8 +7648,7 @@
             "loudness": -9.0,
             "speechiness": 0.255,
             "valence": 0.313,
-            "tempo": 148.009,
-            "track_href": "https://api.spotify.com/v1/tracks/0y7Ao3CVJsyKFmqdjutiIF"
+            "tempo": 148.009
         }
     },
     {
@@ -7835,7 +7683,7 @@
         "href": "https://api.spotify.com/v1/tracks/2FTOLKjQUswhpdMFq15Raf",
         "id": "2FTOLKjQUswhpdMFq15Raf",
         "name": "SPEEDBOAT",
-        "popularity": 63,
+        "popularity": 64,
         "data": {
             "key": 6,
             "mode": 1,
@@ -7848,8 +7696,7 @@
             "loudness": -7.587,
             "speechiness": 0.131,
             "valence": 0.81,
-            "tempo": 120.021,
-            "track_href": "https://api.spotify.com/v1/tracks/2FTOLKjQUswhpdMFq15Raf"
+            "tempo": 120.021
         }
     },
     {
@@ -7897,8 +7744,7 @@
             "loudness": -8.874,
             "speechiness": 0.0766,
             "valence": 0.316,
-            "tempo": 145.971,
-            "track_href": "https://api.spotify.com/v1/tracks/2nYwV62UABTH0NanrwVIdQ"
+            "tempo": 145.971
         }
     },
     {
@@ -7954,8 +7800,7 @@
             "loudness": -9.985,
             "speechiness": 0.256,
             "valence": 0.559,
-            "tempo": 131.97,
-            "track_href": "https://api.spotify.com/v1/tracks/0NoQpbfJ6n7KUY2YlZI1j6"
+            "tempo": 131.97
         }
     },
     {
@@ -8007,8 +7852,7 @@
             "loudness": -5.815,
             "speechiness": 0.088,
             "valence": 0.255,
-            "tempo": 120.051,
-            "track_href": "https://api.spotify.com/v1/tracks/5rk2nRNREUq6TTSS7h11Fr"
+            "tempo": 120.051
         }
     },
     {
@@ -8056,8 +7900,7 @@
             "loudness": -5.973,
             "speechiness": 0.0571,
             "valence": 0.0883,
-            "tempo": 168.202,
-            "track_href": "https://api.spotify.com/v1/tracks/1Rq4GtIucW9CAcF8B6PAbW"
+            "tempo": 168.202
         }
     },
     {
@@ -8105,8 +7948,7 @@
             "loudness": -4.953,
             "speechiness": 0.158,
             "valence": 0.624,
-            "tempo": 141.016,
-            "track_href": "https://api.spotify.com/v1/tracks/4qYVsAquxc797qD5sDVdcJ"
+            "tempo": 141.016
         }
     },
     {
@@ -8154,8 +7996,7 @@
             "loudness": -6.664,
             "speechiness": 0.357,
             "valence": 0.422,
-            "tempo": 139.913,
-            "track_href": "https://api.spotify.com/v1/tracks/6HZILIRieu8S0iqY8kIKhj"
+            "tempo": 139.913
         }
     },
     {
@@ -8203,8 +8044,7 @@
             "loudness": -6.942,
             "speechiness": 0.075,
             "valence": 0.232,
-            "tempo": 105.939,
-            "track_href": "https://api.spotify.com/v1/tracks/5Uj2at1EGAaWCrLyEUuXBp"
+            "tempo": 105.939
         }
     },
     {
@@ -8260,8 +8100,7 @@
             "loudness": -4.476,
             "speechiness": 0.313,
             "valence": 0.349,
-            "tempo": 136.869,
-            "track_href": "https://api.spotify.com/v1/tracks/1KZ0Xo6Mmeprp1Sw5xCHYz"
+            "tempo": 136.869
         }
     },
     {
@@ -8309,8 +8148,7 @@
             "loudness": -7.45,
             "speechiness": 0.315,
             "valence": 0.205,
-            "tempo": 103.974,
-            "track_href": "https://api.spotify.com/v1/tracks/7hsulgRNgbyczeAg8tChCB"
+            "tempo": 103.974
         }
     },
     {
@@ -8370,8 +8208,7 @@
             "loudness": -5.008,
             "speechiness": 0.299,
             "valence": 0.376,
-            "tempo": 137.133,
-            "track_href": "https://api.spotify.com/v1/tracks/51rXHuKN8Loc4sUlKPODgH"
+            "tempo": 137.133
         }
     },
     {
@@ -8419,8 +8256,7 @@
             "loudness": -8.306,
             "speechiness": 0.0859,
             "valence": 0.387,
-            "tempo": 138.049,
-            "track_href": "https://api.spotify.com/v1/tracks/0o7Zga5TFy35CcivyPDO5m"
+            "tempo": 138.049
         }
     },
     {
@@ -8484,8 +8320,7 @@
             "loudness": -5.944,
             "speechiness": 0.093,
             "valence": 0.197,
-            "tempo": 117.957,
-            "track_href": "https://api.spotify.com/v1/tracks/0PDwNx6GrHc5sRVy6Hc7GP"
+            "tempo": 117.957
         }
     },
     {
@@ -8537,8 +8372,7 @@
             "loudness": -4.002,
             "speechiness": 0.232,
             "valence": 0.622,
-            "tempo": 140.14,
-            "track_href": "https://api.spotify.com/v1/tracks/6HicBL9RxtWwNK7sS2AHHU"
+            "tempo": 140.14
         }
     },
     {
@@ -8586,8 +8420,7 @@
             "loudness": -8.074,
             "speechiness": 0.123,
             "valence": 0.423,
-            "tempo": 154.983,
-            "track_href": "https://api.spotify.com/v1/tracks/0TlLq3lA83rQOYtrqBqSct"
+            "tempo": 154.983
         }
     },
     {
@@ -8639,8 +8472,7 @@
             "loudness": -5.221,
             "speechiness": 0.3,
             "valence": 0.382,
-            "tempo": 141.001,
-            "track_href": "https://api.spotify.com/v1/tracks/5YGhm6pI5s0uxJ2DwrDYqO"
+            "tempo": 141.001
         }
     },
     {
@@ -8696,8 +8528,7 @@
             "loudness": -3.791,
             "speechiness": 0.244,
             "valence": 0.405,
-            "tempo": 175.957,
-            "track_href": "https://api.spotify.com/v1/tracks/2DQ1ITjI0YoLFzuADN1ZBW"
+            "tempo": 175.957
         }
     },
     {
@@ -8749,8 +8580,7 @@
             "loudness": -6.651,
             "speechiness": 0.298,
             "valence": 0.203,
-            "tempo": 154.823,
-            "track_href": "https://api.spotify.com/v1/tracks/2HEACm14WJGvQZpQ2TKoqK"
+            "tempo": 154.823
         }
     },
     {
@@ -8806,8 +8636,7 @@
             "loudness": -5.709,
             "speechiness": 0.06,
             "valence": 0.815,
-            "tempo": 170.004,
-            "track_href": "https://api.spotify.com/v1/tracks/5fHrHoJKfCgBd35zwIBmUK"
+            "tempo": 170.004
         }
     },
     {
@@ -8855,8 +8684,7 @@
             "loudness": -4.065,
             "speechiness": 0.235,
             "valence": 0.812,
-            "tempo": 145.981,
-            "track_href": "https://api.spotify.com/v1/tracks/2xv48INYWXzGfcHRUxekM9"
+            "tempo": 145.981
         }
     },
     {
@@ -8891,7 +8719,7 @@
         "href": "https://api.spotify.com/v1/tracks/1lUTmmPMAsxZBR2iK9CKDF",
         "id": "1lUTmmPMAsxZBR2iK9CKDF",
         "name": "Me Vs Me",
-        "popularity": 71,
+        "popularity": 72,
         "data": {
             "key": 5,
             "mode": 0,
@@ -8904,8 +8732,7 @@
             "loudness": -4.537,
             "speechiness": 0.209,
             "valence": 0.625,
-            "tempo": 130.999,
-            "track_href": "https://api.spotify.com/v1/tracks/1lUTmmPMAsxZBR2iK9CKDF"
+            "tempo": 130.999
         }
     },
     {
@@ -8953,8 +8780,7 @@
             "loudness": -9.028,
             "speechiness": 0.259,
             "valence": 0.274,
-            "tempo": 155.029,
-            "track_href": "https://api.spotify.com/v1/tracks/5aZrmUOr1kL5U6cg0WZNyw"
+            "tempo": 155.029
         }
     },
     {
@@ -9006,8 +8832,7 @@
             "loudness": -5.899,
             "speechiness": 0.0914,
             "valence": 0.374,
-            "tempo": 140.058,
-            "track_href": "https://api.spotify.com/v1/tracks/2TqfASuL5JRds7bJX01PdZ"
+            "tempo": 140.058
         }
     },
     {
@@ -9055,8 +8880,7 @@
             "loudness": -5.425,
             "speechiness": 0.0819,
             "valence": 0.405,
-            "tempo": 141.016,
-            "track_href": "https://api.spotify.com/v1/tracks/568OIKgeHyGRD3uWR44JbO"
+            "tempo": 141.016
         }
     },
     {
@@ -9108,8 +8932,7 @@
             "loudness": -5.313,
             "speechiness": 0.244,
             "valence": 0.175,
-            "tempo": 127.076,
-            "track_href": "https://api.spotify.com/v1/tracks/4Km5HrUvYTaSUfiSGPJeQR"
+            "tempo": 127.076
         }
     },
     {
@@ -9161,8 +8984,7 @@
             "loudness": -5.662,
             "speechiness": 0.264,
             "valence": 0.741,
-            "tempo": 141.967,
-            "track_href": "https://api.spotify.com/v1/tracks/6p8NuHm8uCGnn2Dtbtf7zE"
+            "tempo": 141.967
         }
     },
     {
@@ -9210,8 +9032,7 @@
             "loudness": -4.851,
             "speechiness": 0.267,
             "valence": 0.496,
-            "tempo": 130.014,
-            "track_href": "https://api.spotify.com/v1/tracks/0jOfl1nZf6sVBTG08Q4brn"
+            "tempo": 130.014
         }
     },
     {
@@ -9259,8 +9080,7 @@
             "loudness": -3.69,
             "speechiness": 0.044,
             "valence": 0.0564,
-            "tempo": 150.007,
-            "track_href": "https://api.spotify.com/v1/tracks/7wBJfHzpfI3032CSD7CE2m"
+            "tempo": 150.007
         }
     },
     {
@@ -9308,8 +9128,7 @@
             "loudness": -5.366,
             "speechiness": 0.0547,
             "valence": 0.713,
-            "tempo": 147.98,
-            "track_href": "https://api.spotify.com/v1/tracks/27a1mYSG5tYg7dmEjWBcmL"
+            "tempo": 147.98
         }
     },
     {
@@ -9365,8 +9184,7 @@
             "loudness": -6.754,
             "speechiness": 0.265,
             "valence": 0.507,
-            "tempo": 114.449,
-            "track_href": "https://api.spotify.com/v1/tracks/7Ks4VCY1wFebnOdJrM13t6"
+            "tempo": 114.449
         }
     },
     {
@@ -9414,8 +9232,7 @@
             "loudness": -6.638,
             "speechiness": 0.102,
             "valence": 0.421,
-            "tempo": 150.011,
-            "track_href": "https://api.spotify.com/v1/tracks/7KXjTSCq5nL1LoYtL7XAwS"
+            "tempo": 150.011
         }
     },
     {
@@ -9463,8 +9280,7 @@
             "loudness": -4.08,
             "speechiness": 0.305,
             "valence": 0.27,
-            "tempo": 176.058,
-            "track_href": "https://api.spotify.com/v1/tracks/5Mtt6tZSZA9cXTHGSGpyh0"
+            "tempo": 176.058
         }
     },
     {
@@ -9516,8 +9332,7 @@
             "loudness": -6.815,
             "speechiness": 0.271,
             "valence": 0.217,
-            "tempo": 91.048,
-            "track_href": "https://api.spotify.com/v1/tracks/2cDCojn6uIBM6A5xTAbl3H"
+            "tempo": 91.048
         }
     },
     {
@@ -9565,8 +9380,7 @@
             "loudness": -7.601,
             "speechiness": 0.3,
             "valence": 0.646,
-            "tempo": 77.878,
-            "track_href": "https://api.spotify.com/v1/tracks/3aGibUHhQyBsyumYHylw0K"
+            "tempo": 77.878
         }
     },
     {
@@ -9618,8 +9432,7 @@
             "loudness": -7.015,
             "speechiness": 0.276,
             "valence": 0.486,
-            "tempo": 186.003,
-            "track_href": "https://api.spotify.com/v1/tracks/7MXVkk9YMctZqd1Srtv4MB"
+            "tempo": 186.003
         }
     },
     {
@@ -9667,8 +9480,7 @@
             "loudness": -8.389,
             "speechiness": 0.105,
             "valence": 0.218,
-            "tempo": 77.525,
-            "track_href": "https://api.spotify.com/v1/tracks/4F7A0DXBrmUAkp32uenhZt"
+            "tempo": 77.525
         }
     },
     {
@@ -9716,8 +9528,7 @@
             "loudness": -1.644,
             "speechiness": 0.303,
             "valence": 0.681,
-            "tempo": 93.058,
-            "track_href": "https://api.spotify.com/v1/tracks/0zLClc0emc6qUeV1p5nc99"
+            "tempo": 93.058
         }
     },
     {
@@ -9773,8 +9584,7 @@
             "loudness": -5.903,
             "speechiness": 0.351,
             "valence": 0.623,
-            "tempo": 134.937,
-            "track_href": "https://api.spotify.com/v1/tracks/586NBLeYCKcm1xzl0UkLrS"
+            "tempo": 134.937
         }
     },
     {
@@ -9826,8 +9636,7 @@
             "loudness": -7.965,
             "speechiness": 0.322,
             "valence": 0.622,
-            "tempo": 142.863,
-            "track_href": "https://api.spotify.com/v1/tracks/4CyVNT1GetKtrMllHm4ts2"
+            "tempo": 142.863
         }
     },
     {
@@ -9875,8 +9684,7 @@
             "loudness": -9.537,
             "speechiness": 0.102,
             "valence": 0.213,
-            "tempo": 146.023,
-            "track_href": "https://api.spotify.com/v1/tracks/4J40RO4Bu5v9kFly7LXO2C"
+            "tempo": 146.023
         }
     },
     {
@@ -9936,8 +9744,7 @@
             "loudness": -9.047,
             "speechiness": 0.271,
             "valence": 0.403,
-            "tempo": 139.995,
-            "track_href": "https://api.spotify.com/v1/tracks/6slucYWVAkGbdMXxrmwMED"
+            "tempo": 139.995
         }
     },
     {
@@ -9985,8 +9792,7 @@
             "loudness": -8.526,
             "speechiness": 0.0918,
             "valence": 0.857,
-            "tempo": 175.003,
-            "track_href": "https://api.spotify.com/v1/tracks/27NiZkL9ZtOIF2TXkZcYgg"
+            "tempo": 175.003
         }
     },
     {
@@ -10038,8 +9844,7 @@
             "loudness": -8.416,
             "speechiness": 0.245,
             "valence": 0.472,
-            "tempo": 75.007,
-            "track_href": "https://api.spotify.com/v1/tracks/3760XkHe8CNFLNW0uEsFNg"
+            "tempo": 75.007
         }
     },
     {
@@ -10095,8 +9900,7 @@
             "loudness": -5.608,
             "speechiness": 0.222,
             "valence": 0.236,
-            "tempo": 145.976,
-            "track_href": "https://api.spotify.com/v1/tracks/6ZelF5APDN5r6XnFqcnvWR"
+            "tempo": 145.976
         }
     },
     {
@@ -10160,8 +9964,7 @@
             "loudness": -6.541,
             "speechiness": 0.24,
             "valence": 0.191,
-            "tempo": 96.988,
-            "track_href": "https://api.spotify.com/v1/tracks/6I6dBuvQUBd3QbfiuMHm02"
+            "tempo": 96.988
         }
     },
     {
@@ -10249,8 +10052,7 @@
             "loudness": -6.537,
             "speechiness": 0.377,
             "valence": 0.381,
-            "tempo": 89.387,
-            "track_href": "https://api.spotify.com/v1/tracks/2kY2ROHIGdp3aA6ahqaUKm"
+            "tempo": 89.387
         }
     },
     {
@@ -10302,8 +10104,7 @@
             "loudness": -6.181,
             "speechiness": 0.436,
             "valence": 0.312,
-            "tempo": 164.879,
-            "track_href": "https://api.spotify.com/v1/tracks/1D5dKs5tA5cIUp85HJdUAC"
+            "tempo": 164.879
         }
     },
     {
@@ -10338,7 +10139,7 @@
         "href": "https://api.spotify.com/v1/tracks/0kSnpKOS1bUguBGe2z661G",
         "id": "0kSnpKOS1bUguBGe2z661G",
         "name": "Took Her To The O",
-        "popularity": 64,
+        "popularity": 65,
         "data": {
             "key": 1,
             "mode": 1,
@@ -10351,8 +10152,255 @@
             "loudness": -6.465,
             "speechiness": 0.375,
             "valence": 0.479,
-            "tempo": 159.98,
-            "track_href": "https://api.spotify.com/v1/tracks/0kSnpKOS1bUguBGe2z661G"
+            "tempo": 159.98
+        }
+    },
+    {
+        "album": {
+            "id": "7Et3bSTLLqdABO1qCxUplS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27336977e237a8f70ec6c990636",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0236977e237a8f70ec6c990636",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485136977e237a8f70ec6c990636",
+                    "width": 64
+                }
+            ],
+            "name": "Oxymoron (Deluxe)"
+        },
+        "artists": [
+            {
+                "id": "5IcR3N7QB1j6KBL8eImZ8m",
+                "name": "ScHoolboy Q"
+            },
+            {
+                "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                "name": "Kendrick Lamar"
+            }
+        ],
+        "duration_ms": 299960,
+        "href": "https://api.spotify.com/v1/tracks/0zO8ctW0UiuOefR87OeJOZ",
+        "id": "0zO8ctW0UiuOefR87OeJOZ",
+        "name": "Collard Greens",
+        "popularity": 73,
+        "data": {
+            "key": 11,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.025,
+            "danceability": 0.825,
+            "energy": 0.575,
+            "instrumentalness": 9.94e-06,
+            "liveness": 0.205,
+            "loudness": -4.87,
+            "speechiness": 0.0633,
+            "valence": 0.65,
+            "tempo": 153.954
+        }
+    },
+    {
+        "album": {
+            "id": "41GuZcammIkupMPKH2OJ6I",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02072e9faef2ef7b6db63834a3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851072e9faef2ef7b6db63834a3",
+                    "width": 64
+                }
+            ],
+            "name": "ASTROWORLD"
+        },
+        "artists": [
+            {
+                "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+                "name": "Travis Scott"
+            }
+        ],
+        "duration_ms": 312820,
+        "href": "https://api.spotify.com/v1/tracks/2xLMifQCjDGFmkHkpNLD9h",
+        "id": "2xLMifQCjDGFmkHkpNLD9h",
+        "name": "SICKO MODE",
+        "popularity": 88,
+        "data": {
+            "key": 8,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.00513,
+            "danceability": 0.834,
+            "energy": 0.73,
+            "instrumentalness": 0,
+            "liveness": 0.124,
+            "loudness": -3.714,
+            "speechiness": 0.222,
+            "valence": 0.446,
+            "tempo": 155.008
+        }
+    },
+    {
+        "album": {
+            "id": "0jPxLnAkjK20xnotuijSUx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273daecac75149209ab62853f0b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02daecac75149209ab62853f0b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851daecac75149209ab62853f0b",
+                    "width": 64
+                }
+            ],
+            "name": "Sincerely, Tokyo"
+        },
+        "artists": [
+            {
+                "id": "5SyGEPymt1G2uto47tVWvZ",
+                "name": "MadeinTYO"
+            }
+        ],
+        "duration_ms": 165293,
+        "href": "https://api.spotify.com/v1/tracks/0fABHG5a7RnqBlOKOwhWZD",
+        "id": "0fABHG5a7RnqBlOKOwhWZD",
+        "name": "Chucky Cheese",
+        "popularity": 63,
+        "data": {
+            "key": 10,
+            "mode": 0,
+            "time_signature": 4,
+            "acousticness": 0.523,
+            "danceability": 0.89,
+            "energy": 0.542,
+            "instrumentalness": 0,
+            "liveness": 0.123,
+            "loudness": -4.826,
+            "speechiness": 0.314,
+            "valence": 0.565,
+            "tempo": 78.458
+        }
+    },
+    {
+        "album": {
+            "id": "0jPxLnAkjK20xnotuijSUx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273daecac75149209ab62853f0b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02daecac75149209ab62853f0b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851daecac75149209ab62853f0b",
+                    "width": 64
+                }
+            ],
+            "name": "Sincerely, Tokyo"
+        },
+        "artists": [
+            {
+                "id": "5SyGEPymt1G2uto47tVWvZ",
+                "name": "MadeinTYO"
+            },
+            {
+                "id": "5dHt1vcEm9qb8fCyLcB3HL",
+                "name": "A$AP Ferg"
+            }
+        ],
+        "duration_ms": 161013,
+        "href": "https://api.spotify.com/v1/tracks/2EUNZfjPToKZIahK0WMLKd",
+        "id": "2EUNZfjPToKZIahK0WMLKd",
+        "name": "Ned Flanders (feat. A$AP Ferg)",
+        "popularity": 63,
+        "data": {
+            "key": 1,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0254,
+            "danceability": 0.936,
+            "energy": 0.495,
+            "instrumentalness": 0,
+            "liveness": 0.087,
+            "loudness": -6.062,
+            "speechiness": 0.229,
+            "valence": 0.299,
+            "tempo": 139.951
+        }
+    },
+    {
+        "album": {
+            "id": "5RYrgGSMiYXGF8iwj2i1wF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735aa0595fedf70e27dca892c7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025aa0595fedf70e27dca892c7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515aa0595fedf70e27dca892c7",
+                    "width": 64
+                }
+            ],
+            "name": "So Help Me God!"
+        },
+        "artists": [
+            {
+                "id": "17lzZA2AlOHwCwFALHttmp",
+                "name": "2 Chainz"
+            }
+        ],
+        "duration_ms": 171837,
+        "href": "https://api.spotify.com/v1/tracks/6jzW19SQaLj1kLArvipGQZ",
+        "id": "6jzW19SQaLj1kLArvipGQZ",
+        "name": "Grey Area",
+        "popularity": 72,
+        "data": {
+            "key": 11,
+            "mode": 1,
+            "time_signature": 4,
+            "acousticness": 0.0679,
+            "danceability": 0.897,
+            "energy": 0.767,
+            "instrumentalness": 0.000364,
+            "liveness": 0.129,
+            "loudness": -4.544,
+            "speechiness": 0.0959,
+            "valence": 0.675,
+            "tempo": 134.913
         }
     }
 ]
