@@ -1,7 +1,13 @@
+import os
 import pandas as pd
 
 from typing import Tuple
 from sklearn.model_selection import train_test_split
+
+LIKED_RAP = 'likedRapSongs.csv'
+LIKED_HIPHOP = 'likedHipHopSongs.csv'
+DISLIKED_HIPHOP = 'dislikedSongsHipHop.csv'
+ALL_GENRES = 'allGenres.csv'
 
 
 def getSplitData() -> Tuple[pd.DataFrame, pd.Series]:
@@ -24,11 +30,11 @@ def loadData() -> pd.DataFrame:
                    'Tempo']
 
     # Load and concatenate the data
-    likedRapSongs = pd.read_csv('data/likedRapSongs.csv')
+    likedRapSongs = pd.read_csv(os.path.join('data', LIKED_HIPHOP))
     likedSongs = likedRapSongs[dataColumns]
     likedSongs['Liked'] = 1
 
-    dislikedSongs = pd.read_csv('data/dislikedSongsHipHop.csv')
+    dislikedSongs = pd.read_csv(os.path.join('data', DISLIKED_HIPHOP))
     dislikedSongs = dislikedSongs[dataColumns]
     dislikedSongs['Liked'] = 0
 

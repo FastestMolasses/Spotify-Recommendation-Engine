@@ -102,6 +102,7 @@ if __name__ == '__main__':
     testingSongs = allSongs.loc[~allSongs.index.isin(trainingSongs.index)]
 
     n = NaiveBayesClassifier(trainingSongs.loc[trainingSongs['Liked'] == 1],  # Liked songs
-                                trainingSongs.loc[trainingSongs['Liked'] == 0])  # Disliked songs
+                             trainingSongs.loc[trainingSongs['Liked'] == 0])  # Disliked songs
 
-    n.predictSongs(testingSongs)
+    correct, incorrect, accuracy = n.predictSongs(testingSongs)
+    print(accuracy)
