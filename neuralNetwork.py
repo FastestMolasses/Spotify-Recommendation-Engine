@@ -1,35 +1,18 @@
 import numpy as np
 import pandas as pd
 
+from typing import Tuple
+from helper import getSplitData
+from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.neural_network import MLPClassifier
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report, accuracy_score
 
 
-if __name__ == '__main__':
-    # Ignores a false positive warning relating to copying and combining DataFrames
-    pd.options.mode.chained_assignment = None
-
-    dataColumns = ['Mode', 'Time Signature', 'Acousticness', 'Danceability', 'Energy',
-                   'Instrumentalness', 'Liveness', 'Loudness', 'Speechiness', 'Valence', 'Tempo']
-
-    # Load and concatenate the data
-    likedRapSongs = pd.read_csv('data/likedRapSongs.csv')
-    likedSongs = likedRapSongs[dataColumns]
-    likedSongs['Liked'] = 1
-
-    dislikedSongs = pd.read_csv('data/dislikedSongsHipHop.csv')
-    dislikedSongs = dislikedSongs[dataColumns]
-    dislikedSongs['Liked'] = 0
-
-    allSongs = pd.concat([likedSongs, dislikedSongs])
-    X = allSongs[dataColumns]
-    y = allSongs['Liked']
-
-    # Split the data
-    xTrain, xTest, yTrain, yTest = train_test_split(X, y)
-
+def trainMLP(xTrain: pd.DataFrame, xTest: pd.DataFrame,
+             yTrain: pd.DataFrame, yTest: pd.DataFrame) -> MLPClassifier:
+    """
+        Trains the MLP with the provided data and returns the model.
+    """
     # Feature scaling
     scaler = StandardScaler()
     scaler.fit(xTrain)
@@ -38,13 +21,33 @@ if __name__ == '__main__':
     xTest = scaler.transform(xTest)
 
     # Train
-    mlp = MLPClassifier(hidden_layer_sizes=(12, 7),
-                        random_state=1,
+    mlp = MLPClassifier(hidden_layer_sizes=(12, 8, 4),
+                        random_state=1,  # To get reproducible outputs
                         activation='tanh',
-                        max_iter=1000,
+                        max_iter=2000,  # Epochs
                         batch_size=64)
     mlp.fit(xTrain, yTrain)
 
-    # Test
+    return mlp
+
+
+def predict(mlp: MLPClassifier, xTest: pd.DataFrame,
+            yTest: pd.DataFrame) -> Tuple[np.ndarray, np.float64]:
+    """
+        Predicts whether we will like the songs or not,
+        and gives an accuracy score.
+    """
     predictions = mlp.predict(xTest)
-    print(accuracy_score(yTest, predictions))
+    return predictions, accuracy_score(yTest, predictions)
+
+
+if __name__ == '__main__':
+    # Ignores a false positive warning relating to copying and combining DataFrames
+    pd.options.mode.chained_assignment = None
+
+    # Training
+    xTrain, xTest, yTrain, yTest = getSplitData()
+    mlp = trainMLP(xTrain, xTest, yTrain, yTest)
+
+    # Testing
+    predictions, accuracy = predict(mlp, xTest, yTest)
